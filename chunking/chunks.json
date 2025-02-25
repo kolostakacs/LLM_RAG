@@ -1,0 +1,662 @@
+[
+    {
+        "chunk_id": 0,
+        "cím": "Kérdés",
+        "leírás": "Válasz"
+    },
+    {
+        "chunk_id": 1,
+        "cím": "Szeretnék felvenni 10 millió forint hitelt a Gránit Banknál. Milyen lehetőségeim vannak erre?",
+        "leírás": "Hiteltermékeink:\n- Babaváró Kölcsön: maximum 11 millió Ft\n- CSOK Plusz Lakáshitel: maximum 50 millió Ft\n- Gránit Lakáshitel \n- Szabadfelhasználású jelzáloghitel\nTovábbi információkért kérjük látogasson el a https://granitbank.hu/lakossag/hitelek/ honlapra."
+    },
+    {
+        "chunk_id": 2,
+        "cím": "Kaphatok hitelt, ha nincs bejelentett jövedelmem, mert készpénzben kapom a fizetésem?",
+        "leírás": "Sajnos hitelt nem áll módunkban nyújtani bejelentett jövedelem igazolása nélkül."
+    },
+    {
+        "chunk_id": 3,
+        "cím": "Mikor és hogyan tudom előtörleszteni a hitelt?",
+        "leírás": "Előtörleszteni a hitelt a futamidő alatt bármikor lehetséges, részben vagy teljes egészében. Az előtörlesztési szándékot írásban, NetBank levél formájában kell bejelenteni, meghatározva az előtörlesztés összegét. Az előtörlesztés díját a hirdetmény tartalmazza.\nKérjük ellenőrizd kölcsönszerződését. Ha a Kölcsönszerződés aláírását követő 4 éven belül teljes előtörlesztést, illetve a kölcsön több mint 50%-át elérő összegben előtörlesztést teljesít, a hitel igénylésekor kapott  kedvezményeket is vissza kell fizetnie. "
+    },
+    {
+        "chunk_id": 4,
+        "cím": "Mennyi a piaci kamatozású lakáshitel THM maximuma a Gránit Banknál?",
+        "leírás": "A hitellel kapcsolatos információk ezen a [linken](https://granitbank.hu/api/cms/assets/ACC2A12D-8D84-4362-8B8F-E0AD977445FD//HIRDETMENY_a_jelzalogjog_fedezete_mellett_nyujtott_lakossagi_hitelekrol_20241101_tol.pdf) érhetőek el"
+    },
+    {
+        "chunk_id": 5,
+        "cím": "Mekkora a GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön éves kamata?",
+        "leírás": "A GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön már nem elérhető hiteltermék. Ha meglévő hiteleddel kapcsolatban lenne kérdésed, kérlek keresd a hitelreferensed, vagy írj a jelzaloghitel@granitbank.hu-ra"
+    },
+    {
+        "chunk_id": 6,
+        "cím": "Mik a feltételei a folyószámlahitel igénylésének?",
+        "leírás": "A Gránit Banknál a folyószámlahitel igénylésének feltételei a következők:\n\n- Legalább 18 éves, de a 65. életévét még be nem töltött, cselekvőképes devizabelföldi természetes személy.\n\n- Érvényes lakossági bankszámla a Gránit Banknál.\n\n- Megfelelő fizetőképesség és készség.\n\n- Rendszeres jövedelem jóváírás a bankszámlán (pl. munkabér, nyugdíj) min. 216.790 Ft összegben.\n\n- Pozitív számlamúlt, bármely magyarországi hitelintézetnél aktív bankszámlával (jóváírást és terhelést tartalmazó).\n\n- Érvényes személyes elérhetőségek és munkahelyi adatok megadása (kivéve nyugdíjas esetén).\n\n- Nem szerepel a Központi Hitelinformációs Rendszerben (KHR).\n\n- Bejelentett magyarországi lakóhely.\n\n- Érvényes telefonos elérhetőség (vezetékes vagy mobil).\n\nRészletekért és a konkrét dokumentumokért kérjük, tekintsd meg a [Lakossági bankszámlához kapcsolódó hitelkeret (Folyószámlahitel) szerződési tájékoztató](https://granitbank.hu/api/cms/assets/695A728A-AA31-4CB4-9B9D-A0F61E97AEC7/Kiegeszito_tajekoztatas_folyoszamlahitelrol_20240201.pdf?)-ban található információkat."
+    },
+    {
+        "chunk_id": 7,
+        "cím": "Milyen lakossági hitelek érhetők el a Gránit Banknál?",
+        "leírás": "A Gránit Banknál elérhető hitelek:\n\n- Ingatlant terhelő zálogjoggal biztosított kölcsön \n- CSOK Plusz hitelprogram\n- Babaváró kamattámogatott kölcsön\n- Folyószámlahitel (50 000 Ft - 1 000 000 Ft)\n- MFB Pont Plusz Otthonfelújítási Program\n\nHa részletesebb információra van szükséged, jelezd bátran! https://granitbank.hu/lakossag/hitelek/"
+    },
+    {
+        "chunk_id": 8,
+        "cím": "Folyószámlahitelt milyen munkabérrel tudok igényelni? Mi a minimum jövedelem?",
+        "leírás": "A szükséges minimális jövedelem: nettó 216.790 Ft"
+    },
+    {
+        "chunk_id": 9,
+        "cím": "Mekkora összegű CSOK Plusz hitel igényelhető meglévő gyermek esetén?",
+        "leírás": "A CSOK Plusz Lakáshitel összege a meglévő és vállalt gyermekeitek számától függ.\nCsak meglévő gyermekre CSOK Plusz lakáshitel nem igényelhető, mindenképpen szükséges legalább 1 gyermeket vállalni.A kölcsön maximális összege a melévő és vállalt gyermekek együttes számától függ.\nÚj lakás építése vagy vásárlás esetén:\n\n\"0 meglévő és 1 tervezett gyermek esetén: 15 millió forint 0 meglévő és 2 tervezett gyermek esetén: 30 millió forint 0 vagy több meglévő és 3 vagy több tervezett gyermek esetén: 50 millió ft 1 meglévő és 1 tervezett gyermek esetén: 30 millió forint 1 vagy több meglévő és 2 tervezett gyermek esetén: 50 millió forint 2 vagy több meglévő gyermek esetén és 1 tervezett gyermek esetén 50 millió forint"
+    },
+    {
+        "chunk_id": 10,
+        "cím": "Van életkori korlát a hitel igénylésére?",
+        "leírás": "Igen, a Gránit Bank meghatározott életkori korlátokat alkalmaz a hiteligénylésre:\n\nIngatlant terhelő zálogjoggal biztosított kölcsön: Ha a hiteligénylő a hitel futamideje alatt betölti a 75. életévét, akkor további biztosíték, például hitelfedezeti életbiztosítás kötelező lehet.\nFolyószámlahitelt a GRÁNIT Banknál lakossági forint bankszámlával rendelkező, 18. életévét betöltött, de a 65. életévét még be nem töltött, cselekvőképes devizabelföldi természetes személy igényelheti.\n"
+    },
+    {
+        "chunk_id": 11,
+        "cím": "Vásárolni szeretnék egy lakást, de azt nem szeretném jelzáloggal terhelni. Másik ingatlant ajánlok fel. Megtehetem?",
+        "leírás": "Igen, megteheted, amennyiben nem CSOK Plusz lakáshitelt igényelsz. A kölcsön fedezeteként szolgáló ingatlan nem feltétlenül kell a vásárolt lakás legyen, hanem más ingatlan is felajánlható fedezetként, ha az megfelel a bank által támasztott követelményeknek.\n\nJelzáloghitellel kapcsolatos kérdések esetén érdeklődhetsz az alábbi elérhetőségeken:\n+36 1 881 2688\nemail:jelzaloghitel@granitbank.hu"
+    },
+    {
+        "chunk_id": 12,
+        "cím": "A Gránit Banknál szeretnék hitelt felvenni. Hol kérhetek segítséget a hiteligényléshez?",
+        "leírás": "A hiteligényléshez segítséget igényelhetsz a következő módokon:\n\nJelzáloghitellel kapcsolatos kérdések esetén érdeklődhetsz az alábbi elérhetőségeken:\n+36 1 881 2688\nemail:jelzaloghitel@granitbank.hu"
+    },
+    {
+        "chunk_id": 13,
+        "cím": "Babaváró hitelhez milyen dokumentumok szükségesek?",
+        "leírás": "A Babaváró hitelhez szükséges dokumentumok listája az alábbi linken érthető el: https://granitbank.hu/api/cms/assets/F1D4232F-2C85-4D81-A332-FF329AA5683C/Igenyleshez%20szukseges%20dokumentumok.pdf?"
+    },
+    {
+        "chunk_id": 14,
+        "cím": "Hogyan igényelhetek CSOK Plusz hitelt?",
+        "leírás": "A CSOK Plusz hitel igényléséhez kövesd az alábbi lépéseket:\n\n**Kölcsönkérelem benyújtása**:\n\n- Benyújthatod személyesen a Bank fiókjaiban, vagy online módon.\n- Végezz a chatbot segítségével kalkulációt, és a hivatalos előbírálati folyamatot.\n- Töltsd ki a szükséges nyomtatványokat és csatold a hitelbírálathoz szükséges dokumentumokat.\n\n**Jogosultsági igazolások**:\n\n- Bizonyítsd, hogy nincs nyilvántartott lejárt tartozásod vagy a korábbi tartozásod egy éven belül rendezted.\n- Nyilatkozz arról, hogy a gyermekeid után még nem igényeltél más támogatást.\n- Biztosítsd a büntetlen előélet igazolását és a TB ellátásra való jogosultságodat.\n\n**Dokumentumok megőrzése**:\n\nTudj róla, hogy az összes benyújtott számlát és igazolást meg kell őrizned 5 évig.\nA részletek: https://granitbank.hu/lakossag/hitelek/csokplusz/"
+    },
+    {
+        "chunk_id": 15,
+        "cím": "Mennyi a jelzáloghitel közjegyzői díja?",
+        "leírás": "A jelzáloghitel közjegyzői díja a közjegyzői díjszabás szerint kerül megállapításra. Pontos összeget a közjegyző határozza meg az adott ügylet alapján. Ha csak CSOK Plusz lakáshitelt igényelsz, akkor a közjegyzői díj maximum 27 500 Ft"
+    },
+    {
+        "chunk_id": 16,
+        "cím": "Elválok a férjemtől. Ha jelzálog alapú hitellel szeretném kifizetni a férjemnek a válás után a ház árának felét, jogosult lehetek hitelre?",
+        "leírás": "Jogosult lehetsz jelzálog alapú hitelre a ház árának felének kiegyenlítésére, amennyiben:\n\n1. Megfelelsz a bank hitelképességi feltételeinek.\n2. Az ingatlan, amit fedezetként ajánlasz fel, megfelel a bank követelményeinek.\n3. Minden szükséges tulajdonostárs/aláíró elfogadja az ingatlan terhelését.\nA válási papírok és a vagyonjogi megállapodás benyújtására is szükség lesz.\nTovábbi kérdések esetén érdeklődhetsz az alábbi elérhetőségeken:\n+36 1 881 2688\nemail: jelzaloghitel@granitban.hu"
+    },
+    {
+        "chunk_id": 17,
+        "cím": "Hány év a maximális törlesztési idő?",
+        "leírás": "A törlesztési idő maximális hossza hiteltípustól függően változó:\n\n- GRÁNIT Lakáshitel: maximum 35 év\n\n- GRÁNIT Szabadfelhasználású hitel: 35 év\n\n- GRÁNIT CSOK Plusz: 25 év\n\n- GRÁNIT Babaváró: 20 év"
+    },
+    {
+        "chunk_id": 18,
+        "cím": "Hány év a maximális törlesztési idő a Gránit Babaváró hitelnél?",
+        "leírás": "A Gránit Babaváró hitel maximális törlesztési ideje 20 év."
+    },
+    {
+        "chunk_id": 19,
+        "cím": "Hány év a maximális törlesztési idő a Gránit Lakáshitelnél?",
+        "leírás": "A Gránit Lakáshitel maximális törlesztési ideje 35 év."
+    },
+    {
+        "chunk_id": 20,
+        "cím": "Hány év a maximális törlesztési idő a CSOK Plusz hitel esetében?",
+        "leírás": "A Gránit CSOK Plusz hitel maximális törlesztési ideje 25 év."
+    },
+    {
+        "chunk_id": 21,
+        "cím": "Egy másik banknál lévő személyi kölcsönt ki lehet váltani Gránit Bank-i hitel segítségével?",
+        "leírás": "Igen, meglévő személyi kölcsönt ki lehet váltani Gránit Banknál jelzáloghitellel, ha megfelel az új hitelbírálat feltételeinek."
+    },
+    {
+        "chunk_id": 22,
+        "cím": "Van személyi kölcsön a Gránit Banknál?",
+        "leírás": "Jelenleg nincs személyi kölcsön a Gránit Banknál."
+    },
+    {
+        "chunk_id": 23,
+        "cím": "Személyi kölcsönt szeretnék felvenni. Mi a teendő?",
+        "leírás": "Jelenleg nem érhető el a Gránit Banknál személyi kölcsön termék."
+    },
+    {
+        "chunk_id": 24,
+        "cím": "BAR listás vagyok. Kaphatok hitelt?",
+        "leírás": "BAR listás személyként nem kaphatsz hitelt"
+    },
+    {
+        "chunk_id": 25,
+        "cím": "Mik a Babaváró hitel igénylésének feltételei?",
+        "leírás": "A Babaváró hitel igénylésének fő feltételei:\n\n**Házasságban élő személyek igényelhetik.**\n\n**A feleség életkora:**\n2024.01.01-től 2024.12.31-ig:: 23-30 év között, illetve 30-41 év között, ha legalább 12 hetes várandósságot igazol.\n2025.01.01.-től Babaváró hitel csak akkor igényelhető, ha a feleség még nem töltötte be a 30. életévét.\n\n**Magyarországi lakcím.**\n\n**Nincs lejárt tartozás a Központi Hitelinformációs Rendszerben (KHR).**\n\n**Legalább egyik igénylőre teljesülnek az alábbi feltételek:**\nLegalább az egyik fél legalább 3 éve folyamatos TB jogviszonnyal rendelkezik.\nVagy a személyi jövedelemadóról szóló törvény szerinti átalányadózást legalább 1 éve alkalmazó egyéni vállalkozó vagy mezőgazdasági őstermelő folyamatos TB jogviszonnyal.\nVagy legalább 1 éve a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózói adóalanyisággal rendelkező egyéni vállalkozó esetén 1 éve folyamatos TB jogviszonnyal rendelkezik.\n\n**Nincs büntetőjogi felelősségre vonás, köztartozás.**\n\n**Magyar állampolgárok vagy szabad mozgás jogával rendelkező személyek.**\n\n**Vállalják a gyermekek nevelését nagykorúvá válásig vagy a kölcsönszerződés végéig.**\nA hiteligényléshez elegendő jövedelemmel rendelkeztek."
+    },
+    {
+        "chunk_id": 26,
+        "cím": "Babaváró hitelhez igényelhetek CSOK Plusz hitelt is?",
+        "leírás": "Igen, a Babaváró hitel mellett igényelhető CSOK Plusz hitel is."
+    },
+    {
+        "chunk_id": 27,
+        "cím": "Mekkora hitelt vehetünk fel egy 100 milliós lakásra?",
+        "leírás": "Egy 100 millió forintos lakásra maximum 80 millió forint hitelt vehettek fel, amennyiben forint alapú jelzáloghitelt igényeltek (a hitel összege a lakás forgalmi értékének legfeljebb 80%-a lehet). A pontos összeg az értékbecslés és az igazolt jövedelmek alapján kerül meghatározásra"
+    },
+    {
+        "chunk_id": 28,
+        "cím": "Hogyan igényelhetem az MFB Pont Plusz támogatást?",
+        "leírás": "Az MFB Pont Plusz Otthonfelújítási Program kérelmet benyújthatod online, vagy személyesen bankfiókjaink egyikében.\nAz igénylés menetének leírását itt találod: [MFB Pont Plusz](https://granitbank.hu/lakossag/hitelek/mfb-pont-plusz/)"
+    },
+    {
+        "chunk_id": 29,
+        "cím": "Nem tudom kifizetni a tartozásomat. Mi a teendő?",
+        "leírás": "Bankunk kiemelten fontosnak tartja, hogy az Ügyfelei pénzügyi helyzetének, élethelyzetének megfelelő segítséget nyújtson. Ha nehézséget okoz hitelednek törlesztése, kérjük, nézd meg a megoldási javaslatokat. [Tájékoztató a fizetéskönnyítő megoldásokról](https://granitbank.hu/api/cms/assets/179F1FB8-93C7-4AE1-B35E-7DA60FD62921/Tajekoztato_a_fizeteskonnyito_megoldasokrol.pdf?)"
+    },
+    {
+        "chunk_id": 30,
+        "cím": "Garázsra lehet felvenni hitelt?",
+        "leírás": "A garázs nem minősül lakóingatlannak, így arra önállóan jelzáloghitel nem felvehető."
+    },
+    {
+        "chunk_id": 31,
+        "cím": "Mekkora a háztartás elvárt havi jövedelme, ha nincs más hitelünk, és 50 millió forint összegű CSOK Pluszt igényelnénk?",
+        "leírás": "Az elvárt havi jövedelem a CSOK Plusz 50 millió forintos hitel igényléséhez az adósságfék szabályozás figyelembe vételével számítható ki.\n\nA JTM (jövedelemarányos törlesztőrészlet mutató) szerint:\n\nA jövedelem 50%-a fordítható forinthitel törlesztésre, ha a netto jövedelem 600 ezer Ft alatt van.\n\nA jövedelem 60%-a fordítható forinthitel törlesztésre, ha a netto jövedelem 600 ezer Ft vagy afölött van.\n\nPontos törlesztőrészlet és ezért a szükséges jövedelem kalkulációjához bővebb információ szükséges (pl. hitel futamideje, kamatperiódus)."
+    },
+    {
+        "chunk_id": 32,
+        "cím": "Van adósságrendező hitel?",
+        "leírás": "A Gránit Banknál elérhető hitelkiváltás. \n\nTovábbi információért látogass el a https://granitbank.hu/lakossag/hitelek/hitelkivaltas/ oldalra."
+    },
+    {
+        "chunk_id": 33,
+        "cím": "Van korhatár, amely alatt nem lehet hitelt felvenni?",
+        "leírás": "Gránit Banknál hitelt 18 éves kor alatt nem lehet felvenni."
+    },
+    {
+        "chunk_id": 34,
+        "cím": "Hitel kalkulálást tudsz nekem csinálni?",
+        "leírás": "Természetesen! Kérlek, pontosítsd, hogy melyik hitelkalkuláció érdekli:\n\n**Maximális hitelösszeg kiszámítása**\n\n**Gyors kalkuláció havi törlesztőrészlet, kamatláb vagy THM kiszámításához**\n\n**CSOK Plusz Lakáshitelhez kapcsolódó kalkulációk**\n\n**Babaváró hitel kalkuláció**"
+    },
+    {
+        "chunk_id": 35,
+        "cím": "Hogyan adható be előtörlesztési kérelem?",
+        "leírás": "\"Előtörlesztési igényét Netbankon tudja jelezni szabad formátumú levélben. A levélben kérjük tüntessék fel a szerződésszámot és az előtörlesztés összegét, illetve azt a dátumot, amikor szeretne előtörleszteni. Az előtörlesztés összegének a bankszámlán rendelkezésre kell állnia. Az előtörlesztésnek díja van, melyről a hirdetményből tájékozódhat. Amennyiben fennálló tartozás igazolásra lenne szüksége, szintén netbank szabad formátumú levélben jelezheti. A fennálló tartozás igazolás díját a vonatkozó hirdetmény tartalmazza. Kérjük, ellenőrizze kölcsönszerződését. Ha a Kölcsönszerződés aláírását követő 4 éven belül teljes előtörlesztést, illetve a Kölcsön több, mint 50%-át elérő összegben előtörlesztést teljesít, a kedvezményeket is vissza kell fizetnie. \" További tájékoztatást piaci hitel kapcsán a https://granitbank.hu/api/cms/assets/ACC2A12D-8D84-4362-8B8F-E0AD977445FD//HIRDETMENY_a_jelzalogjog_fedezete_mellett_nyujtott_lakossagi_hitelekrol_20241101_tol.pdf linken éred el, míg CSOK Plusz esetében https://granitbank.hu/api/cms/assets/8ED2ECB1-C67E-4D46-ADFB-275047F77518//HIRDETMENY_a_CSOKPLUSZ_lakashitelrol_20241101_tol.pdf"
+    },
+    {
+        "chunk_id": 36,
+        "cím": "Hogyan adható be végtörlesztési kérelem?",
+        "leírás": "\"Végtörlesztési igényét Netbankon tudja jelezni szabad formátumú levélben, amelyben fel kell tüntetni a szerződésszámot és a végtörlesztés várható dátumát. A végtörlesztéshez szükéséges összegnek a bankszámláján rendelkezésre kell állnia. A végtörlesztésnek díja van, melyről a hirdetményből tájékozódhat. Amennyiben szüksége van a fennálló tartozás igazolásra, jelezze ezt is a netbank szabad formátumú levélben. A fennálló tartozás igazolás díját a vonatkozó hirdetmény tartalmazza Jelzáloghitel végtörlesztése esetén a végtörlesztést követően a Bank kipostázza a jelzálogjog törlési kérelmet,melyet a Földhivatalba kell bevinnie. A zálogjog törlés díja a Földhivatali díjszabás alapján 10 600 Ft Kérjük ellenőrizze kölcsönszerződését. Ha a Kölcsönszerződés aláírását követő 4 éven belül teljes előtörlesztést, illetve a Kölcsön több mint 50%-át elérő összegben előtörlesztést teljesít, a kedvezményeket is vissza kell fizetnie. \""
+    },
+    {
+        "chunk_id": 37,
+        "cím": "Mekkora a CSOK Plusz hitel kamata?",
+        "leírás": "A jelenlegi akciós kamat évi 2,89%, THM 2,99%"
+    },
+    {
+        "chunk_id": 38,
+        "cím": "Mekkora lehet az ingatalan maximális vételára CSOK Plusz Lakáshitelesetén?",
+        "leírás": "Az ingatlan lehetséges maximális vételára: első közös lakáshoz jutók esetében 80 millió forint, minden más esetben 150 millió forint"
+    },
+    {
+        "chunk_id": 39,
+        "cím": "Milyen támogatásra vagyok jogosult, ha felveszem a CSOK Plusz Lakáshitelt?",
+        "leírás": "A második és minden további gyermek érkezésekor 10-10 millió forint gyermekvállalási támogatásra vagytok jogosultak. Az összeggel a fennálló hitel tartozásotok csökken. (előtörlesztésre kerül)"
+    },
+    {
+        "chunk_id": 40,
+        "cím": "Milyen célokra igénylehető CSOK Plusz lakáshitel?",
+        "leírás": "A CSOK Plusz Lakáshitel új és használt lakás vásárlására, új lakás építésére, meglevő használt lakás bővítésére vagy használt lakás vásárlással egybekötött bővítésére igényelhető."
+    },
+    {
+        "chunk_id": 41,
+        "cím": "Mit jelent a törlesztés szüneteltetés CSOK Plusz esetén?",
+        "leírás": "CSOK Plusz lakáshitel törlesztés szüneteltetése kérelemre indul, de a bank állapítja meg a jogosultságot\n\n\n**Jogosultsági esetek:**\n\nVárandósság: 12. hét elérése után jogosult a szüneteltetésre.\n\nÖrökbefogadás: Amikor véglegessé válik az engedélyező határozat.\n\n**Szüneteltetés kezdete**\nA várandósság 12. hete után benyújtott kérelem esetén: a 13. hónaptól szünetel a hiteltörlesztés.\n\nA várandósság 12. hete előtt nem nyújtható be szüneteltetési kérelem.\n\n**Időtartam:**\nLegfeljebb 1 évig szünetelhet.\n\n**Futamidő módosulása:** Szüneteltetés idejével meghosszabbodik, de az új törlesztőrészletek nem haladják meg az eredeti törlesztőrészletet,"
+    },
+    {
+        "chunk_id": 42,
+        "cím": "Milyen ingatlan lehet a hitel fedezete CSOK Plusz felvétele esetén?",
+        "leírás": "**Fedezet:** A megvásárolt ingatlan, mely alkalmas lakhatásra.\n\n**Ingatlan ellenőrzése:** Bank helyszíni szemle alapján.\n\n**Alapterület követelmények lakás esetén:**\n- 1 gyermek: min. 40 m²\n- 2 gyermek: min. 50 m²\n- 3 vagy több gyermek: min. 60 m²\n- Egylakásos épület esetén: +30 m² a fenti méreteknél.\n\n**Maximum vételár:**\n- Első közös lakásszerzők esetén: max. 80 millió Ft.\n- Egyéb esetek: max. 150 millió Ft.\n\n**Vételár és érték:** Vételár max. 20%-kal térhet el a bank által megállapított forgalmi értéktől.\n\nTovábbi feltételekről részletesen tájékozódhatsz a bank honlapján: https://granitbank.hu/lakossag/hitelek/csokplusz/"
+    },
+    {
+        "chunk_id": 43,
+        "cím": "Milyen egyéb feltételeket kell teljesíteni CSOK Plusz igénylése esetén?",
+        "leírás": "**Bentlakási kötelezettség összefoglaló a CSOK Plusz hitelre**:\n\n- **Időtartam:**\n- Az igénylők és gyermekeik 10 évig kötelesek az ingatlanban élni.\n- Gyermekek esetében a kötelezettség a nagykorúság eléréséig tart.\n\n- **Kötelezettség kezdete:**\n- Az utolsó folyósítástól számított 180 napon belül lakóhelyet kell létesíteni.\n\n- **Tartózkodási hely létesítése nem lehetséges, kivételek:**\n- Gyermek tanulmányai miatt más helyen lakik.\n- Egészségi állapot miatt egészségügyi intézményben van.\n- Munkavállalás miatt maximum 5 évig eltérő településen él.\n- Közeli hozzátartozó ápolása okán távol tartózkodik.\n- Letöltendő szabadságvesztés esetén.\n- Nagykorúvá válás után a gyermek elköltözik.\n- Szolgálati lakásban él munkavégzés miatt.\n\n\n "
+    },
+    {
+        "chunk_id": 44,
+        "cím": "Milyen futamidőre igényelhető a CSOK Plusz Lakáshitel?",
+        "leírás": "A hitel lehetséges futamideje minimum 10 év, maximum 25 év, mely a törlesztés szüneteltetés idejével meghosszabbodik."
+    },
+    {
+        "chunk_id": 45,
+        "cím": "Mi történik, ha a babaváró hitelhez vállalt gyermekek nem születnek meg az előírt határidőn belül?",
+        "leírás": "Amennyiben a házaspár a gyermek vállalását nem, vagy csak részben teljesíti a szerződésben a meghatározott határidőig, a kamattámogatás a határidő lejártát követő naptól a jövőre nézve megszűnik. Ebben az esetben a kérelmezőknek az igénybe vett kamattámogatás összegét a kamattámogatás igénybevételének napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten – a határidő leteltét követő 120 napon belül – vissza kell fizetniük."
+    },
+    {
+        "chunk_id": 46,
+        "cím": "Milyen célokra igényelhető a CSOK Plusz Lakáshitel?",
+        "leírás": "A CSOK Plusz Lakáshitel új és használt lakás vásárlására, új lakás építésére, meglevő használt lakás bővítésére vagy használt lakás vásárlással egybekötött bővítésére igényelhető."
+    },
+    {
+        "chunk_id": 47,
+        "cím": "Mi történik, ha a babaváró kölcsön felvétele után a házasságot felbontják vagy érvénytelenítik?",
+        "leírás": "**Gyermekvállalás részleges vagy teljes elmaradásának következményei:**\n\n- **Kamattámogatás megszűnik:** \n  - Ha a házaspár nem vagy csak részben teljesíti a gyermekvállalást a házasság felbontásáig vagy érvénytelenítéséig.\n\n- **Kamattámogatás visszafizetése:** \n  - Az igénybe vett kamattámogatást vissza kell fizetni, levonva a meglevő gyermekek után járó támogatást.\n  - Visszafizetés a kamattámogatás igénybevételének napjától a felbontás/érvénytelenítés igazolásának napjáig.\n  - A visszafizetés a jegybanki alapkamat +5%-kal növelt kamattal történik.\n\n- **Igazolási kötelezettség:** \n  - Házasság felbontása/érvénytelenítésének tényét (jogerőre emelkedését) 60 napon belül jogerős bírósági határozattal kell bejelenteni a Banknál."
+    },
+    {
+        "chunk_id": 48,
+        "cím": "Mit jelent a gyermekvállalási támogatás Babaváró hitel esetén?",
+        "leírás": "\"A támogatott személyek a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeik közül a másodikként született vagy örökbefogadott, és minden egyes ezt követően született vagy örökbefogadott további gyermekük után gyermekenként 10 000 000 forint összegű vissza nem térítendő gyermekvállalási támogatásra jogosultak. A gyermekvállalási támogatás igényelhető a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennálló várandósság esetén, a támogatott személyeknek a várandósság legalább 12. hetét betöltött magzata után, és a támogatott személyek által közösen örökbefogadott gyermek után, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé. Ugyanazon gyermek után kizárólag egy alkalommal folyósítható a gyermekvállalási támogatás.\""
+    },
+    {
+        "chunk_id": 49,
+        "cím": "Mit jelent a CSOK Plusz Hitelprogram?",
+        "leírás": "A CSOK Plusz Hitelprogram keretében a házaspár a gyerekszámtól és a hitelképességtől függően maximum 50 mFt kamattámogatott kölcsönt vehet fel, melynek első törlesztési évében csak kamatot kell fizetni, tőketörlesztés pedig nincsen. A második, a kölcsön igénylését követően megszületett gyermektől kezdve minden újonnan született gyermek esetében 10 millió Ft jóváírásra kerül a kölcsöntartozásból."
+    },
+    {
+        "chunk_id": 50,
+        "cím": "Ki igényelheti a CSOK Plusz Lakáshitelt?",
+        "leírás": "**CSOK Plusz Lakáshitel igénylés összefoglaló az igénylés feltételeiről:**\n\n- **Igénylési feltételek:**\n  - A feleség a kölcsön igénylésekor még nem töltötte be a 41. életévét.\n  - Vagy ha 2025. december 31-ig igénylik és a feleség már betöltötte a 41. életévét, a terhessége meghaladja a 12. hetet.\n  - Megfelelés az 518/2023. (XI. 30.) Korm. rendelet feltételeinek.(büntetlen előélet, köztartozásmentesség mindkét félre, TB jogviszony megléte egyik félre)\n\n- **Korábbi támogatások:**\n  - Azok a házaspárok is igényelhetik, akik korábban lakásépítési támogatásokat vettek igénybe.\n  - Gyermekvállalásnak teljesülnie kell vagy a nem teljesített gyermekre jutó támogatást vissza kell fizetni.\n  - Az előírt életvitelszerű bentlakási kötelezettséget az új lakásban kell teljesíteni.\n\n- **Kamattámogatás:**\n  - Korábban kért kamattámogatott kölcsönöket vissza kell fizetni és megszüntetni.\n\n- **Igénylési forma:**\n  - A kölcsönt kizárólag a házastársak együttesen igényelhetik.\n  - Az igénylők mindketten támogatott személlyé válnak.\n  - Más adós nem szerepelhet a kölcsönszerződésben."
+    },
+    {
+        "chunk_id": 51,
+        "cím": "Milyen célra igényelhető piaci jelzáloghitel?",
+        "leírás": "\"Lakásvásárlás: használt, valamint új építésű (használatba vételi engedéllyel rendelkező), lakóingatlan megvásárlása (családi ház, társasházi lakás). Lakásépítés: lakóház építésének finanszírozása. Lakásbővítés: meglévő ingatlan bővítése. Lakásfelújítás: az épület alapterületének növelésével és hatósági bejelentési kötelezettséggel nem járó, átalakítási, felújítási munkálatok finanszírozása. Lakáskorszerűsítés: Olyan, bejelentési kötelezettséghez nem kötött, építési munkálatok, melynek végeztével az ingatlan állaga műszakilag megújul (pl. nyílászáró csere, közmű bevezetés, fűtéskorszerűsítés, hőszigetelés stb). Lakáshitel kiváltás: Idegen bankban vagy a Gránit bankban felvet lakáscélú hitel fennálló tartozásának kiváltása. A kiváltásra kerülő hitel nem lehet hátralékos és a hitel fedezete és adósi köre meg kell, hogy egyezzen a kiváltásra kerülő hitelével.\""
+    },
+    {
+        "chunk_id": 52,
+        "cím": "Mit jelent a türelmi idő?",
+        "leírás": "A türelmi idő azt jelenti, hogy 24 hónapig a bank számára csak kamatot fizetsz (a kölcsön összege nem csökken), a tőketartozást a 25. hónaptól kezdve fizeted vissza. A havi törlesztő részlet az induló törlesztő részlethez képest a 25. hónapban a tőketörlesztés megkezdése miatt megemelkedik."
+    },
+    {
+        "chunk_id": 53,
+        "cím": "Ki igényelhet jelzáloghitelt?",
+        "leírás": "\"A hitelt nagykorú, a Gránit Bank számára elfogadható jövedelemmel rendelkező ügyfelek igényelhetik, akik a Bank hitelbírálati és adósminősítési feltételeinek megfelelnek. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szerepelő ügyfelek nem vehetnek fel hitelt. A hiteligénylő házastársa, ill. élettársa a hitelkérelembe adóstársként bevonásra kerül. A fedezetül felajánlott ingatlanok tulajdonosai zálogkötelezettként kerülnek a hitelkérelembe bevonásra.\""
+    },
+    {
+        "chunk_id": 54,
+        "cím": "Milyen futamidőre igényelhető lakáshitel?",
+        "leírás": "Piaci kamatozású lakáshitel illetve szabadfelhasználású esetén:Minimum 5 év, maximum 35 év."
+    },
+    {
+        "chunk_id": 55,
+        "cím": "Mekkora jövedelem szükséges jelzáloghitel felvételéhez?",
+        "leírás": "A kölcsönigénylőnek minden esetben havi rendszeres jövedelmet szükséges igazolnia, mely a hitel törlesztésére elegendő fedezetet nyújt. Csak a fedezetül felajánlott ingatlanok értéke alapján nem nyújtható hitel. A hitelkérelem pozitív elbírálásának egyik alapvető feltétele a megfelelő jövedelem igazolása, ezért igazolni kell a hitelt igénylő háztartás (adósok) teljes nettó jövedelmét, valamint az esetlegesen már meglévő hiteltartozások összegét és a havi törlesztőrészleteket."
+    },
+    {
+        "chunk_id": 56,
+        "cím": "Milyen ingatlanok fogadhatók el fedezetként, ha lakáshitelt akarok felvenni?",
+        "leírás": "**Elfogadható fedezetként szereplő ingatlanok:**\n\n- **Lakóingatlanok:**  \n  - Családi ház, ikerház, sorház, lakás.\n  \n- **Üdülő, hétvégi ház**\n\n- **Garázs, gépkocsibeálló, tároló:** \n  - Önállóan nem, csak kiegészítő fedezetként \n  - Társasházi garázs és tároló csak a lakással együtt.\n\n- **Fedezet részeként elfogadott ingatlanok értéke:**\n  - Lakóingatlanok forgalmi értékének el kell érnie az 5 millió forintot.\n  - Garázs esetén az érték el kell érje az 1 millió forintot.\n\n- **Felajánlható ingatlanok:** \n  - Az igénylők maximum 3 ingatlant ajánlhatnak fel.\n\n- **További feltételek:**\n  - Ingatlan magánszemély tulajdonában kell álljon.\n  - Önállóan forgalomképes.\n  - Per-, teher- és igénymentes (kivéve a kiváltandó kölcsön miatt bejegyzett jelzálogjog, elidegenítési és terhelési tilalom).\n\n- **Földrajzi korlátozás:**\n  - A bank csak a településlistán szereplő ingatlanok fedezete mellett nyújt kölcsönt.  \n  - A településlista elérhető a kalkulátorban.\n\nTovábbi részletek és a kalkulátor elérhető a https://granitbank.hu/lakossag/hitelek/ oldalon"
+    },
+    {
+        "chunk_id": 57,
+        "cím": "Szükséges-e önerő biztosítása?",
+        "leírás": "A Bank a fedezetül felajánlott ingatlan forgalmi értékének 80%-áig tud hitelt biztosítani. További fedezet felajánlásával az önerő kiváltható."
+    },
+    {
+        "chunk_id": 58,
+        "cím": "Mit kell tudnom, ha ingatlanvásárlásra kívánok lakáshitelt igénybe venni?",
+        "leírás": "\"A Bank kötelező jelleggel adósként vonja be a megvásárolni kívánt ingatlan tulajdonosait. Hitelcélként csak önállóan forgalomképes ingatlan megvásárlása fogadható el, ideértve a tulajdonközösség megszüntetését is. Lakásvásárlási kölcsön keretében lakáscsere is finanszírozható, mely esetben az ingatlanok értékkülönbözete képezi a banki finanszírozás összegének maximumát. Milyen plusz dokumentumok benyújtására van szükség? banki követelményeknek megfelelő adásvételi szerződés – követelmények kiskorú eladó esetén: az adásvételi szerződéshez gyámhatósági jóváhagyás osztatlan közös tulajdon esetén: a tulajdonostársak elővásárlási jogról való lemondó nyilatkozata eladói hitelkiváltással kombinált vásárlás esetén: jelzálogjog jogosultjának cégszerű előzetes nyilatkozata, hogy amennyiben a vételár megfizetéséhez nyújtott kölcsön részben, vagy egészben a jelzálogjog jogosultjának átutalásra kerül, úgy a jelzálogjog (és az elidegenítési és terhelési tilalom) törléséhez késedelem nélkül megadja hozzájárulását igazolás a megvásárolni kívánt ingatlant terhelő kölcsön fennálló tartozásáról, megjelölve az előtörlesztésre szolgáló számlaszámot, valamint a pénzügyi intézmény hozzájárulása az ingatlan elidegenítéséhez A Bank a fenti dokumentumokon túl további dokumentumok benyújtását is előírhatja. A vásárlási kölcsönök általánostól eltérő speciális folyósítási feltételei: az adásvételi szerződésben meghatározott vételár kölcsönösszegen felüli részének megfizetése és ennek igazolása annak igazolása, hogy az eladó tulajdonjoga az ingatlan-nyilvántartásban bejegyzésre, valamint a kölcsönfelvevő tulajdonjog bejegyzés iránti kérelme széljegyként feltüntetésre került a tulajdoni lapon a kölcsönfelvevő tulajdonjogának az ingatlan-nyilvántartásba történő bejegyzéséhez feltételen és visszavonhatatlan hozzájárulást tartalmazó eredeti nyilatkozatot (bejegyzési engedély) az eladó az adásvételi szerződés megkötése során eljáró, okiratszerkesztő ügyvédnél/közjegyzőnél letétbe helyezte és a letétbe helyezés tényét letéti szerződéssel vagy a letéteményes ügyvéd/közjegyző által a letétbehelyezés tényéről kiadott igazolással a Bank részére igazolta a kölcsönből fizetendő vételárrész teljesítésének adásvételi szerződésben meghatározott határideje még nem járhat le (illetve megfelelő formában módosításra került) A vásárlási kölcsön speciális esete az eladói hitelkiváltással kombinált vásárlás, mely esetben az ingatlant az eladó által korábban felvett pénzügyi intézmény által nyújtott kölcsön biztosítására jelzálogjog (elidegenítési és terhelési tilalom) terheli. Az ingatlant terhelő tartozás ez esetben az ingatlan vevője által megfizetett vételárból, illetve az ahhoz nyújtott Gránit Bank által nyújtott kölcsönből kerül visszafizetésre. Ha a kölcsön összege nagyobb, mint az ingatlant terhelő kölcsöntartozás (és az esetleges előtörlesztési és egyéb díjak), a kölcsön két részletben kerül folyósításra: egyrészt a jelzálogjog jogosultja részére, másrészt pedig az eladó részére a hitelkiváltás igazolását követően.\""
+    },
+    {
+        "chunk_id": 59,
+        "cím": "Szeretnék házat vagy lakást vásárolni Gránit lakáshitel igénybevételével. Mik a legfontosabb tudnivalók?",
+        "leírás": "**Lakáshitelhez szükséges dokumentumok és feltételek:**\n\n- **Tulajdonos bevonása:**  \n  - Kötelező adósként bevonni a megvásárolandó ingatlan tulajdonosait.\nHázastársak, élettársak esetén mindkét fél bevonása kötelező.\n\n- **Elfogadható ingatlanok:**  \n  - Csak önállóan forgalomképes ingatlanok\n\n- **Szükséges dokumentumok:**\n  - **Adásvételi szerződés** gyámhatósági jóváhagyással kiskorú eladó esetén.\n  - Osztatlan tulajdon esetén az elővásárlási jogról szóló lemondó nyilatkozat és használati megállapodás.\n  - Hitelkiváltásnál jelzálogjog törlésének előzetes nyilatkozata és fennálló tartozás igazolása.\n\n- **Folyósítási feltételek:**\n  - Vételár kölcsön részén felüli részének igazolt megfizetése.\n  - Tulajdonjog bejegyzésének széljegyzése.\n  - Bejegyzési engedély az eladótól.\n-Lakásbiztosítás megkötése\n\n"
+    },
+    {
+        "chunk_id": 60,
+        "cím": "Mit kell tudnom, ha építési, bővítési célú hitelt szeretnék igénybe venni?",
+        "leírás": "\"A Bank kötelező jelleggel kölcsönfelvevőként vonja be az építési engedélyben szereplő építésre jogosult személyeket. A Bank fedezeti oldalról a kölcsön maximumát (amennyiben a kölcsön fedezete az építésre kerülő ingatlan) az építkezés megvalósulását feltételező ún. várható forgalmi érték és a benyújtott és a bank által elfogadott költségvetés alapján határozza meg. Építési és bővítési kölcsönök esetében a teleknek, vagy telekhányadnak (illetve ingatlannak) a kölcsönfelvevők tulajdonában kell lennie. "
+    },
+    {
+        "chunk_id": 61,
+        "cím": "Hány részletben és milyen készültségi fokon történik az építési célú lakáshitelek összegének folyósítása?",
+        "leírás": "\"Az építési kölcsönöket a Bank készültségi fok arányosan, legalább kettő, legfeljebb négy részletben folyósítja a forgalmi érték és az ügyletminősítési kategória függvényében. Az utolsó részlet összege - mely a teljes kölcsön összegének 10%-a – a kölcsön céljának megvalósulását követően utólag kerül folyósításra. A Bank a finanszírozást az Ön által vállalt önerő (költségvetés összege csökkentve a kölcsön és az esetleges támogatások összegével,) beépítését követően kezdi meg a Bank által előírt műszaki készültségi fokon. A készültségi fok az önerőnek a teljes költségvetéshez viszonyított aránya alapján kerül meghatározásra! (Pl: 20 M Ft-os költségvetés és a 15 M Ft-os önerő esetén 75%-os a készültségi fok kerül előírásra (15/20)). Általánosságban elmondható, hogy amennyiben az önerő aránya nem éri el a 40%-ot, az építkezés finanszírozása érdekében további ingatlan-fedezet bevonására lehet szükség!\""
+    },
+    {
+        "chunk_id": 62,
+        "cím": "Kell-e benyújtani számlát a kölcsönrészletek felhasználásáról?",
+        "leírás": "Csak a CSOK Plusz lakáshitel esetén szükséges számlát benyújtani. Piaci kamatozású lakáshitel esetén számlák benyújtása nem szükséges, az önerő és a kölcsönrészletek felhasználását a Bank ingatlan felülvizsgálat keretében ellenőrzi, melynek díja Téged terhel, mértékét a Hirdetmény tartalmazza."
+    },
+    {
+        "chunk_id": 63,
+        "cím": "Mik az építési kölcsönök speciális folyósítási feltételei?",
+        "leírás": "\"Első részlet a vállalt saját erő beépítése; az előírt műszaki készültségi fok elérése és ennek ingatlan felülvizsgálat keretében való ellenőrzése az építkezés speciális kockázataira is kiterjedő vagyonbiztosítás megkötése További részlet az előzőleg folyósított kölcsönösszeg hitelcélnak megfelelő felhasználása, azaz a kölcsönszerződésben előírt műszaki készültségi fok elérése és ennek igazolása ingatlan felülvizsgálat keretében Utolsó részlet az építkezés 100%-os befejezése, melyet a Bank ingatlan felülvizsgálat keretében ellenőriz a megépített ingatlanra vonatkozóan a jogerős használatba vételi engedély, vagy hatósági bizonyítvánnyal igazolandó használatbavétel tudomásulvételi vagy bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány benyújtása az aktuálisan megállapított forgalmi érték és teljes kölcsönösszeg alapján számított arány nem haladja meg a 80%-ot a megépített lakás tulajdoni lapon való feltüntetésére vonatkozó kérelem bemutatása a vagyonbiztosítás megkötése a standard feltételeknek megfelelően Az első folyósításnak a szerződéskötést követő 90 napon belül szükséges megtörténnie. Lakás építésére, bővítésre vagy új lakás szakaszos finanszírozás útján történő vásárlására igényelt kölcsönök utolsó részletének végső rendelkezésre tartási határideje a szerződéskötés napjától számított 2 év.\""
+    },
+    {
+        "chunk_id": 64,
+        "cím": "Mi az építési célú lakáshitelek folyósítási ütemezése?",
+        "leírás": "**Lakáshitel folyósítási ütemei és feltételei:**\n\n1. **Első részlet:**\n   - Saját erő beépítése és igazolása.\n   - Előírt műszaki készültségi fok elérése, ingatlan felülvizsgálattal ellenőrizve.\n   - Vagyonbiztosítás megkötése az építkezés speciális kockázataira.\n\n2. **További részletek:**\n   - Korábbi kölcsönösszeg megfelelő felhasználása.\n   - Műszaki készültségi fok igazolása ingatlan felülvizsgálattal.\n\n3. **Utolsó részlet:**\n   - Építkezés 100%-os befejezése.\n   - Jogerős használatba vételi engedély vagy hatósági bizonyítvány benyújtása.\n   - Az aktuális forgalmi érték és kölcsönösszeg aránya nem haladhatja meg a 80%-ot.\n   - Földhivatali épületfeltüntetési kérelem\n   - Vagyonbiztosítás megkötése\n\n- **Első folyósítás:**  \n  - A szerződéskötéstől számított 90 napon belül kell megtörténnie kell.\n\n- **Végső határidő:**  \n  - Az utolsó részletet legkésőbb a szerződéskötéstől számított 2 éven belül folyósítja."
+    },
+    {
+        "chunk_id": 65,
+        "cím": "Mit kell tudnom, ha Hitelkiváltási kölcsönt kívánok igénybe venni?",
+        "leírás": "\"A Gránit Bank által nyújtott hitel valamely kölcsönfelvevője a kiváltásra kerülő kölcsön szerződés szerinti adósa, kezese, zálogkötelezettje kell, hogy legyen. Milyen típusú kölcsönöket lehet kiváltani? hitelintézet, valamint cégbíróság által bejegyzett és az MNB által felügyelt pénzügyi vállalkozás által nyújtott kölcsön, amennyiben az nem áll felszámolás, csődeljárás, vagy végelszámolás alatt lakás-takarékpénztárak által nyújtott kölcsön munkáltatói kölcsön helyi önkormányzat által nyújtott kölcsön jelzáloggal nem fedezett kölcsön kiváltása A kölcsönfelvevő egyidejűleg több kölcsönének kiváltására is igénybe veheti a hitelkiváltási kölcsönt. További általános szabályok: A kiváltásnak minden esetben a korábbi kölcsön megszűnését kell eredményeznie, az részlegesen sem maradhat fent. Hitelkiváltásra kizárólag akkor van lehetőség, ha a kiváltandó kölcsön teljes egészében kifolyósításra került, és ha volt hitelcélja (különös tekintettel az államilag támogatott kölcsönök vonatkozásában) akkor az megvalósult. A kiváltandó kölcsön tekintetében fizetési késedelem, hátralékos tartozás a hiteligény benyújtásáig nem állhat fenn. A kiváltandó kölcsön teljes előtörlesztésének a kért időpontban jogi akadálya nincs, a hitelintézet ezen teljes tartozás lejárat előtti megfizetését teljes mértékben elfogadja. Amennyiben a pénzügyi vállalkozás által nyújtott kiváltandó kölcsön valamely Bank által már refinanszírozásra került, úgy a tartozás kimutatás és a bejegyzett terhek törlésére vonatkozó nyilatkozatot mindkét fél részéről be kell mutatni! (pénzügyi vállalkozás és refinanszírozó partner). Milyen plusz dokumentumok benyújtására van szükség? Hitelintézet eredeti, cégszerűen aláírt írásos igazolása alábbiakról: a fennálló kölcsöntartozás összegéről (beleértve a végtörlesztéshez kapcsolódó díjakat is), a folyósítást követően kötelezettséget vállal a javára fennálló jelzálogjog (elidegenítési és terhelési tilalom) és egyéb teher haladéktalan törlésére bankszámla megjelölése, ahová a teljes kiegyenlítéshez szükséges tartozás összegét utalni kell, vállalja, hogy a végtörlesztéskor fel nem használt hitelösszeget azonnal visszautalja a Gránit Bank 12100011-18181823 számú számlájára, aki ezt az új hitel díjmentesen előtörlesztésére fordítja. A visszautalásnál az ügyfél nevét és hitelszámát kell feltűntetni. a kiváltásra kerülő kölcsön- és biztosítéki szerződések, kiváltandó kölcsön/hitel utolsó 12 havi törlesztő részlet megfizetését igazoló számlakivonat és cégszerűen aláírt „Igazolás a fizetési múltról” nyomtatvány – honlapról letölthető. A Bank a fenti dokumentumokon túl további dokumentumok benyújtását is előírhatja. Az engedélyezésre kerülő kölcsönösszeg meghatározásának módja: HUF hitelek esetében: a kiváltandó kölcsönt nyújtó hitelintézet által kiállított tartozásigazoláson szereplő összeg (beleértve a végtörlesztéshez szükséges egyéb díjakat is!) 3%-kal növelt értéke 1 000 Ft-ra kerekítve. Devizahitelek esetében: a kiváltandó kölcsönt nyújtó hitelintézet által kiállított tartozásigazoláson szereplő összeg (beleértve a végtörlesztéshez szükséges egyéb díjakat is!) MNB középárfolyamon átszámolt forint értékének 8 %-kal növelt értéke 1 000 Ft-ra kerekítve. A hitelkiváltási kölcsönök általánostól eltérő speciális folyósítási feltételei: A folyósítás várható napjára kiállított banki igazolás a fennálló kölcsöntartozásáról (A Banki igazolás kiállításának napja és a végtörlesztésre megjelölt értéknap között nem lehet törlesztési esedékesség). A fedezeti ingatlanra bejegyzett elidegenítési és terhelési tilalom esetén, a jogosult részéről kiállított, az ingatlan elidegenítéséhez és további megterheléséhez hozzájárulást tartalmazó, az illetékes földhivatal által érkeztetett nyilatkozatot az Adós a Hitelező rendelkezésére bocsátja. A hitelkiváltás megvalósulását a folyósítást követő 30 napon belül a törlési engedély bemutatásával igazolni kell.\""
+    },
+    {
+        "chunk_id": 66,
+        "cím": "Hitelkiváltási céljából felvett kölcsön feltételei",
+        "leírás": "**Hitelkiváltás összefoglaló:**\n\n- **Kiváltható kölcsönök:**\n  - Hitelt nyújtó intézményekből (nem állhat felszámolás alatt).\n  - Lakás-takarékpénztárak, munkáltatói, önkormányzati kölcsönök.\n  - Jelzálog nélküli kölcsönök.(pl. személyi kölcsön)\n  - Több kölcsön egyidejű kiváltása is lehetséges.\n\n- **Alapfeltételek:**\n  - Kiváltandó kölcsön adósa vagy zálogkötelezettje legyen a kérelmező.\n  - Kiváltásnál a korábbi kölcsön teljes megszűnése szükséges.\n  - Kiváltandó kölcsön teljesen kifolyósítva és megvalósult célú legyen.\n  - Nincs fennálló fizetési késedelem vagy jogi akadály a teljes előtörlesztésre.\n\n- **Kötelező dokumentumok:**\n  - Fennálló kölcsöntartozás igazolása (tartalmazza a végtörlesztési díjakat). \n  - Kötelezettségvállalás a jelzálogjog törlésére.\n  - Bankszámla a kiegyenlítéshez.\n  - Végtörlesztéskor nem használt hitelösszeg visszautalási megállapodás.\n  - Az utolsó 12 havi törlesztő részlet fizetését igazoló dokumentumok.\n\n- **Kölcsönösszeg meghatározása:**\n  - **HUF hitelek:** Tartozásigazolás összege 3%-kal növelve, 1 000 Ft-ra kerekítve.\n  - **Devizahitelek:** Tartozás MNB középárfolyamon számolt értéke 8%-kal növelve, 1 000 Ft-ra kerekítve.\n\n- **Speciális folyósítási feltételek:**\n  - Kiváltási igazolás kiállítása törlesztés nélküli időszakra.\n  - Fedezeti ingatlan hozzájáruló nyilatkozat az elidegenítéshez.\n  - Hitelkiváltás igazolása törlési engedéllyel 30 napon belül."
+    },
+    {
+        "chunk_id": 67,
+        "cím": "Mi a lakáshitel-igénylés folyamata?",
+        "leírás": "\"Előzetes hitelbírálat Innovatív kalkulátorunkkal pár perc alatt kiszámolhatja, hogy ténylegesen mennyi hitelt vehet fel a Gránit Banktól. A kalkuláció során elvégzünk egy előzetes hitelbírálatot is, aminek során Ön pontosan meghatározhatja a felvenni kívánt összeget és futamidőt. Az előzetes hitelbírálat eredményét azonnal az Ön rendelkezésére bocsátjuk, amiben megtalálhatja a hitel kondícióit (futamidő, kamat, THM, egyéb díjak). Amennyiben a hitel kondíciói elnyerik tetszését és a bírálat során megfelel a feltételeknek, a benyújtott dokumentumok pedig alátámasztják a kalkulátorban megadott információkat, úgy a hitelt az előzetes hitelbírálatban szereplő feltételekkel veheti fel, feltéve hogy időközben nem történik változás a kondíciókban. Hiteligénylés A hiteligénylési folyamat során szakértő kollégáink az alábbi lépéseken vezetik végig Önt. Igénylőnyomtatványok és szükséges nyilatkozatok kitöltése Jövedelemmel kapcsolatok dokumentumok összegyűjtése Ingatlanhoz kapcsolódó dokumentumok tartalmi egyeztetése, majd benyújtása Ingatlan értékbecslés díjának befizetése (ezt visszautaljuk Önnek folyósítást követően) Az igénylés során a megadott elérhetőségeken egyeztethet kollégáinkkal és a dokumentumokat elegendő a Digitális Ügyfélfiókjába feltöltenie, ezeket eredetiben a szerződéskötéskor kell a Bank rendelkezésére bocsátania. Hitelbírálat A bírálati folyamatban az Ön feladata annak a biztosítása, hogy megbízott szakértőnk elvégezhesse az ingatlan értékbecslését. Ennek a megrendelése a Gránit Bank feladata, ezzel Önnek nincs teendője. A beérkezett dokumentumok, valamint az ingatlan értékbecslése alapján a Gránit Bank elvégzi a végső hitelbírálatot, ami során meghatározásra kerül az Ön által felvehető hitel összege és kondíciói (futamidő, THM, kamat, stb.). Az így meghatározott kondíciók pontosan meg fognak egyezni az előzetes hitelbírálat során kalkuláltakkal, amennyiben a benyújtott dokumentumok szerint az adatok maradéktalanul megegyeznek az előzetes hitelbírálat során az Ön által megadottakkal, kérelméről nem derül ki semmilyen más a bírálatot befolyásoló információ (pl.: KHR tartozás), és a banki kondíciókban sem történt időközben változás. A bírálat eredményéről kollégánk értesíti Önt. Szerződéskötés A szerződéskötés során szakértő kollégánk támogatja Önt. Egyeztetni fogjuk az aláírás időpontját, és minimum 3 nappal korábban megküldjük a szerződéstervezetet, hogy nyugodt körülmények között megismerhesse annak tartalmát. A szerződéskötés a Gránit Bank központi fiókjában történik (1095 Budapest, Lechner Ödön fasor 8), az Ön személyes megjelenésével (a hiteligénylés eredeti dokumentumait ekkor kell benyújtania). A szerződéseket közjegyzői okiratba szükséges foglalni, ennek intézésében szintén támogatjuk Önt. Folyósítás A hitelszerződés szerinti folyósítási feltételek teljesülését követően kerül sor a hitel folyósítására. Az Ön fő feladatai a következők: Megköti a fedezeti ingatlanra a lakásbiztosítást A vásárláshoz szükséges önerő megfizetését igazolja A szerződéseket benyújtja az illetékes földhivatalba Törlesztés A hitel esedékes törlesztőrészletét a Bank minden hónap 10. napján szedi be. Az Ön feladata, hogy ennek összegét előzetesen rendelkezésre tartása Gránit Banknál vezetett bankszámláján. A hitel futamideje alatt Önnek lehetősége van részleges vagy teljes előtörlesztésre, melynek részletes feltételei a hirdetményben találhatóak. A Gránit Bank minden évben tájékoztatni fogja Önt fennálló hiteltartozásáról, valamint elküldi a törlesztési tervet, ami tartalmazza a hátralévő futamidőre vonatkozóan a törlesztő részletek összegét.\""
+    },
+    {
+        "chunk_id": 68,
+        "cím": "Lakáshitel igénylés lépései összefoglaló",
+        "leírás": "**Gránit Bank lakáshitelfelvételi folyamat összefoglaló:**\n\n- **Előzetes Hitelbírálat:**\n  - Innovatív kalkulátorral előzetes hitelbírálat és kondíciók megismerése.\n  - Felvenni kívánt összeg és futamidő kiválasztása. \n\n- **Hiteligénylés:**\n  - Szükséges nyomtatványok kitöltése.\n  - Jövedelem- és ingatlannal kapcsolatos dokumentumok benyújtása.\n  - Ingatlan értékbecslés díját befizetni (később visszatérítésre kerül).\n\n- **Hitelbírálat:**\n  - Gránit Bank végzi az ingatlan értékbecslés rendelését.\n  - Végső hitelbírálat a beérkezett dokumentumok és értékbecslés alapján.\n\n- **Szerződéskötés:**\n  - Szerződéstervezet megküldése előre, aláírás időpont egyeztetése.\n  - Szerződéskötés a Bankban, majd a közjegyzőnél\n\n- **Folyósítás:**\n  - Legfontosabb feladatok: lakásbiztosítás megkötése, önerő igazolása, zálogjog bejegyzés földhivatali benyújtása.\n\n- **Törlesztés:**\n  - Törlesztőrészletek beszedése minden hónap 10-én.\n  - Részleges/teljes előtörlesztés lehetősége.\n  - Éves tájékoztatás a fennálló hiteltartozásról és törlesztési tervről."
+    },
+    {
+        "chunk_id": 69,
+        "cím": "Hol adható be a hiteligénylés?",
+        "leírás": "\"A hiteligénylés benyújtásához nem szükséges személyesen megjelenned. A kalkuláció elvégzése után létrehozhatod Digitális Ügyfélfiókod. Az ügyfélfiókjában részletes útmutatót találsz a hiteligényléshez szükséges dokumentumokról, letöltheted azokat. A dokumentumokat a feltöltés után egy kattintással beküldheted, így hiteligénylésed azonnal megérkezik a Bankhoz. Az eredeti dokumentumokat a szerződéskötés napján szükséges benyújtanod. Ha kérdésed van, vagy segítségre van szükséged, a következő elérhetőségeinken keressen bennünket bizalommal, segítünk! email: jelzaloghitel@granitbank.hu Telefonon:06-1-881-2688 "
+    },
+    {
+        "chunk_id": 70,
+        "cím": "Milyen dokumentumok szükségesek a jelzáloghitel igényléshez?  ",
+        "leírás": "\"A hitelkérelem benyújtásához szükséges nyomtatványok, illetve a benyújtandó dokumentumok jegyzéke: nem hitelkiváltás és hitelkiváltás esetén. Egy standard hitelkérelem esetén az alábbi dokumentumok benyújtása szükséges: Kölcsönigénylő nyomtatványok és tájékoztatók: Kölcsönkérelmi nyomtatványok („Kölcsönigénylő” nyomtatvány, „Ügyletszereplők adatai” nyomtatvány, „Ingatlanok adatai” nyomtatvány, Érvényes személyazonosító igazolvány, vagy kártya alapú személyazonosító igazolvány (ezek hiányában útlevél vagy vezetői engedély) és lakcímet igazoló hatósági igazolvány lakcímes oldalának fénymásolati példánya (Az okmány másolatokon a következő szöveg kell, hogy szerepeljen: „a fénymásolat készítéséhez hozzájárulok”, dátum és az ügyfél aláírásnak kell szerepelni) Adóazonosító jelet tartalmazó kártya fénymásolati példánya (Az okmány másolaton a következő szöveg kell, hogy szerepeljen: „a fénymásolat készítéséhez hozzájárulok”, dátum és az ügyfél aláírása) Amennyiben nem áll rendelkezésére a kártya, a NAV helyi kirendeltségein igazolást kérhet az adóazonosító jeléről. Ingatlan értékelési díj (fedezetenként 42 000 Ft) befizetését igazoló pénztárbizonylat vagy az értékbecslési díj átutalásának igazolása. (Az átutalási megbízás közleményében feltüntetendő információk: az ügyfél neve, címe, a befizetés jogcíme: „ingatlan értékbecslés megrendelése” számlaszám: Gránit Bank Zrt.; 12100011-18181816) Egységes szerkezetbe foglalt „Nyilatkozatok” nyomtatvány kölcsönigénylők által aláírt példánya Ügyfél részére készített, ügyfél által aláírt tájékoztató a 2009. évi CLXII. törvény, a 32/2014. (IX.10.) MNB rendelet és az 56/2014. (XII.31.) NGM rendelet előírása szerint („Általános tájékoztató”, és „Személyes tájékoztató”, „Tájékoztató a Jelzálogkötelezettek részére” és „Törlesztőrészlet - Rendszeres jövedelem arányának alakulásáról szóló” tájékoztató a hitelszerződés megkötését megelőzően) Ingatlanra vonatkozó dokumentumok: Az ingatlan(ok) méretarányos alaprajza, a helyiségek és ezek területének feltüntetésével, amelyet az igénylő is elkészíthet. Osztatlan közös tulajdon esetén a használati jog megosztásról szóló ügyvéd vagy közjegyző által ellenjegyzett megállapodás, és vázrajz mely egyértelműen rögzíti, hogy az adott tulajdoni hányad természetben mely ingatlanrészben testesül meg. (Ingatlanrészek, tulajdoni hányadok vásárlása, fedezetként történő felajánlása esetén szükséges. A megállapodást az ingatlan valamennyi tulajdonosának alá kell írnia.) Bérleti szerződés (amennyiben a fedezetül felajánlott ingatlan bérbe van adva). Lakásbiztosítási kötvény (indexált- azaz az aktuális évre szóló) és a biztosítás díjfizetés igazolása. Energiatanúsítvány vagy Építész-tervező nyilatkozata és energetikai számítása Jövedelem igazolására szolgáló dokumentumok: Lakossági folyószámla/bankszámla kivonat (utolsó 6 teljes havi eredeti vagy Internetről letöltött kivonat). (Az igénylők valamennyi lakossági folyószámla valamint hitelkártya számla kivonata szükséges!) GYED, GYES, családi pótlék folyósításának igazolása: az utolsó 6 teljes havi bankszámlakivonattal, vagy az ellátást folyósító intézet utolsó, 30 napnál nem régebben kiállított igazolása) Nyugdíj igazolására: nyugdíjas igazolvány fénymásolata, határozat a nyugdíj összegéről, 3 teljes havi számlakivonat, vagy a Nyugdíjfolyósító Igazgatóság utolsó, 12 hónapnál nem régebbi igazolása az ellátás összegéről. Alkalmazottak esetén: Cégszerűen aláírt munkáltatói jövedelemigazolás (30 napnál nem régebbi, Gránit Bank Zrt. formanyomtatványon igazolva, amely elérhető a Bank honlapján, a hiteleken belül a jelzáloghitel letölthető dokumentumai között). Amennyiben a jövedelem nem lakossági folyószámlára érkezik, akkor a munkáltatói jövedelemigazoláson felül NAV által a hiteligénylő magánszemélyre vonatkozóan kiállított eredeti jövedelemigazolás benyújtása is szükséges. Amennyiben a kölcsönigénylő jövedelme nem lakossági folyószámlára érkezik, és az előző, lezárt adóévben más cég alkalmazottja (is) volt, a munkáltatói jövedelemigazoláson túl benyújtandó a jelenlegi munkáltató által a NAV részére benyújtott utolsó 6 havi E-bevallása a hiteligénylő magánszemélyre vonatkozóan. Cafetéria: cégszerűen aláírt munkáltatói jövedelemigazoláson (30 napnál nem régebbi, Gránit Bank Zrt. formanyomtatványon igazolva). Járadék (pl. életjáradék, sportolói járadék, állami kitüntetéshez kapcsolódó járadék, stb.): magyar/külföldi állam által történő folyósítás esetén, ha a járadék csoportos jóváírással érkezik, akkor az utolsó 6 teljes havi bankszámla kivonat, minden más esetben a járadékot folyósító intézet utolsó, 12 hónapnál nem régebbi igazolása a havi járadék összegéről. Saját vállalkozásból vélelmezett jövedelem esetén: NAV által, hiteligénylő magánszemélyre vonatkozóan kiállított (30 napnál nem régebbi) eredeti jövedelemigazolás a megelőző lezárt adóévről. Adó és köztartozások megfizetését igazoló (30 napnál nem régebbi) eredeti NAV adóigazolás mind a hiteligénylő személyére, mind a vállalkozásra vonatkozóan. Bérbeadásból származó jövedelem: Bérleti szerződés és a megelőző lezárt adóévről NAV által a hiteligénylő magánszemélyre vonatkozóan kiállított eredeti jövedelemigazolás benyújtása is szükséges (30 napnál nem régebbi). Osztalék: utolsó két egymást követő évben NAV által a hiteligénylő magánszemélyre vonatkozóan kiállított eredeti jövedelemigazolás (30 napnál nem régebbi) és aláírt adóbevallás. Hitelcéltól függően további dokumentumok benyújtása szükséges. link: https://granitbank.hu/api/cms/assets/457CAADC-384C-4565-8C96-FA38F475E438//Benyujtando%20dok%20jegyzeke_hitelkivaltasnal_202410.pdf"
+    },
+    {
+        "chunk_id": 71,
+        "cím": "Milyen dokumentumok szükségesek a hitel igényléshez?",
+        "leírás": "**Kötelező dokumentumok Gránit Bank hitelkérelemhez:**\n\n1. **Személyes dokumentumok:**\n   - Érvényes személyazonosító igazolvány, útlevél, vagy vezetői engedély másolat.\n   - Lakcímet igazoló kártya másolat.\n   - Adóazonosító jel kártya másolat \n\n2. **Kölcsönigénylési dokumentumok:**\n   - „Kölcsönigénylő” és „Ügyletszereplők adatai” nyomtatványok.\n   - „Ingatlanok adatai” nyomtatvány.\n   - Nyilatkozatok és tájékoztatók aláírt példányai.\n\n3. **Ingatlannal kapcsolatos dokumentumok:**\n   - Ingatlan alaprajza (méretarányos).\n   - Osztatlan közös tulajdon esetén használati megállapodásról\n   - Bérleti szerződés, ha van.\n   - Lakásbiztosítási kötvény és díjfizetés igazolás.\n   - Energiatanúsítvány.\n\n4. **Pénzügyi dokumentumok:**\n   - Ingatlan értékelési díj igazolása (42 000 Ft fedezetenként).\n   - Lakossági és hitelkártya számla kivonat (utolsó 6 havi).\n   - Jövedelemmel kapcsolatos igazolások (pl. munkáltatói igazolás, nyugdíjas igazolvány).\n\n5. **Speciális jövedelmi igazolások:**\n   - GYED, GYES, családi pótlék igazolás.\n   - Nyugdíj igazolása.\n   - Munkáltatói igazolás (NAV igazolás, ha szükséges).\n   - Cafetéria jövedelem igazolás.\n   - Járadék igazolás (ha van).\n   - Saját vállalkozásból származó jövedelem NAV igazolása.\n   - Bérbeadás és osztalék jövedelmekkel kapcsolatos igazolások.\n\n6. **Egyéb:**\n   - Hitelcéltól függően további szükséges dokumentumok lehetnek. link: https://granitbank.hu/api/cms/assets/457CAADC-384C-4565-8C96-FA38F475E438//Benyujtando%20dok%20jegyzeke_hitelkivaltasnal_202410.pdf"
+    },
+    {
+        "chunk_id": 72,
+        "cím": "Milyen egyéb költségekkel jár a hitel felvétel?",
+        "leírás": "**Gránit Bank hiteldíjak és feltételek:**\n\n- **Törlesztés:**\n  - Csak kamat fizetendő, nincs kezelési vagy rejtett költség.\n  - Kizárólag Gránit Banknál vezetett bankszámláról törleszthető.\n\n- **Bankszámla:**\n  - 0 Ft-os számlavezetési díjú csomagok elérhetők.\n\n- **Biztosítások:**\n  - Kötelező lakásbiztosítás.\n  - Életbiztosítás kötelező, ha nincs adóstárs és a hitel/ingatlanyar érték aránya >60%.\n\n- **Induló díjak:**\n  - Folyósítási jutalék: 1%, max. 200,000 Ft. - akcióban elengedésre kerül\n  - Fedezet értékelési díj: 42,000 Ft/ingatlan. - folyósításkor visszatérítésre kerül\n  - Közjegyzői díj -ebből 48 000 Ft visszatérítésre kerül piaci hitel esetén, fedezetbejegyzési díj - 20 000 Ft\n-Tulajdoni lap, térképmásolat díját a Bank átvállalja\n\n- **Előtörlesztés:**\n  - Részleges/teljes: 1.5%, refinanszírozott esetén 2.0%.\n\n- **További információk:**\n  - Részletek a Hirdetményben."
+    },
+    {
+        "chunk_id": 73,
+        "cím": "Hogyan kell a hitelt törleszteni?",
+        "leírás": "A kölcsön törlesztése a Gránit Banknál vezetett számláról történhet. Elérhető számlacsomagok:https://granitbank.hu/szamlanyitas/bankszamlak/\nA hitel törlesztése a folyósítást követő hónap 10. napján kezdődik és minden hónap 10-én esedékes."
+    },
+    {
+        "chunk_id": 74,
+        "cím": "Van-e lehetőség a hitel előtörlesztésére?",
+        "leírás": "\"A kölcsönfelvevő bármikor jogosult a hitel részleges vagy teljes előtörlesztésére. Amennyiben élni kíván előtörlesztési szándékával, azt írásban (Netbank szabad formátumú levél) a GRÁNIT Bank felé be kell jelentenie. A Bank az előtörlesztési szándék bejelentését követő 5 munkanapon belül bocsátja rendelkezésre a szükséges információkat Az előtörlesztés elszámolása - a Bank a törlesztő számlán való rendelkezésre állástól számított 5 munkanapon belül elszámolja az előtörlesztett összeget. Előtörlesztés esetén a Bank díjat számol fel, melynek mértékét a mindenkori Hirdetmény tartalmazza.\""
+    },
+    {
+        "chunk_id": 75,
+        "cím": "Hogyan változik a gyermekvállalás teljesítésére rendelkezésre álló határidő 2024.07.09-től?",
+        "leírás": "A kormányrendelet módosítása értelmében azon ügyfelek esetében, akik a babaváró hitelt 2019.07.01 és 2021.06.30 közötti időszakban vették fel, számukra a gyermekvállalás teljesítésére rendelkezésre álló 5 éves időszak kitolódik, és egységesen lejárata 2026.07.01 lesz."
+    },
+    {
+        "chunk_id": 76,
+        "cím": "Hogyan változnak a Babaváró Hitel feltételei 2024.01.01-től?",
+        "leírás": "\"2024. január 01-től a Babaváró kölcsön maximális összege 11 millió forintra, az állami kamattámogatás időszakában a havi törlesztőrészlet maximális összege 51 ezer forintra emelkedett. A házaspárok életkori szabálya szigorodott, a pár akkor jogosult a babaváró felvételére, ha a feleség az igénylés napján még nem töltötte be a 30. életévet. 2024-ben amennyiben igényléskor a házaspár hölgy tagja már várandós, és a magzat betöltötte a 12. hetet, akkor a feleség nem haladhatja meg a 41 éves életkort. A kamattámogatás összege és a kamattámogatás elvesztése esetén a büntetőkamat mértéke is változott. Az állam csökkentette a kamattámogatás mértékét, ugyanakkor a büntetőkamat mértéke nem csökken egyértelműen, ugyanis a támogatás feltételeinek megszegése esetén büntetésként a kamattámogatás és a jegybanki alapkamat 3 százalékponttal növelt értéke közül a nagyobbat kell figyelembe venni. (példa: Az állam által eddig jóváírt 12,15%-os kamattámogatás mérséklődik 10,66%-ra, viszont az alapkamat 13% marad. Ekkor a büntetőkamat mértéke a 10,66% helyett 13%+3%=16% lesz.)\""
+    },
+    {
+        "chunk_id": 77,
+        "cím": "# Babaváró hitel\n\nMennyi időt vesz igénybe a hitelbírálat és a babaváró hitel folyósítása?",
+        "leírás": "A Babavárónál a 44/2019 (III. 12) Kormányrendelet maximum 10 munkanapban határozza meg a hitelbírálat lebonyolítását, ami a hitelkérelem benyújtásától számítódik, és amelybe nem számít bele a hiánypótlásra biztosított időtartam. Kedvező hitelbírálat esetén a szerződéskötést követő 2 munkanapon belül folyósítja a Gránit Bank a babaváró hitelt a banknál nyitott folyószámlára. A Gránit Bank 100 százalékban online babaváró hitel igénylési folyamata és a VideóBankban való szerződéskötés segít abban, hogy a hiteligénylési folyamat a lehető leggyorsabb és legegyszerűbb legyen."
+    },
+    {
+        "chunk_id": 78,
+        "cím": "Milyen célra igényelhető a Babaváró Hitel?",
+        "leírás": "A Babaváró hitel bármilyen célra igényelhető, szabadfelhasználású hitel számos hitelcélra igénybe vehető, például lakásvásárlás, felújítás, biztonsági tartalék, autóvásárlás vagy hitelkiváltás. Egyszerre akár több célra is igényelhető, a legfőbb hitelcélt meg kell jelölni a igényélőlapon. Amennyiben egy másik banknál felvett kölcsön kiváltása a hitelcél, akkor szükség van a kiváltandó kölcsöntartozás összegére vonatkozó tartozásigazolásra, mely tartalmazza azt a számlaszámot is, ahova a kölcsönkiváltás érdekében a Babaváró hitelt a Gránit Banknak folyósítania kell. Az igényelhető hitel összegének meghatározásához használjátok a Babaváró hitel kalkulátort. Az igényelhető hitelösszeg maximum 11 millió forint a kamattámogatás ideje alatt a törlesztőrészlet legfeljebb 51 ezer forint. "
+    },
+    {
+        "chunk_id": 79,
+        "cím": "Mennyi a Babaváró hitel kamata?",
+        "leírás": "\"A Babaváró hitel induláskor kamatmentes, mert az 5 éves ÁKK 110%* +1% mértékű kamatot az állam fizeti. Amennyiben a kölcsön folyósítását követő 5 éven belül (2019.07.01 - 2021.06.30 között igénylők esetén 2026. 07.01-ig) az első gyermeketek magzati életkora eléri a 12 hetet, vagy gyermeket fogadtok örökbe és az örökbefogadást engedélyező határozat véglegessé válik, akkor a Babaváró hitel a futamidő végéig kamatmentes marad, mert az állam a teljes futamidőre kamattámogatást nyújt számotokra. Ha 2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig, egyéb esetben 5 éven belül nem igazoljátok a 12 hetes magzattal fennálló várandósságot, vagy az örökbefogadás véglegessé válását, akkor a kamatmentes hitel az 5. évtől, vagy 2026.07.01-től kamatozóvá válik, az addig igénybe vett kamattámogatást pedig 120 napon belül egy összegben vissza kell fizetnetek. Ezt követően a hitel kamata az 5 éves ÁKK 130%* +4% mértékű lesz, amihez már nem nyújt kamattámogatást az állam. Amennyiben elváltok, külföldre költöztök, vagy nem saját háztartásban nevelitek a gyermekeket, akkor a kamatmentességet szintén elveszítitek és a hitel kamata az 5 éves ÁKK 130%* +4% mértékű lesz a továbbiakban. A Babaváró hitelkalkulátor megmutatja azt is, hogyan változhat ebben az esetben a törlesztőrészlet. A tájékoztatás nem teljes körű, további részleteket a 44/2019. (III.12.) Korm. rendelet szabályozza.\""
+    },
+    {
+        "chunk_id": 80,
+        "cím": "Milyen dokumentumok szükségesek a TB jogviszony kapcsán?",
+        "leírás": "\"A Babaváró hitel esetében az elvárt TB jogviszony meglétét igazolni kell, azonban elegendő a házaspár egyik tagjának 3 éves folyamatos TB jogviszonyt vagy felsőoktatási tanulmányát igazolnia az alábbi módokon: magyar TB jogviszony esetén: egészségbiztosítási pénztári (OEP) feladatokat ellátó fővárosi és megyei kormányhivatal által kiállított OEP igazolást szükséges bemutatnotok a Banknak. Digitális hiteles aláírással ellátott elektronikus igazolást is elfogadunk, melyet a saját ügyfélkaputokon keresztül tudtok igényelni az OEP-től. \nFelsőoktatási tanulmányok esetén: a hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással kell igazolni külföldi TB jogviszony esetén (pl. külföldi munkavállaló esetében): az igazolás kiállításához hatáskörrel rendelkező külföldi hatóság által kiállított eredeti igazolás és annak hiteles fordításával tudjátok igazolni \ngyermekgondozási díj esetén: az ellátást megállapító szerv (Magyar Államkincstár) által kiállított igazolással kell igazol. \nFontos tudni, hogy ha a 3 éves TB jogviszony több különböző kategóriából áll össze, akkor minden igazolást is be kell szerezni. \nFolyamatosnak tekinthető a TB jogviszony, ha abban legfeljebb 30 nap megszakítás van, illetve a felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben folytatott tanulmányok befejezését követően a következő, Babaváró támogatásra jogosító jogviszony megkezdéséig hat hónapnál hosszabb megszakítás nincs. A közfoglalkoztatási jogviszonyban töltött idő egy évet meghaladó része nem számítható be. A magyar TB jogviszony és a nemzeti/nemzetközi felsőoktatási intézményben lévő hallgatói jogviszony szünetelése nem minősül a jogviszony megszakításának, de annak időtartama a kötelező 3 éves TB jogviszony időszakába nem számít bele.\""
+    },
+    {
+        "chunk_id": 81,
+        "cím": "Hogyan tudjátok beszerezni a TB jogviszony igazolást?",
+        "leírás": "\"A Tbj. szerinti igazolást egyszerűen megkérheted online, amennyiben rendelkezel Ügyfélkapu hozzáféréssel. \nAz igénylés folyamata: lépés: Dokumentum letöltése és kitöltése lépés: Bejelentkezés az e-Papír oldalra lépés: Új levél írása menüpontot kiválasztása Az alábbiakat jelöld az adatlapon: Témacsoport: Kormányhivatali ügyek Ügytípus: Egészségbiztosítási pénztári feladatok Címzett: A megyeszékhely szerinti járási hivatalt kell kiválasztani, vagy Budapest esetén a Budapest Főváros Kormányhivatalt. Hivatkozási szám: nem szükséges kitölteni Levél tárgya: TB Igazolás – Babaváró kölcsön igénybevételéhez Levél szöveg minta: Tisztelt Ügyintéző! Segítségét kérném a Babaváró kölcsön igényléséhez szükséges Hatósági Bizonyítvány kiállításában. Kérem, hogy a Hatósági bizonyítványt – elektronikus úton küldjék el részemre az ügyfélkapus tárhelyemre vagy – a levelezési címemre szíveskedjenek postázni. lépés: Csatolmány beillesztése Itt az 1. lépésben jelzett kitöltött csatolmányt kell feltöltened. lépés: Véglegesítés Amennyiben minden adatot helyesen töltöttél ki, nyomj a “Tovább a véglegesítéshez” gombra, majd mentsd el a visszaigazolást (nem kötelező, de érdemes). Ügyfélkapun keresztül pár napon belül elérhető az igazolás. Ha nem rendelkezel Ügyfélkapu hozzáféréssel, személyesen tudod megigényelni az igazolást a legközelebbi egészségbiztosítási pénztári feladatokat ellátó fővárosi vagy vármegyei kormányhivataltól. A külföldön létrejött TB jogviszonyt a külföldi hatóság vagy a nemzetközi szerződéssel létrehozott nemzetközi szervezet által kiállított igazolással és annak hiteles magyar nyelvű fordításával szükséges igazolni. A hallgatói jogviszony fennállását a felsőoktatási intézmény által kiadott igazolással, a külföldi tanulmányokat az annak időtartamáról szóló, a külföldi felsőoktatási intézmény által kiadott igazolással és annak hiteles magyar nyelvű fordításával, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalásával tudod igazolni.\""
+    },
+    {
+        "chunk_id": 82,
+        "cím": "Melyek a Babaváró Hitel igénylés feltételei?",
+        "leírás": "\"Olyan házaspárok igényelhetik, ahol mindkét fél betöltötte a 23. életévét, és a feleség még nem töltötte be a 30. életévét (2024-ben 12. hetet betöltött várandósság esetén 30-41 életkor között is igényelhető) Az igénylők magyarországi lakcímmel rendelkeznek. Legalább az egyik fél legalább 3 éve folyamatos TB jogviszonnyal rendelkezik. Egyik félnek sincs NAV köztartozása. Mindkét fél büntetlen előéletű. Egyik félnek sincs a KHR-ben nyilvántartott nemfizetés miatti tartozása. A háztartás a hitel törlesztésére elegendő jövedelemmel rendelkezik.\""
+    },
+    {
+        "chunk_id": 83,
+        "cím": "Mi számít Babaváró hitel szempontjából gyereknek?",
+        "leírás": "Babaváró hitel szempontjából gyereknek számít a kölcsönkérelem benyújtása utáni időszakban a 12. hetét betöltött magzat. Az örökbefogadott gyermek(ek) után is érvényesíthető a kedvezmény, amennyiben az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé."
+    },
+    {
+        "chunk_id": 84,
+        "cím": "# Babaváró hitel\n\nMit kell tenned, amikor megszületik gyermeked?",
+        "leírás": "\"Ha megszületik az első gyermeketek, be kell jelenteni a Bank részére a születést követő 180 napon belül a baba alábbi okmányainak egyszerre történő megküldésével: születési anyakönyvi kivonat lakcímkártya mindkét oldala adókártya vagy a NAV által kiadott adószám igazolás A nyilvántartásba vétel csak az okmányok teljeskörű megküldése után lehetséges. A fent jelzett dokumentumokat leadhatjátok személyesen vagy megküldhetitek emailben a babavaro@granitbank.hu e-mail címre.\""
+    },
+    {
+        "chunk_id": 85,
+        "cím": "Hogy működik a Babaváró Hitel törlesztése?",
+        "leírás": "\"A kölcsön folyósítását követő hónap 10. napján kerül beszedésre az első törlesztőrészlet összege a Gránit Banknál vezetett bankszámláról. Ha 5 éven belül megszületik az első gyermeketek, akkor a Babaváró hitel a futamidő végéig továbbra is kamatmentes marad számotokra és kérelmezhetitek a törlesztés legfeljebb 3 évig történő szüneteltetését, amely idővel a futamidő automatikusan meghosszabbodik. Második gyermeketek születését követően, a fennálló tartozás 30%-a elengedésre kerül. Ebben az esetben is kérelmezhető a legfeljebb 3 évre történő szüneteltetés, de ekkor a futamidő vége már nem változik. A harmadik gyermek születését követően a teljes fennmaradó kölcsöntartozás elengedésre kerül és a kölcsön támogatássá alakul.\""
+    },
+    {
+        "chunk_id": 86,
+        "cím": "A Babaváró hitel végtörlesztése",
+        "leírás": "\"Amennyiben a Babaváró hitel felvételéhez képest 5 éven belül, vagy 2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig tervezitek a Babaváró hitel végtörlesztését és még nem született gyermek a családban, akkor a Babaváró hitel végtörlesztése esetén a törlesztés összegére jutó kamattámogatást egy összegben vissza kell fizetnetek. Amennyiben a Babaváró hitel felvételéhez képest 5 éven túl vagy 2021.06.30-ig igényelt hitel esetén 2026.07.01-jén tervezitek a Babaváró hitel visszafizetését és a rendelkezésre álló időintervallumon belül nem születik gyermek a családban, akkor elveszítitek a kamatmentességet, és az addig igénybe vett kamattámogatást egy összegben ki kell fizetnetek. A Babaváró hitel végtörlesztése ezután díjmentes. Amennyiben gyermekvállalás után tervezitek a Babaváró hitel végtörlesztését, akkor azt bármikor megtehetitek díjmentesen. Fontos tudnotok, hogy a Babaváró hitelt ezután már többször nem vehetitek fel újra.\""
+    },
+    {
+        "chunk_id": 87,
+        "cím": "Ha lakást szeretnénk vásárolni, felhasználható a Babaváró hitel önerőként?",
+        "leírás": "A Babaváró hitel 75%-a önerőként is felhasználható, amennyiben a lakáshitelt a Babaváró hitel felvételekor, vagy a Babaváró kölcsönszerződés megkötését követő 90 napon belül igénylitek. Ha több mint 90 nap telik el a Babaváró kölcsönszerződés megkötése és a lakáshitel igénylése között, akkor ez a korlátozás nem áll fenn."
+    },
+    {
+        "chunk_id": 88,
+        "cím": "Szükséges értékbecslés a Babaváró hitel igényléséhez?",
+        "leírás": "Nem, a Babaváró hitel felvétele esetén nincs szükség értékbecslésre."
+    },
+    {
+        "chunk_id": 89,
+        "cím": "Babaváró hitel szempontjából az ikrek egy vagy két gyereknek számítanak?",
+        "leírás": "A Babaváró Hitel szempontjából az Ikrek két új gyermeknek számítanak. Hármasikrek esetén pedig rögtön vissza nem térítendő támogatássá válik a fennálló hiteltartozás. Az igénybe vehető törlesztés szüneteltetés ikrek esetén 3 évvel helyett 5 év lehet."
+    },
+    {
+        "chunk_id": 90,
+        "cím": "Meglévő gyermekre igénybe lehet venni a Babaváró hitelt?",
+        "leírás": "Nem, meglévő gyermekekre Babaváró hitel nem igényelhető. A kamattámogatás véglegesítéséhez legalább egy új gyermek vállalása szükséges."
+    },
+    {
+        "chunk_id": 91,
+        "cím": "Vállalhatunk külföldön munkát a Babaváró hitel igénylését követően?",
+        "leírás": "Vállalható munka külföldön a Babaváró hitel felvétele után, de a magyarországi lakcímmel kell rendelkeznetek a futamidő végéig, hogy kamattámogatásra jogosultak legyetek."
+    },
+    {
+        "chunk_id": 92,
+        "cím": "Mi történik haláleset esetén a Babaváró hitellel?",
+        "leírás": "\" Amennyiben egyikőtök a kölcsön folyósításától számított 5 éven belül (2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig), a házasság fennállása alatt meghal, az özvegy – vagy mindkettőtök 180 napon belül történő halála esetén az örökös - a halotti anyakönyvi kivonat kiállításának időpontját követő 180 napon belül a hitelintézethez benyújtott kérelme esetén a Babaváró hitel kamatmentes marad, és a korábban igénybe vett kamattámogatást sem szükséges visszafizetni. Ha az özvegy a gyermekvállalásra vonatkozó feltételt a házastársa halálát követően teljesíti a tőle származó közös magzatuk által, akkor a támogatott személyekre vonatkozó rendelkezéseket az egyedülálló özvegy támogatott személyre is alkalmazni kell. Válás esetén, ha az igénylő 5 éven belül (vagy 2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig) új házasságot köt, és az igénylő új házassága révén támogatásra és szünetelésre is jogosulttá válhat. Fontos tudni: ha a haláleset után a házastárs újra házasságot köt, akkor a kölcsön folyósítását követő első 5 évben továbbra is lehetősége van a gyermekvállalási feltételt teljesíteni. Azaz, ha a folyósítást követő 5 évben már az új házasságból születik gyermek (vagy magzat eléri a 12. hetet), akkor a támogatott személy továbbra is jogosult lehet törlesztés szüneteltetésre és további gyermek esetén a gyermekvállalási támogatásra.\""
+    },
+    {
+        "chunk_id": 93,
+        "cím": "Házastársam nem magyar állampolgár, igényelhető így Babaváró hitel?",
+        "leírás": "Amennyiben mindketten magyarországi lakcímmel rendelkeztek, és a házaspár külföldi tagja tartózkodási engedéllyel rendelkezik (három hónapot meghaladó tartózkodási jogosultsággal), és megfeletek az egyéb jogszabályi feltételeknek, akkor igényelhettek Babaváró hitelt."
+    },
+    {
+        "chunk_id": 94,
+        "cím": "Kell nyitnunk bankszámlát a Babaváró hitel igényléséhez?",
+        "leírás": "Igen, a Babaváró hitel folyósítása a Gránit Banknál vezetett bankszámlára történik."
+    },
+    {
+        "chunk_id": 95,
+        "cím": "A Babaváró hitel törlesztés szüneteltetése automatikus?",
+        "leírás": "\"Nem. A Bank felé a „Kérelem hiteltörlesztés szüneteltetésre” című kérelem kitöltésével és leadásával jeleznetek kell, hogy a Babaváró hitel törlesztésének felfüggesztését kéritek 3 évre. A kérelemhez az alábbi dokumentumokat mellékeljétek: Babaváró Kormányrendelet szerinti orvosi igazolás ikervárandósság esetén a magzatok számának igazolása orvosi igazolással vér szerinti gyermek megszületése esetén (jelen kérelem benyújtásával egyidőben, de legkésőbb a születést követő 180 napon belül): születési anyakönyvi kivonat, gyermek lakcímkártyája, adóigazolványa örökbefogadott gyermek esetén: örökbefogadást engedélyező jogerős határozat, gyermek lakcímkártyája és adóigazolványa lakcímkártya (mindkét Igénylő/Adós személyre vonatkozóan) Az első és második gyermek érkezése esetén jár ez a kedvezmény. 12 hetes magzati kortól a gyermek születése után 180 napig jelezheted jogosultságodat a Bank felé. A hitelkérelem benyújtásával egyidőben is jelezhetitek a szüneteltetési kérelmeteket az igénylőlapon. Babaváró hitelkalkulátor segítségével kiszámolhatjátok azt is, hogyan alakul a törlesztés szüneteltetést követően. A dokumentumokat leadhatjátok személyesen, vagy elküldhetitek e-mailben a babavaro@granitbank.hu címre.\""
+    },
+    {
+        "chunk_id": 96,
+        "cím": "Babaváró hitel: kötelező-e élni a törlesztés szüneteltetéssel?",
+        "leírás": "Nem kötelező, azonban ha élni szeretnetek vele, akkor a törlesztés szüneteltetése iránt kérelmet be kell nyújtanotok a Bank felé. Babaváró hitelkalkulátor segítségével megnézhetitek, hogyan változik a törlesztőrészlet és a visszafizetendő összeg a futamidő során."
+    },
+    {
+        "chunk_id": 97,
+        "cím": "Babaváró hitel: Mely esetekben szükséges visszafizetni a kamattámogatást?",
+        "leírás": "A Babaváró hitel kamattámogatási összegét vissza kell fizetni:\n\n- Ha az igénylést követően 5 éven belül (2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig) nem születik meg az első gyermeketek.\n\n- Ha egyikőtök sem rendelkezik már magyarországi lakcímmel. Ha egyikőtök sem neveli saját háztartásában a kiskorú gyermeket.\n\n- Ha a kölcsön futamideje alatt felbontjátok vagy érvénytelenné nyilvánítjátok a kettőtök közötti házasságot."
+    },
+    {
+        "chunk_id": 98,
+        "cím": "Babaváró hitel: Hogyan változik a törlesztési kötelezettség, ha nem születik meg 5 éven belül (illetve 2019.07.01 - 2021.06.30 közötti igénylés esetén 2026. 07.01-ig) az első gyermek?",
+        "leírás": "\"Egyrészt az állam által megfizetett kamattámogatás teljes összegét egyösszegben vissza kell fizetnetek. Másrészt a Babaváró hitel kamatát is már nektek kell fizetnetek. A kamat mértéke az ÁKK Zrt. által közzétett, a közzétételt megelőző 3 hónapban tartott 5 éves állampapír aukciókon kialakult átlaghozamok súlyozott számtani átlaga 130%-ának 4 százalékponttal növelt értéke. Továbbra is fizetnetek kell a kezességvállalási díjat.\""
+    },
+    {
+        "chunk_id": 99,
+        "cím": "Babaváró hitel: Kérhető-e az 5 év alatt az állam által megfizetett kamattámogatás teljes összegének elengedése?",
+        "leírás": "\"Igen, a kérelmet a kormányhivatalhoz lehet benyújtani. A kormányhivatal a benyújtott kérelem alapján hatósági eljárásban, méltányosságból felmentést engedélyezhet, ha az egyik igénylő elhalálozik az egyik igénylőnek megváltozik a munkaképessége a házaspár egészségügyi szempontból nem tudta teljesíteni a gyermekvállalást\""
+    },
+    {
+        "chunk_id": 100,
+        "cím": "# Babaváró hitel\n\nKérhető-e méltányosság az 5 év alatt az állam által megfizetett kamattámogatás visszafizetésére?",
+        "leírás": "Igen, a kamattámogatás részletekben történő visszafizetésére a kormányhivatal méltányosságból 24 havi részletfizetést engedélyezhet, ha az egyösszegű visszafizetés aránytalanul súlyos terhet jelentene részetekre."
+    },
+    {
+        "chunk_id": 101,
+        "cím": "Milyen futamidőre igényelhető a CSOK Plusz Lakáshitel?",
+        "leírás": "\"A hitel lehetséges futamideje minimum 10 év, maximum 25 év, mely a törlesztés szüneteltetés idejével meghosszabbodik. \""
+    },
+    {
+        "chunk_id": 102,
+        "cím": "Mi történik, ha a CSOK Plusz felvételéhez vállalt gyermekek nem születnek meg az előírt határidőn belül?",
+        "leírás": "\"Amennyiben a házaspár a gyermek vállalását nem, vagy csak részben teljesíti a szerződésben a meghatározott határidőig, a kamattámogatás a határidő lejártát követő naptól a jövőre nézve megszűnik. Ebben az esetben a kérelmezőknek az igénybe vett kamattámogatás összegét \\(csökkentve a gyermekvállalási határidő lejártának időpontjában meglévő gyermekek után, a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével\\) a kamattámogatás igénybevételének napjától számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten – a határidő leteltét követő 120 napon belül – vissza kell fizetniük. \""
+    },
+    {
+        "chunk_id": 103,
+        "cím": "Mekkora összegű CSOK Plusz Lakáshitel igényelhető?",
+        "leírás": "\"A hitel összege a vállalt és meglevő közös vagy nem közös, de közösen nevelt gyermekek együttes számától függően - 1 gyermek esetén maximum 15 mFt, - 2 gyermek esetén maximum 30 mFt, - 3 gyermek esetén maximum 50 mFt lehet. A hitel minimális összege 1 millió Ft. A hitel összegét megalapozó gyermekszám megállapítása során 1. a házaspárral egy háztartásban élő közös és a házaspár által közösen vállalt gyermekeket, valamint a házastársak velük egy háztartásban élő nem közös gyermekeit együttesen, 2. a 12. hetet betöltött magzatot vállalt gyermekként kell figyelembe venni. \""
+    },
+    {
+        "chunk_id": 104,
+        "cím": "Milyen célokra igényelhető a CSOK Plusz Lakáshitel?",
+        "leírás": "\"A CSOK Plusz Lakáshitel új és használt lakás vásárlására, új lakás építésére, meglevő használt lakás bővítésére vagy használt lakás vásárlással egybekötött bővítésére igényelhető. \""
+    },
+    {
+        "chunk_id": 105,
+        "cím": "Mi történik, ha a CSOK Plusz lakáshitel felvétele után a házasságot felbontják vagy érvénytelenítik?",
+        "leírás": "\"Amennyiben a házaspár a gyermekvállalást nem vagy csak részben teljesíti a házasság felbontásának, érvénytelenítésének időpontjáig, a kamattámogatás megszűnik, az igénybe vett kamattámogatás összegét pedig \\(csökkentve a bírósági határozat jogerőre emelkedésének időpontjában meglévő gyermekek után a szerződés megkötésekor hatályos jogszabályi rendelkezések szerint járó kölcsön összegéhez kapcsolódó kamattámogatás összegével\\) a kamattámogatás igénybevételének napjától a házasság felbontásának vagy érvénytelensége megállapításának hitelintézetnél történő igazolása napjáig számított, a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelten vissza kell fizetni. A házasság felbontásának vagy érvénytelenítésének tényét a bírósági határozat jogerőre emelkedését követő 60 napon belül a Banknál kell igazolni a jogerős határozat bemutatásával. A CSOK Plusz részletes feltételeit a [Tájékoztató a CSOK Plusz Lakáshitelről](https://granitbank.hu/lakossag/hitelek/csokplusz/dokumentumok/tajekoztato- a-csokplusz-hitelprogramrol.pdf) találja. \""
+    },
+    {
+        "chunk_id": 106,
+        "cím": "# CSOK Plusz\n\nMit jelent a gyermekvállalási támogatás?",
+        "leírás": "\"A támogatott személyek a kölcsönkérelem benyújtását követően született vagy örökbefogadott gyermekeik közül a másodikként született vagy örökbefogadott, és minden egyes ezt követően született vagy örökbefogadott további gyermekük után gyermekenként 10 000 000 forint összegű vissza nem térítendő gyermekvállalási támogatásra jogosultak. A gyermekvállalási támogatás igényelhető 1. a kölcsönkérelem benyújtásának időpontjában vagy azt követően fennálló várandósság esetén, a támogatott személyeknek a várandósság legalább 12. hetét betöltött magzata után, és 2. a támogatott személyek által közösen örökbefogadott gyermek után, ha az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé. Ugyanazon gyermek után kizárólag egy alkalommal folyósítható a gyermekvállalási támogatás. \""
+    },
+    {
+        "chunk_id": 107,
+        "cím": "Mit jelent a CSOK Plusz Hitelprogram?",
+        "leírás": "\"A CSOK Plusz Hitelprogram keretében a házaspár a gyerekszámtól és a hitelképességtől függően maximum 50 mFt kamattámogatott kölcsönt vehet fel, melynek első törlesztési évében csak kamatot kell fizetni, tőketörlesztés pedig nincsen. A második, a kölcsön igénylését követően megszületett gyermektől kezdve minden újonnan született gyermek esetében 10 millió Ft jóváírásra kerül a kölcsöntartozásból. \""
+    },
+    {
+        "chunk_id": 108,
+        "cím": "Ki igényelheti a CSOK Plusz Lakáshitelt?",
+        "leírás": "\"A CSOK Plusz Lakáshitelt olyan házaspár igényelheti lakáscélja megvalósításához, ahol a feleség a kölcsön iránti kérelem benyújtásakor még nem töltötte be a 41. életévét, vagy a 2025. december 31-ig történő igényléskor már betöltötte a 41. életévét, de a kölcsön igénylésekor a terhessége már meghaladja a 12. hetet és gyermeket vállal, továbbá egyebekben megfelel az 518/2023. \\(XI. 30.\\) Korm. rendeletben rögzített feltételeknek. Javasoljuk, hogy a részletes feltételekről tájékozódjon a [Terméktájékoztató a CSOK Plusz Lakáshitelről](https://granitbank.hu/lakossag/hitelek/csokplusz/dokumentumok/tajekoztato- a-csokplusz-hitelprogramrol.pdf) összefoglaló. A CSOK Plusz Lakáshitelt az egyéb feltételek fennállása esetén azok a házaspárok is igényelhetik, akik esetében a korábbi lakáscéljuk megvalósításához a lakásépítési támogatásról szóló 256/2011. \\(XII. 6.\\) Korm. rendelet, a 16/2016. \\(II. 10.\\) Korm. rendelet, illetve a 17/2016. \\(II. 10.\\) Korm. rendelet szerinti megelőlegezett családi otthonteremtési kedvezményt igénybe vették és, ha az igénylésig a korábbi támogatáshoz kapcsolódó gyermekvállalás - teljesült vagy - nem teljesült, de a támogatás – a gyermekvállalás részleges sikertelensége esetén a nem teljesített gyermekre jutó – összegét visszafizették, azzal, hogy a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az új lakásban kell teljesíteni. Amennyiben korábban kamattámogatott kölcsönt is igényeltek, az igénybevett kamattámogatás összegét visszafizették és a kamattámogatást megszüntették. A kölcsönt a házastársak kizárólag együttesen igényelhetik. A kölcsönszerződés megkötése esetén az együttes igénylők mindketten támogatott személlyé válnak. Az igénylőkön kívül más adós a kölcsönszerződésben nem szerepelhet. \""
+    },
+    {
+        "chunk_id": 109,
+        "cím": "Új munkahely esetén csak a próbaidő leteltét követően igényelhető kölcsön?",
+        "leírás": "\"Igen. Ez alól kivétel, ha a próbaidő indoka munkahelyváltozás volt, és a régi munkaviszony vége és az új munkaviszony kezdete között maximum 10 munkanap telt el, továbbá az előző munkaviszony legalább egy évig folyamatos volt ugyanannál a munkaadónál. \""
+    },
+    {
+        "chunk_id": 110,
+        "cím": "A CSOK Plusz hitelen kívül milyen más támogatást/támogatott kölcsönt vehetek igénybe?",
+        "leírás": "A következő támogatott hitel:\n\n Babaváró kölcsön"
+    },
+    {
+        "chunk_id": 111,
+        "cím": "Az ingatlan értékének hány százalékáig nyújt kölcsönt a bank?",
+        "leírás": "\"A Bank az ingatlan forgalmi értékének lakáscélú kölcsönök esetében 80%-áig, szabad felhasználású hitelek esetében 75%-áig nyújt kölcsönt. Az értékbecslést a Bank által megbízott külső szakértő végzi. \""
+    },
+    {
+        "chunk_id": 112,
+        "cím": "Hogyan történik a folyósítás?",
+        "leírás": "\"A folyósítás  készültségi fokkal arányosan akkor kezdhető meg, ha a kölcsönön kívüli saját forrás az új lakás építésére felhasználásra került és ezt az értékbecslő leigazolja. Vásárlás esetén a  folyósítás az eladó számlájára történik."
+    },
+    {
+        "chunk_id": 113,
+        "cím": "Milyen formában igényelhetek lakáshitelt a Gránit banknál?",
+        "leírás": "Lakáshitelt, Lakáshitel és CSOK Plusz hitel együttesen és a  Babaváró hitel a Digitális ügyfélfiókodon keresztül beadható, melyet  regisztrációval tudsz létrehozni. Személyesen a Bank: - Központi Fiókjában \\(1095 Budapest, Lechner ödön fasor 8. I. em. nyitva tartása: H-P: 8:30-16:00\\) - WestEnd Bankfiókban \\(WestEnd City Center I. em. Hild József sétány 24. nyitva tartása: H-P: 10:00-18:00\\) - Postai úton \\(1439 Budapest Pf. 649.\\) "
+    },
+    {
+        "chunk_id": 114,
+        "cím": "Milyen formában igényelhetek Babaváró hitelt a Gránit banknál?",
+        "leírás": "A Babaváró hitel igénylés legegyszerűbben online tehető meg, Digitális Ügyfélfiók létrehozásával. A szerződéskötés is lehetséges online, VideóBankon keresztül. Ezen kívül személyesen a Bank: - Központi Fiókjában \\(1095 Budapest, Lechner ödön fasor 8. I. em. nyitva tartása: H-P: 8:30-16:00\\) - WestEnd Bankfiókban \\(WestEnd City Center I. em. Hild József sétány 24. nyitva tartása: H-P: 10:00-18:00\\) - Postai úton \\(1439 Budapest Pf. 649.\\) "
+    },
+    {
+        "chunk_id": 115,
+        "cím": "Milyen formában igényelhetek folyószámlahitelt a Gránit banknál?",
+        "leírás": "Folyószámlahitel esetén: - A NetBank/Postaláda/Szabad formátumú levél menüpontban írd meg az igénylést. Ezt követően NetBankon keresztül megküldjük az igényléséhez szükséges benyújtandó dokumentumokat. - A hiteligénylés beadásához küldd el a kitöltött papírokat postai úton, vagy személyesen add le a bankfiókjaink egyikében."
+    },
+    {
+        "chunk_id": 116,
+        "cím": "# Folyószámlahitel a Gránit Banknál\n\nMekkora lehet az igényelt folyószámla hitelkeret összege?",
+        "leírás": "\"Minimum 50 000 Ft, maximum 1 000 000 Ft. új folyószámlahitel esetén, legfeljebb a folyószámlára érkező havi rendszeres, igazolt jövedelem összege. Meglévő folyószámlahitel átvállalása esetén, megegyezik a kiváltott folyószámlahitel összegével \\(ami legfeljebb a folyószámlára érkező havi rendszeres, igazolt jövedelem háromszorosa\\). \""
+    },
+    {
+        "chunk_id": 117,
+        "cím": "Milyen dokumentumokat kell benyújtani a folyószámlahitel igényléshez?",
+        "leírás": "**Szükséges dokumentumok a hitelkérelemhez:**\n\n1. [**Folyószámlahitel Igénylőlap és Szerződés**](https://granitbank.hu/api/cms/assets/85578CE0-E48A-41F7-96BC-C54E5BAA9BCA//Folyoszamlahitel%20Igénylolap%20es%20Szerzodes_20241106.pdf)\n   - 2 eredeti példányban kitöltve\n\n2. [**MNB tájékoztató a KHR-ről**](https://granitbank.hu/upload/lakossag%20egyeb/MNB_Tajekoztato_a_KHR_rol_20171102.pdf)\n   - Ügyfél által aláírt eredeti példány\n\n3. [**MNB tájékoztató a Túlzott eladósodottság kockázatáról**](https://granitbank.hu/uploads/Tajekoztatok_/MNB%20Tájékoztató%20a%20túlzott%20eladósodottság%20kockázatairól_20240101.pdf)\n   - Ügyfél által aláírt eredeti példány\n\n4. **Utolsó 6 havi bankszámlakivonat**\n   - Tartalmazza a jóváírásokat és folyószámlahitel használatát.\n   - Ha az utolsó 6 hónapban érkezett jövedelem a Gránit folyószámlára, nem szükséges benyújtani.\n\n5. **Személyazonosságot igazoló okiratok másolata**\n   - Amennyiben a kölcsönigénylő még nem a Gránit Bank ügyfele, vagy változott az azonosító okmánya.\n\n6. **Alkalmazottak esetén:**\n   - [**Munkáltatói jövedelemigazolás**](https://granitbank.hu/upload/lakossag%20egyeb/Munk%C3%A1ltatoi%20jovedelemigazolas%20nyomtatvany_20200311.pdf)\n   - Ha a jövedelem nem csoportos jóváírással érkezik.\n\n7. **Nyugdíjas esetén:**\n   - Nyugdíjas igazolvány másolata"
+    },
+    {
+        "chunk_id": 118,
+        "cím": "Kik igényelhetnek GRÁNIT folyószámlahitelt?",
+        "leírás": "\" - GRáNIT Banknál folyószámlával rendelkező 18. életévét betöltött, önállóan cselekvőképes, devizabelföldi természetes személy. Amennyiben az igénylő a 65. életévét már betöltötte a folyószámlahitel igénylésekor, akkor 65. életévét még be nem töltött bankszámla Társtulajdonos adóstársként történő bevonásával igényelhető a folyószámlahitel. Az igénylés feltétele, hogy a kölcsönigénylők: - egyike sem szerepel a Központi Hitelinformációs Rendszerben a 2011. évi CXXII. tv. 11-13. §-ban foglalt okok miatt, - mindegyike rendelkezik vezetékes otthoni vagy mobiltelefonnal, melynek számát az igénylés során megadja, - mindegyike rendelkezik bejelentett magyarországi lakóhellyel, - legalább egyike rendelkezik bármely magyarországi hitelintézetnél olyan lakossági bankszámlával, amelyre legalább 6 hónapja érkezik a rendszeres jövedelme. További részletekért keressen bennünket személyesen vagy hívja a +36 1 510 0527 telefonszámot, ahol munkatársaink készséggel állnak az ön rendelkezésére\\! \""
+    },
+    {
+        "chunk_id": 119,
+        "cím": "Miért érdemes GRÁNIT folyószámlahitelt igényelnie?",
+        "leírás": "\" - kényelmes, rugalmas megoldás rövidebb-hosszabb ideig tartó átmeneti pénzügyi nehézségek áthidalására - szabadon felhasználható - bankkártyájával is bármikor hozzáférhet - díjmentesen rendelkezésre álló „biztonsági tartalék” - a hitelkeret fedezetét az ön havi, rendszeres jóváírásai adják, a bankszámlára érkező jóváírásokkal automatikusan törleszti a felhasznált hitelkeretet, és szükség esetén ismét könnyen igénybe tudja venni. \""
+    },
+    {
+        "chunk_id": 120,
+        "cím": "Mennyi időt vesz igénybe a kölcsön folyósítása?",
+        "leírás": "\"A hitelkérelem hiánytalan befogadásától, számított 20 munkanapon belül a Gránit Bank a hitelt elbírálja. A hitelkérelem átvétele még nem minősül a hitel befogadásának. A Bank a hitelkérelem átnézését követően, annak befogadásáról minden esetben írásban értesít. A hitelbírálatot követően a folyósítási feltételek benyújtását követő 10 munkanapon belül történik a folyósítás. \""
+    },
+    {
+        "chunk_id": 121,
+        "cím": "Milyen kamatra ad bank lakásvásárlásra hitelt?  ",
+        "leírás": "A Gránit Piaci lakáshitel kamata 6,18%. THM:6,47%"
+    },
+    {
+        "chunk_id": 122,
+        "cím": "Mi a legjobb lakáshitel kamat a banknál?  ",
+        "leírás": "A Gránit lakáshitel kamata 6,18%. THM: 6,47% Amennyiben jogosult vagy CSOK Plusz hitelre, annak a kamata 2,89%. THM: 2,99%"
+    },
+    {
+        "chunk_id": 123,
+        "cím": "Milyen kamatra ad bank szabadfelhasználású hitelt?  ",
+        "leírás": "A Gránit Szabadfelhasználású hitel kamata 8,55%. THM: 9,05%"
+    },
+    {
+        "chunk_id": 124,
+        "cím": "Milyen akciók vannak jelzáloghitel igénylés esetén?",
+        "leírás": "Akció keretében a piaci kamatozású GRÁNIT Lakáshitel és GRÁNIT Szabad felhasználású hitel esetén a Bank\n- folyósítási jutalékot és tulajdoni lap és térképmásolati díjat nem számít fel,\ntovábbá az ügyfél által harmadik fél felé megfizetett fizetendő díjakból a Bank visszatéríti az ügyfélnek a hitel folyósításakor:\n- egy ingatlan Fedezet értékelési díját és\n- a közjegyzői okiratba foglalás díját, de maximum 48.000 Ft-ot és\n- a folyósítást közvetlenül megelőző Ingatlan felülvizsgálati díját, azon ingatlan megvásárlása esetén, amelynek felépítését a Bank vállalati lakásépítési projekthitellel finanszíroz. \n-10 000 Ft-ot jóváír (piaci kamatozású lakásvásárlási hitelek esetén) a kölcsönigénylő GRÁNIT Banknál vezetett kölcsöntörlesztésre szolgáló bankszámláján a hitel folyósításakor. A jóváírás feltétele: online hitelkalkuláció elvégzése, a regisztrációs adatok megadása (Digitális Ügyfélfiók létrehozása), a kötelező érvényű ajánlat letöltése illetve a hitelkérelem benyújtása az online előbírálatot követően 30 napon belül megtörténik.   Az akció keretében a GRÁNIT Bank által elengedett Folyósítási jutalékot, a tulajdoni lapés térképmásolat díjakat és az utólag visszatérített Fedezet értékelési díjat és a Közjegyzői díjat az ügyfél köteles megfizetni a Bank részére, amennyiben a kölcsön\n- szerződéskötéstől számított 4 éven belül végtörlesztésre, illetve a folyósított kölcsönösszeg több mint 50%-át elérő összegben előtörlesztésre, vagy Bankon kívül álló okokból felmondásra kerül.                                                                                                "
+    },
+    {
+        "chunk_id": 125,
+        "cím": "Milyen akciók vannak CSOK Plusz hitel igénylésekor?",
+        "leírás": "2024. január 1-től az akció visszavonásáig befogadott Gránit CSOK Plusz Hitelprogram keretében igényelt Lakáshitel esetén a  Bank  - akciósan - 2,89% kamatot számít fel a futamidő végéig, Az akcióban a kamatkedvezmény mértéke 0,11%.\n- folyósítási jutalékot nem számít fel, a tulajdoni lapok és a térképmásolat díját (a hitelcél ingatlan tekintetében) átvállalja \ntovábbá az ügyfél által harmadik fél felé megfizetett fizetendő díjakból a Bank visszatéríti az ügyfélnek a hitel folyósításakor:\n- a hitelcél ingatlan Fedezet értékelési díját és\n- a közjegyzői okiratba foglalás díját, de maximum 27.500 Ft-ot és\n- a folyósítást közvetlenül megelőző Ingatlan felülvizsgálati díját, azon ingatlan megvásárlása esetén, amelynek felépítését a Bank vállalati lakásépítési projekthitellel finanszíroz.\n A kedvezmények az akció alatt befogadott új hiteligénylésekre vonatkoznak.\nAz akció keretében a Gránit Bank által elengedett Folyósítási jutalékot tulajdoni lap és térképmásolat díjakat, az utólag visszatérített Fedezet értékelési díjat ,és a Közjegyzői díjat az ügyfél köteles visszafizetni a Bank részére, amennyiben a kölcsön\n- szerződéskötéstől számított 4 éven belül végtörlesztésre, illetve a folyósított kölcsönösszeg 50%-át elérő, vagy meghaladó összegben nem gyermekvállalási támogatásból előtörlesztésre, vagy\n- Bankon kívül álló okokból felmondásra kerül.\nAmennyiben a CSOK PLusz Lakáshitel mellett egyidejűleg piaci kamatozású lakáshitel igénylésére is sor kerül a piaci kamatozású lakáshitelre a kamat kivételével ennek a Hirdetménynek a díjtételei vonatkoznak.                                                     "
+    },
+    {
+        "chunk_id": 126,
+        "cím": "Van kedvezmény Babaváró hitel igénylése esetén?",
+        "leírás": "Igen, 2024.11.01. és 2024.12.19. közötti időszakban benyújtott Babaváró kölcsönigénylések esetén a Bank egy alkalommal 160.000 Ft-ot jóváír az ügyfél kölcsönszerződésében szereplő folyószámláján a Babaváró kölcsön folyósításának napján, amennyiben a kölcsön folyósítása 2025.01.31. napjáig megtörténik.                   "
+    },
+    {
+        "chunk_id": 127,
+        "cím": "Ha a Gránit Bankál akarok hitelt felvenni, kell számlát is nyitnom?",
+        "leírás": "Igen,a hitel törlesztése minden esetben Gránit Banknál vezetett számláról történik. Számládat megnyithatod egyszerűen a Gránit eBank applikáció segítségével. Szelfi számlanyitás esetén a feltételek teljsítését követően még 40000 Ft jóváírásra is jogosult leszel. Részletek: https://granitbank.hu/szamlanyitas/bankszamlak/"
+    },
+    {
+        "chunk_id": 128,
+        "cím": "Hol tudok Digitális Ügyfélfiókot regisztrálni?",
+        "leírás": "Itt tudsz regsiztrálni Digitális Ügyfélfiókot: https://granitbank.hu/ugyvalaszto/"
+    },
+    {
+        "chunk_id": 129,
+        "cím": "Szerződést szeretnék módosítani. Másik fedezetet vonnék be, milyen költségei vannak?",
+        "leírás": "A banki szerződésmódosítás díja 30 000 Ft. A szerződéseket közjegyzői okiratba is kell foglalni, ennek pontos költségét én nem tudom megmondani."
+    },
+    {
+        "chunk_id": 130,
+        "cím": "Folyószámlahitel igénylése esetén elfogadják a bérbeadásból származó jövedelmet?",
+        "leírás": "Nem fogadjuk el, folyószámlahitel esetében csak a munkabért fogadjuk el, mint jövedelem."
+    },
+    {
+        "chunk_id": 131,
+        "cím": "Gyerektartásból származó jövedelmet figyelembe vesznek?",
+        "leírás": "A gyerektartásból származó jövedelmet nem fogadja el a Bank."
+    }
+]
