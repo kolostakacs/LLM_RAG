@@ -4,7 +4,7 @@
             "query_id": "0",
             "query": "Milyen hitelek érhetőek el a banknál",
             "gt_answer": "",
-            "response": "A Gránit Banknál elérhető hitelek a következők:\n\n- Ingatlant terhelő zálogjoggal biztosított kölcsön\n- CSOK Plusz hitelprogram\n- Babaváró kamattámogatott kölcsön\n- Folyószámlahitel (50 000 Ft - 1 000 000 Ft)\n- MFB Pont Plusz Otthonfelújítási Program\n\nTovábbi információkért érdemes meglátogatni a bank hivatalos weboldalát: [Gránit Bank Hitelek](https://granitbank.hu/lakossag/hitelek/).",
+            "response": "A Gránit Banknál a következő lakossági hitelek érhetők el:\n\n- Ingatlant terhelő zálogjoggal biztosított kölcsön\n- CSOK Plusz hitelprogram\n- Babaváró kamattámogatott kölcsön\n- Folyószámlahitel (50 000 Ft - 1 000 000 Ft)\n- MFB Pont Plusz Otthonfelújítási Program\n- Gránit Lakáshitel\n- Szabadfelhasználású jelzáloghitel\n\nTovábbi részletekért érdemes ellátogatni a bank weboldalára: [Gránit Bank Hitelek](https://granitbank.hu/lakossag/hitelek/).",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -47,7 +47,7 @@
             "query_id": "1",
             "query": "Bar listások kaphatnak hitelt?",
             "gt_answer": "",
-            "response": "BAR listás ügyfelek nem kaphatnak hitelt. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szereplő személyek számára a bankok nem nyújtanak hitelt.",
+            "response": "BAR listás személyként nem kaphatsz hitelt. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szereplő ügyfelek nem jogosultak hitelfelvételre.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
@@ -90,7 +90,7 @@
             "query_id": "2",
             "query": "van korhatári megkötés a nyugdíjasok hiteleinél?",
             "gt_answer": "",
-            "response": "A megadott információk között nincs kifejezetten a nyugdíjasok hitelkérelméről vagy hiteligénylési korhatárukról szó. Az említett források főként a Babaváró hitel és annak igénylésére vonatkozó feltételekről szólnak, amelyek a fiatalabb házaspárokra vonatkoznak. \n\nÁltalánosságban elmondható, hogy a hiteligényléskor a fő szempontok között szerepel a hitelt kérő személy életkora és jövedelmi helyzete, de a nyugdíjasok konkrét helyzete nem került említésre. Érdemes a választott pénzintézetnél érdeklődni a nyugdíjasok által igényelhető hitelek feltételeiről.",
+            "response": "A megadott információk nem tartalmaznak konkrét választ a nyugdíjasok hiteleinél alkalmazandó korhatári megkötésekről. Az információk főként a Babaváró hitel és annak igénylési feltételei köré összpontosítanak, ahol a házaspároknak bizonyos korhatárokon kell belül lenniük. Javasolt lenne további forrást keresni, amely közvetlenül foglalkozik a nyugdíjasok hitelkérelmeivel és azok feltételeivel.",
             "retrieved_context": [
                 {
                     "doc_id": "000",
