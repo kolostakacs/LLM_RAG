@@ -1,18 +1,26 @@
+import openai
 import json
 import numpy as np
-from sentence_transformers import SentenceTransformer
-
+import os
+# OpenAI API beállítása
+api_key = os.getenv("OPENAI_API_KEY")  # Biztonságos elérés
+if api_key is None:
+    raise ValueError("API kulcs nincs beállítva!")
 # Betöltjük a JSON fájlt
 with open("chunks.json", "r", encoding="utf-8") as f:
     chunks = json.load(f)
 
-# Modell betöltése az embedding-ekhez
-model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-
-# Embedding-ek generálása (cím + leírás együtt)
+# Embedding-ek generálása az OpenAI modellel
 for chunk in chunks:
     full_text = f"{chunk['cím']} {chunk['leírás']}"  # Egyesítjük a két mezőt
-    chunk["embedding"] = model.encode(full_text).tolist()
+
+    # OpenAI embedding generálás
+    response = openai.Embedding.create(
+        model="text-embedding-ada-002",
+        input=full_text
+    )
+
+    chunk["embedding"] = response['data'][0]['embedding']
 
 # Embedding-ek mentése NumPy formátumban
 embeddings = np.array([chunk["embedding"] for chunk in chunks])
