@@ -1,0 +1,1240 @@
+2025-02-27 15:06:01,074 - INFO - Kérdés feldolgozása: A folyószámlahitel igényléséhez szükséges egy érvényes lakossági bankszámla a Gránit Banknál, megfelelõ jövedelem, pozitív számlamúlt, és a szükséges személyes adatok megadása.
+2025-02-27 15:06:01,792 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:05,964 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:06,419 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:06,426 - INFO - Kérdés feldolgozása: A hiteligénylés folyamata az alábbi lépéseken zajlik: igénylõnyomtatványok és nyilatkozatok kitöltése, jövedelemmel kapcsolatos dokumentumok összegyûjtése, ingatlanhoz kapcsolódó dokumentumok egyeztetése és benyújtása, ingatlan értékbecslés díjának befizetése, hitelbírálat elvégzése, majd szerzõdéskötés.
+2025-02-27 15:06:07,141 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:16,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:17,415 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:17,421 - INFO - Kérdés feldolgozása: A GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön már nem elérhetõ hiteltermék.
+2025-02-27 15:06:17,743 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:18,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:19,519 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:19,524 - INFO - Kérdés feldolgozása: A GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön már nem elérhetõ hiteltermék.
+2025-02-27 15:06:19,984 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:21,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:21,965 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:21,970 - INFO - Kérdés feldolgozása: A hiteligényléshez segítséget kérhetsz telefonon a +36 1 881 2688-as számon, vagy emailben a jelzaloghitel@granitbank.hu címen.
+2025-02-27 15:06:22,741 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:27,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:27,444 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:27,449 - INFO - Kérdés feldolgozása: Írhatsz a jelzaloghitel@granitbank.hu email címre, vagy hívhatod a +36 1 881 2688-as számot.
+2025-02-27 15:06:28,106 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:29,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:29,861 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:29,866 - INFO - Kérdés feldolgozása: Nem
+2025-02-27 15:06:30,541 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:32,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:32,598 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:32,605 - INFO - Kérdés feldolgozása: A feleségnek 41 évesnek kell lennie, vagy terhesnek, és a házaspárnak meg kell felelnie a többi feltételnek.
+2025-02-27 15:06:32,949 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:35,722 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:35,964 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:35,973 - INFO - Kérdés feldolgozása: Az aktuális jövedelmi helyzet pontos tükrözése érdekében fontos, hogy az igazolás friss legyen, mivel a pénzügyi intézmények és hatóságok a legfrissebb adatokat használják a döntéshozatal során.
+2025-02-27 15:06:36,311 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:39,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:39,494 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:39,499 - INFO - Kérdés feldolgozása: Nem.
+2025-02-27 15:06:39,848 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:41,137 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:41,539 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:41,545 - INFO - Kérdés feldolgozása: Orvosi igazolás, születési anyakönyvi kivonat, gyermek lakcímkártyája, adóigazolványa, örökbefogadást engedélyezõ határozat.
+2025-02-27 15:06:42,170 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:46,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:47,019 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:47,025 - INFO - Kérdés feldolgozása: Igen, a feleség igényelheti a CSOK Plusz Lakáshitelt, ha a terhessége meghaladja a 12. hetet, különben nem felel meg a feltételeknek.
+2025-02-27 15:06:47,485 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:51,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:51,739 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:51,744 - INFO - Kérdés feldolgozása: Fontos, hogy a házastársak együttesen igényeljék a kölcsönt, mert a CSOK Plusz Lakáshitel csak házaspárok számára elérhetõ, és más adós nem szerepelhet a kölcsönszerzõdésben, hogy biztosítsák a támogatott személyek jogait.
+2025-02-27 15:06:52,065 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:56,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:06:56,578 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:06:56,584 - INFO - Kérdés feldolgozása: Ha a feleség már 41 éves, akkor 2025. december 31-ig kell igényelni a kölcsönt.
+2025-02-27 15:06:56,883 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:03,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:04,186 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:04,195 - INFO - Kérdés feldolgozása: A CSOK Plusz Lakáshitel minimális futamideje 10 év.
+2025-02-27 15:07:04,455 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:05,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:05,903 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:05,908 - INFO - Kérdés feldolgozása: A GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön már nem elérhetõ hiteltermék.
+2025-02-27 15:07:06,108 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:07,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:07,708 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:07,713 - INFO - Kérdés feldolgozása: A CSOK Plusz hitelen kívül igénybe vehetõ támogatott hitelek közé tartozik az adó-visszatérítési támogatás, az otthonteremtési kamattámogatású hitel és a babaváró kölcsön.
+2025-02-27 15:07:08,024 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:09,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:09,448 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:09,454 - INFO - Kérdés feldolgozása: Az MFB Pont Plusz igényléséhez szükséges dokumentumokat a bankfiókban vagy az online igénylés során tudod megismerni.
+2025-02-27 15:07:10,151 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:11,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:12,012 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:12,017 - INFO - Kérdés feldolgozása: Az MFB Pont Plusz támogatási kérelmet online a megadott linken keresztül tudod benyújtani.
+2025-02-27 15:07:12,412 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:13,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:14,126 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:14,137 - INFO - Kérdés feldolgozása: A hiteligényléshez segítséget kérhetsz telefonon a +36 1 881 2688 számon, vagy írhatsz az email címre: jelzaloghitel@granitbank.hu.
+2025-02-27 15:07:14,447 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:16,086 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:16,307 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:16,317 - INFO - Kérdés feldolgozása: Érdeklõdhetsz telefonon vagy emailben a Gránit Banknál.
+2025-02-27 15:07:16,526 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:17,586 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:17,926 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:17,935 - INFO - Kérdés feldolgozása: Az elõtörlesztési szándékot írásban, NetBank levél formájában kell bejelenteni, megjelölve az elõtörlesztés összegét.
+2025-02-27 15:07:18,157 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:20,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:20,865 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:20,870 - INFO - Kérdés feldolgozása: A Babaváró hitel igényléséhez elõször is be kell nyújtanotok a szükséges dokumentumokat a bankhoz, majd a bank elbírálja a kérelmet. Ha megfeleltek a feltételeknek, a kölcsön folyósítása megtörténik.
+2025-02-27 15:07:21,101 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:24,785 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:25,033 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:25,040 - INFO - Kérdés feldolgozása: Igen, de az építési költségvetést az értékbecslõnek ellenõriznie és visszaigazolnia kell a bank számára, hogy elfogadható legyen.
+2025-02-27 15:07:25,266 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:27,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:27,373 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:27,379 - INFO - Kérdés feldolgozása: A magyar TB jogviszonyt az OEP által kiállított igazolással lehet igazolni, amelyet a fõvárosi és megyei kormányhivatal ad ki, vagy digitális hiteles aláírással ellátott elektronikus igazolást is elfogadnak az ügyfélkapu használatával.
+2025-02-27 15:07:27,717 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:29,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:30,143 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:30,152 - INFO - Kérdés feldolgozása: A CSOK Plusz folyósítása 5 munkanapon belül megtörténik, ha a folyósítási feltételek teljesülnek.
+2025-02-27 15:07:30,367 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:31,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:32,193 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:32,201 - INFO - Kérdés feldolgozása: A CSOK Plusz folyósítási feltételei a hitel igényléséhez szükséges dokumentumok és követelmények teljesítése.
+2025-02-27 15:07:32,424 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:35,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:36,203 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:36,212 - INFO - Kérdés feldolgozása: A CSOK Plusz igényléséhez elõször be kell nyújtania a szükséges dokumentumokat, majd várnia kell a folyósítási feltételek teljesítését, hogy 5 munkanapon belül megkapja a hitelt.
+2025-02-27 15:07:36,777 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:38,371 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:38,787 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:38,794 - INFO - Kérdés feldolgozása: A hitelbírálat gyorsasága fontos, mert lehetõvé teszi a családok számára, hogy hamarabb hozzáférjenek a szükséges forráshoz, így segítve a gyermekvállalást és a családi tervek megvalósítását.
+2025-02-27 15:07:39,217 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:41,262 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:41,501 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:41,509 - INFO - Kérdés feldolgozása: Nagyon egyszerû! Az egész folyamat online zajlik, és a VideóBankban is könnyen lehet szerzõdést kötni.
+2025-02-27 15:07:41,742 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:43,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:44,109 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:44,117 - INFO - Kérdés feldolgozása: Jogosult leszel, ha megfelelsz a bank hitelképességi feltételeinek, az ingatlan megfelel a bank követelményeinek, és minden szükséges tulajdonostárs/aláíró elfogadja az ingatlan terhelését.
+2025-02-27 15:07:44,368 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:46,566 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:46,940 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:46,951 - INFO - Kérdés feldolgozása: Az MFB Pont Plusz igénylésének menete részletesen le van írva a megadott linken, ahol megtalálod a szükséges lépéseket.
+2025-02-27 15:07:47,322 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:50,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:50,871 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:50,881 - INFO - Kérdés feldolgozása: A díjmentes tulajdoni lap beszerzése csökkenti a költségeket, és egyszerûsíti a folyamatot, mivel nem kell külön eljárni a Földhivatalhoz.
+2025-02-27 15:07:51,275 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:53,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:53,767 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:53,773 - INFO - Kérdés feldolgozása: A devizában meghatározott nettó jövedelem forintösszegét a hitelbírálat számítása elõtt 2 munkanappal korábban határozzák meg.
+2025-02-27 15:07:54,014 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:58,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:07:59,008 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:07:59,016 - INFO - Kérdés feldolgozása: Igen
+2025-02-27 15:07:59,269 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:01,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:01,487 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:01,493 - INFO - Kérdés feldolgozása: A folyósítás akkor kezdhetõ meg, ha a támogatott személy a hitelintézeti kölcsönön kívül saját forrásait már felhasználta az új lakás építésére, vásárlására vagy a meglévõ lakás bõvítésére.
+2025-02-27 15:08:01,722 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:03,669 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:04,370 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:04,376 - INFO - Kérdés feldolgozása: Vásárlás esetén a folyósítás az eladó számlájára történik.
+2025-02-27 15:08:04,851 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:06,003 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:06,303 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:06,309 - INFO - Kérdés feldolgozása: Elsõ közös lakáshoz jutók esetén a maximális vételár 80 millió forint.
+2025-02-27 15:08:06,576 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:08,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:08,641 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:08,650 - INFO - Kérdés feldolgozása: Nem.
+2025-02-27 15:08:09,066 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:14,148 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:14,530 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:14,536 - INFO - Kérdés feldolgozása: Ha nem tudja letölteni a Gránit Bank jövedelemigazolást, akkor javaslom, hogy keresse fel a bank ügyfélszolgálatát, ahol segítséget kaphat a letöltéshez vagy alternatív megoldásokat kínálhatnak.
+2025-02-27 15:08:14,972 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:16,956 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:17,195 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:17,201 - INFO - Kérdés feldolgozása: Ha a hiteligénylõ a hitel futamideje alatt betölti a 75. életévét, akkor további biztosíték, például hitelfedezeti életbiztosítás kötelezõ lehet.
+2025-02-27 15:08:17,457 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:18,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:18,917 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:18,924 - INFO - Kérdés feldolgozása: Igen, a Gránit Bank meghatározott életkori korlátokat alkalmaz, például ingatlan zálogjoggal biztosított kölcsön esetén a 75. életév betöltése után kötelezõ lehet a hitelfedezeti életbiztosítás.
+2025-02-27 15:08:19,173 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:21,846 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:22,096 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:22,104 - INFO - Kérdés feldolgozása: A lakáshitel igénylés lépései: elõzetes hitelbírálat, hiteligénylés, hitelbírálat, szerzõdéskötés, folyósítás és törlesztés.
+2025-02-27 15:08:22,335 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:30,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:30,569 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:30,577 - INFO - Kérdés feldolgozása: Babaváró hitel igényelhetõ a Digitális ügyfélfiókon keresztül, személyesen a központi fiókban, a WestEnd bankfiókban, vagy postai úton.
+2025-02-27 15:08:31,042 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:34,527 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:34,850 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:34,860 - INFO - Kérdés feldolgozása: A Babaváró hitel kérelmét benyújthatod a Digitális ügyfélfiókodon, a központi fiókban, a WestEnd bankfiókban, vagy postai úton.
+2025-02-27 15:08:35,151 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:40,155 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:40,582 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:40,588 - INFO - Kérdés feldolgozása: A nettó havi bevételt kell megadnod.
+2025-02-27 15:08:40,812 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:44,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:44,764 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:44,770 - INFO - Kérdés feldolgozása: A Babaváró hitel legfeljebb 75%-a használható önerõként, ha a Babaváró hitel szerzõdéskötése és a lakáshitel felvétele között nem telik el 90 nap. Ha viszont már eltelt 90 nap a két hitelszerzõdés között, akkor a Babaváró hitel teljes mértékben felhasználható önerõként.
+2025-02-27 15:08:45,149 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:46,877 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:47,092 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:47,100 - INFO - Kérdés feldolgozása: A bírálati idõt befolyásolhatja a hitelkérelem benyújtásának pontos idõpontja, a hiánypótlás szükségessége, valamint a bank által végzett ellenõrzések. Kedvezõ bírálat esetén a folyósítás gyorsan, 2 munkanapon belül megtörténik.
+2025-02-27 15:08:47,314 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:50,005 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:50,411 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:50,417 - INFO - Kérdés feldolgozása: Ha minden rendben van, akkor a hitelbírálat után 2 munkanapon belül megkapod a babaváró hitelt!
+2025-02-27 15:08:50,648 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:52,468 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:52,670 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:52,677 - INFO - Kérdés feldolgozása: Lakossági hitellel kapcsolatos kérdéseidet a jelzaloghitel@granitbank.hu e-mail címen teheted fel, ahol kollégák 1 munkanapon belül válaszolnak.
+2025-02-27 15:08:52,887 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:54,741 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:54,998 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:55,007 - INFO - Kérdés feldolgozása: A második és minden további gyermek érkezésekor 10-10 millió forint gyermekvállalási támogatásra vagytok jogosultak.
+2025-02-27 15:08:55,271 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:57,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:08:57,322 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:57,332 - INFO - Kérdés feldolgozása: A gyermekvállalási támogatás összegével a fennálló hitel tartozásotok csökken, mivel az elõtörlesztésre kerül.
+2025-02-27 15:08:57,535 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:08:59,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:00,187 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:00,196 - INFO - Kérdés feldolgozása: A települések listája a Bank hivatalos weboldalán érhetõ el, a következõ linken: https://granitbank.hu/uploads/Tajekoztatok_/Telepuleslista.pdf.
+2025-02-27 15:09:00,404 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:01,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:01,759 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:01,767 - INFO - Kérdés feldolgozása: Végtörlesztési igényét Netbankon szabad formátumú levélben kell jeleznie, amelyben fel kell tüntetnie a szerzõdésszámot és a végtörlesztés várható dátumát. A végtörlesztéshez szükséges összegnek a bankszámláján rendelkezésre kell állnia. A levélben jelezheti, ha szüksége van a fennálló tartozás igazolásra is. A végtörlesztés díjáról a hirdetménybõl tájékozódhat, és a végtörlesztést követõen a Bank kipostázza a jelzálogjog törlési kérelmet, amit a Földhivatalba kell bevinnie.
+2025-02-27 15:09:02,028 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:05,897 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:06,222 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:06,231 - INFO - Kérdés feldolgozása: Ha valaki nem tudja vállalni a 25 éves törlesztési idõt, érdemes más hiteltermékeket is megfontolni, amelyek rövidebb futamidõt kínálnak, vagy akár a CSOK támogatás más formáit is igénybe venni.
+2025-02-27 15:09:06,461 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:08,354 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:08,744 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:08,751 - INFO - Kérdés feldolgozása: A számlákat az építési költségvetés összegének 70%-áról kell benyújtani. Elõször gyûjtsd össze a szükséges számlákat, majd ellenõrizd, hogy megfelelnek-e a költségvetési elõírásoknak. Végül a számlákat a megadott határidõn belül nyújtsd be.
+2025-02-27 15:09:08,992 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:14,104 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:14,595 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:14,602 - INFO - Kérdés feldolgozása: Ha nem tudja beszerezni az összes szükséges dokumentumot, érdemes felvenni a kapcsolatot a bankkal, hogy tájékoztatást kapjon a lehetõségeirõl és arról, hogy mely dokumentumok elengedhetõk.
+2025-02-27 15:09:14,922 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:16,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:17,181 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:17,186 - INFO - Kérdés feldolgozása: Nem
+2025-02-27 15:09:17,584 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:19,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:19,886 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:19,896 - INFO - Kérdés feldolgozása: A megfelelõ dokumentumok benyújtása elengedhetetlen a hitelkérelem feldolgozásához és a hitel elbírálásához, mivel ezek igazolják a kérelmezõ pénzügyi helyzetét és a hitel visszafizetésének képességét.
+2025-02-27 15:09:20,280 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:27,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:27,963 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:27,970 - INFO - Kérdés feldolgozása: Igen.
+2025-02-27 15:09:28,313 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:30,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:30,604 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:30,613 - INFO - Kérdés feldolgozása: A jelzáloghitel igényléshez szükséges dokumentumokat a Gránit Bank honlapjáról lehet letölteni.
+2025-02-27 15:09:31,279 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:38,932 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:39,328 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:39,336 - INFO - Kérdés feldolgozása: Fontos, mert így pontosabb képet kapunk az adós pénzügyi helyzetérõl, és könnyebben értékelhetjük a törlesztési képességét.
+2025-02-27 15:09:39,725 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:42,662 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:43,104 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:43,112 - INFO - Kérdés feldolgozása: Igen, az elsõ 24 hónapban csak kamatot kell fizetni.
+2025-02-27 15:09:43,434 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:44,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:45,329 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:45,335 - INFO - Kérdés feldolgozása: Nem, a tõketörlesztés a 25. hónaptól kezdõdik.
+2025-02-27 15:09:45,549 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:47,957 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:48,181 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:48,184 - INFO - Kérdés feldolgozása: A lakáshitel igényléséhez kötelezõ a megvásárolandó ingatlan tulajdonosainak bevonása adósként. Ha ez nem lehetséges, akkor érdemes más finanszírozási lehetõségeket keresni.
+2025-02-27 15:09:48,409 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:51,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:51,289 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:51,295 - INFO - Kérdés feldolgozása: Osztatlan tulajdon esetén szükséges az elõvásárlási jogról szóló lemondó nyilatkozat, valamint az adásvételi szerzõdés gyámhatósági jóváhagyása, ha kiskorú eladó van.
+2025-02-27 15:09:51,613 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:53,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:09:53,836 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:09:53,843 - INFO - Kérdés feldolgozása: A havi rendszeres jövedelem igazolása azért szükséges, mert ez biztosítja, hogy a hitelfelvevõ képes legyen a hitel törlesztésére, és elegendõ fedezetet nyújt a kölcsön visszafizetéséhez.
+2025-02-27 15:09:54,108 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:13,824 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:14,213 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:14,222 - INFO - Kérdés feldolgozása: A pontos összeg a jövedelmedtõl és a meglévõ hiteltartozásaidtól függ, de fontos, hogy legyen elég jövedelmed a törlesztéshez.
+2025-02-27 15:10:14,438 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:17,410 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:17,752 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:17,758 - INFO - Kérdés feldolgozása: A folyószámlahitel kerete a folyószámlára érkezõ havi rendszeres, igazolt jövedelem alapján kerül meghatározásra.
+2025-02-27 15:10:17,970 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:20,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:20,500 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:20,507 - INFO - Kérdés feldolgozása: Ha a hitelbírálat pozitív kimenetellel zárul, akkor személyesen aláírhatod a szerzõdést, és az ügyintézõd felveszi veled a kapcsolatot egy idõpont egyeztetése céljából.
+2025-02-27 15:10:20,715 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:26,537 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:26,992 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:26,998 - INFO - Kérdés feldolgozása: A Gránit Banknál kiválthatók a hitelintézet, cégbíróság által bejegyzett és az MNB által felügyelt pénzügyi vállalkozás által nyújtott kölcsönök, lakás-takarékpénztárak által nyújtott kölcsönök, munkáltatói kölcsönök, helyi önkormányzat által nyújtott kölcsönök, és jelzáloggal nem fedezett kölcsönök.
+2025-02-27 15:10:27,229 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:30,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:30,977 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:30,994 - INFO - Kérdés feldolgozása: Az energetikai tanúsítványt az eladó adja át.
+2025-02-27 15:10:31,231 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:33,528 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:33,836 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:33,844 - INFO - Kérdés feldolgozása: Ha a hitelösszeg és az ingatlan forgalmi értéke nem megfelelõ arányban van, akkor a kamatfelár mértéke magasabb lehet, ami a kölcsön drágábbá válását eredményezheti, és nehezebbé teheti a hitel törlesztését.
+2025-02-27 15:10:34,450 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:38,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:38,950 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:38,957 - INFO - Kérdés feldolgozása: 2024.01.01-tõl 2024.12.31-ig a feleség életkora 23-30 év között, illetve 30-41 év között, ha legalább 12 hetes várandósságot igazol.
+2025-02-27 15:10:39,469 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:40,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:41,056 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:41,062 - INFO - Kérdés feldolgozása: A bankszámla nyitásához elõször válassza ki a Gránit Bankot, majd látogasson el a legközelebbi fiókba vagy használja az online banki szolgáltatásokat. Készítse elõ a szükséges dokumentumokat, mint például személyazonosító okmány és lakcímkártya, majd töltse ki a bankszámla nyitásához szükséges ûrlapot.
+2025-02-27 15:10:41,375 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:44,422 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:44,673 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:44,681 - INFO - Kérdés feldolgozása: A babaváró hitel igényléséhez a házaspárnak vállalnia kell gyermekek születését a szerzõdésben meghatározott határidõn belül.
+2025-02-27 15:10:44,983 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:48,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:48,242 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:48,247 - INFO - Kérdés feldolgozása: Ha a vállalt gyermek nem születik meg az elõírt határidõn belül, a kamattámogatás megszûnik, és a már igénybe vett támogatást vissza kell fizetni a jegybanki alapkamat 5 százalékponttal megemelt mértékével.
+2025-02-27 15:10:48,484 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:51,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:51,785 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:51,791 - INFO - Kérdés feldolgozása: Elõször is, ellenõrizze, hogy megfelel-e az új hitelbírálat feltételeinek. Ha igen, akkor kérje a Gránit Banknál a jelzáloghitel igénylését, és nyújtsa be a szükséges dokumentumokat.
+2025-02-27 15:10:52,018 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:57,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:57,629 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:57,639 - INFO - Kérdés feldolgozása: Ikrek esetén a Babaváró Hitel szempontjából két új gyermeknek számítanak, így a törlesztés szüneteltetése 5 év lehet a megszokott 3 év helyett.
+2025-02-27 15:10:57,862 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:58,977 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:10:59,211 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:10:59,217 - INFO - Kérdés feldolgozása: Folyószámlához kell nyitni egy bankszámlát, majd be kell nyújtani a szükséges dokumentumokat, beleértve a jövedelemigazolást, amely bizonyítja, hogy a nettó jövedelme eléri a 216.790 Ft-ot.
+2025-02-27 15:10:59,462 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:02,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:02,659 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:02,668 - INFO - Kérdés feldolgozása: A havi rendszeres jövedelem igazolása azért szükséges, mert ez biztosítja, hogy a hitelfelvevõ képes legyen a hitel törlesztésére, és elegendõ fedezetet nyújt a kölcsön visszafizetéséhez.
+2025-02-27 15:11:02,976 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:05,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:05,620 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:05,625 - INFO - Kérdés feldolgozása: A pontos összeg a jövedelmedtõl függ, de fontos, hogy legyen elég havi bevételed a törlesztéshez.
+2025-02-27 15:11:05,900 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:08,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:08,495 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:08,500 - INFO - Kérdés feldolgozása: A CSOK Plusz hitel igényléséhez elõször ellenõrizni kell a jogosultsági feltételeket, majd be kell nyújtani a szükséges dokumentumokat az illetékes hatóságnak. Ezt követõen az utolsó folyósítástól számított 180 napon belül lakóhelyet kell létesíteni az ingatlanban.
+2025-02-27 15:11:08,744 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:12,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:13,182 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:13,191 - INFO - Kérdés feldolgozása: Érdemes online keresni, vagy helyi szakmai szervezetekhez fordulni, ahol ajánlásokat kaphatsz.
+2025-02-27 15:11:13,544 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:18,580 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:20,002 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:20,006 - INFO - Kérdés feldolgozása: GRÁNIT folyószámlahitel igényléséhez elõször is szükséges, hogy 18. életévét betöltött, önállóan cselekvõképes devizabelföldi természetes személy legyél. Ellenõrizd, hogy nem szerepelsz a Központi Hitelinformációs Rendszerben a megadott okok miatt, és rendelkezz bejelentett magyarországi lakóhellyel. Szerezz be egy vezetékes vagy mobiltelefont, amelynek számát megadod az igénylés során. Végül, legalább egy bankszámládnak kell lennie, amelyre legalább 6 hónapja érkezik a rendszeres jövedelmed.
+2025-02-27 15:11:20,276 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:25,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:26,205 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:26,217 - INFO - Kérdés feldolgozása: Persze! A feleségnek 41 évesnél fiatalabbnak kell lennie, vagy terhesnek kell lennie, és a házaspárnak meg kell felelnie a rendeletben rögzített egyéb feltételeknek.
+2025-02-27 15:11:26,559 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:31,627 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:32,010 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:32,017 - INFO - Kérdés feldolgozása: Ha a házaspár elválik, a kamattámogatás megszûnik, és vissza kell fizetni a kamattámogatás összegét a bírósági határozat jogerõre emelkedését követõen.
+2025-02-27 15:11:45,795 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:50,541 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:50,766 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:50,769 - INFO - Kérdés feldolgozása: Ha nem igazolják a házasság felbontását a megadott határidõn belül, akkor a kamattámogatás visszafizetése esedékessé válik, és a hitelintézet a jegybanki alapkamat 5%-kal megemelt mértékével számolja ki a visszafizetendõ összeget.
+2025-02-27 15:11:51,055 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:53,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:53,513 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:53,520 - INFO - Kérdés feldolgozása: A Babaváró Hitelhez szükséges, hogy a házaspár mindkét tagja 23 év feletti legyen, a feleség pedig ne legyen 30 éves. Emellett legalább az egyik félnek 3 éve folyamatos TB jogviszonya kell, hogy legyen, és egyik félnek sem lehet köztartozása vagy KHR-ben nyilvántartott tartozása.
+2025-02-27 15:11:53,754 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:57,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:11:57,650 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:11:57,658 - INFO - Kérdés feldolgozása: Meg kell felelnem a bank hitelképességi feltételeinek, az ingatlannak meg kell felelnie a bank követelményeinek, és minden szükséges tulajdonostárs/aláíró el kell, hogy fogadja az ingatlan terhelését.
+2025-02-27 15:11:58,006 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:02,948 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:03,678 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:03,684 - INFO - Kérdés feldolgozása: A törlesztés szüneteltetés ideje meghosszabbítja a hitel futamidejét, így a hitelfelvevõnek fontos tudnia, hogy ez hogyan befolyásolja a havi törlesztõrészleteit és a teljes visszafizetendõ összeget.
+2025-02-27 15:12:04,014 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:06,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:06,794 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:06,800 - INFO - Kérdés feldolgozása: Nem, a CSOK Plusz Lakáshitel minimum futamideje 10 év, így 9 évre nem igényelhetõ.
+2025-02-27 15:12:07,056 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:08,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:08,429 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:08,435 - INFO - Kérdés feldolgozása: Igen
+2025-02-27 15:12:08,649 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:10,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:10,655 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:10,660 - INFO - Kérdés feldolgozása: A nettó jövedelem mértéke befolyásolja, hogy a jövedelem hány százaléka fordítható a forinthitel törlesztésére. 600 ezer Ft alatt 50%-a, míg afelett 60%-a használható fel a törlesztésre, így a magasabb nettó jövedelem kedvezõbb feltételeket teremt a hitel igényléséhez.
+2025-02-27 15:12:10,981 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:13,772 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:14,172 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:14,180 - INFO - Kérdés feldolgozása: Igen, a Bank kizárólag jövedelemvizsgálat mellett nyújt kölcsönt.
+2025-02-27 15:12:14,398 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:16,018 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:16,390 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:16,397 - INFO - Kérdés feldolgozása: A babaváró hitel igénybevételéhez a házaspárnak vállalnia kell gyermekek születését, és a szerzõdésben meghatározott határidõn belül kell teljesíteniük ezt a vállalást.
+2025-02-27 15:12:16,693 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:19,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:20,304 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:20,312 - INFO - Kérdés feldolgozása: Ha a gyermek nem születik meg a határidõig, a kamattámogatás megszûnik, és a házaspárnak vissza kell fizetnie az igénybe vett kamattámogatás összegét a jegybanki alapkamat emelt mértékével.
+2025-02-27 15:12:20,530 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:24,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:24,668 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:24,677 - INFO - Kérdés feldolgozása: Ha nem igazolják a házasság felbontását 60 napon belül, akkor a kamattámogatás visszafizetése a jegybanki alapkamat 5%-kal megemelt mértékével történik.
+2025-02-27 15:12:25,004 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:27,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:28,082 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:28,091 - INFO - Kérdés feldolgozása: Igen, tényleg lehet igényelni a Babaváró hitel mellett CSOK Plusz hitelt is.
+2025-02-27 15:12:28,449 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:30,362 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:30,687 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:30,691 - INFO - Kérdés feldolgozása: Elõször is, tájékozódj a szükséges dokumentumokról, majd töltsd ki a megfelelõ igénylõlapokat, és nyújtsd be õket a bankhoz.
+2025-02-27 15:12:30,905 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:39,429 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:39,863 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:39,873 - INFO - Kérdés feldolgozása: A folyósítás akkor kezdhetõ meg, ha a támogatott személy a hitelintézeti kölcsönön kívül saját forrásait már felhasználta az új lakás építésére, vásárlására vagy a meglévõ lakás bõvítésére.
+2025-02-27 15:12:40,153 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:43,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:43,323 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:43,330 - INFO - Kérdés feldolgozása: A dokumentumok listája letölthetõ a Gránit Bank honlapjáról.
+2025-02-27 15:12:43,674 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:45,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:45,898 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:45,904 - INFO - Kérdés feldolgozása: Ebben az esetben a törlesztés összegére jutó kamattámogatást egy összegben vissza kell fizetni.
+2025-02-27 15:12:46,128 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:54,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:55,587 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:55,596 - INFO - Kérdés feldolgozása: A kölcsönfelvevõ bármikor kérheti a hitel részleges vagy teljes elõtörlesztését, amit írásban kell bejelentenie a GRÁNIT Bank felé. A bank 5 munkanapon belül ad tájékoztatást az elõtörlesztésrõl, és a díjat a mindenkori Hirdetmény tartalmazza.
+2025-02-27 15:12:55,852 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:58,655 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:12:58,873 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:12:58,883 - INFO - Kérdés feldolgozása: Lakossági hitellel kapcsolatos kérdésedet a jelzaloghitel@granitbank.hu e-mail címen teheted fel, ahol kollégáink 1 munkanapon belül válaszolnak.
+2025-02-27 15:12:59,125 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:00,415 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:00,744 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:00,752 - INFO - Kérdés feldolgozása: Lakáscélú kölcsönök esetében a bank az ingatlan forgalmi értékének 80%-áig nyújt kölcsönt.
+2025-02-27 15:13:01,048 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:03,001 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:03,223 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:03,229 - INFO - Kérdés feldolgozása: Gyorsan igényelheted a folyószámlahitelt, ha a NetBank/Postaláda/Szabad formátumú levél menüpontban írod meg az igénylést, majd a szükséges dokumentumokat postai úton küldöd el vagy személyesen adod le a bankfiókban.
+2025-02-27 15:13:03,624 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:06,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:06,627 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:06,633 - INFO - Kérdés feldolgozása: Igen, a tõketartozást a 25. hónaptól kezdve kell visszafizetni.
+2025-02-27 15:13:06,995 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:08,528 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:08,915 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:08,921 - INFO - Kérdés feldolgozása: A maximális hitelösszeg kiszámításához szükséged van a jövedelmedre, a meglévõ tartozásaidra és a hitelintézet által meghatározott hitelfeltételekre. Ezen adatok alapján a bank vagy pénzintézet meg tudja határozni, hogy mekkora hitelösszegre vagy jogosult.
+2025-02-27 15:13:09,250 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:12,504 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:12,741 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:12,748 - INFO - Kérdés feldolgozása: Az örökbefogadást engedélyezõ határozatnak a kölcsönkérelem benyújtását követõen kell véglegessé válnia.
+2025-02-27 15:13:12,982 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:14,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:14,861 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:14,867 - INFO - Kérdés feldolgozása: A Babaváró Hitel elõnyei közé tartozik, hogy az elsõ gyermek születése után a hitel kamatmentes marad, a második gyermek születésekor a tartozás 30%-a elengedésre kerül, míg a harmadik gyermek születésekor a teljes fennmaradó tartozás elengedésre kerül.
+2025-02-27 15:13:16,109 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:20,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:20,946 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:20,951 - INFO - Kérdés feldolgozása: A babát a születést követõ 180 napon belül kell bejelenteni a bank részére.
+2025-02-27 15:13:21,186 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:27,379 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:27,847 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:27,853 - INFO - Kérdés feldolgozása: A jelzáloghitel kalkulációjához meg kell adni a hitelösszeget, a tervezett futamidõt, a jövedelmet és a havi törlesztõrészletet.
+2025-02-27 15:13:28,174 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:32,037 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:32,270 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:32,277 - INFO - Kérdés feldolgozása: A jogosultságot a bank állapítja meg a kérelem alapján, ezért érdemes felvenni a kapcsolatot a bankkal, ahol a hitelt felvetted, és érdeklõdni a lehetõségekrõl.
+2025-02-27 15:13:32,593 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:35,071 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:35,315 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:35,322 - INFO - Kérdés feldolgozása: A házaspár kamattámogatása megszûnik, és a már igénybe vett kamattámogatás összegét a házasság felbontásának idõpontjától a Banknál történõ igazolás napjáig a jegybanki alapkamat 5 százalékponttal megemelt mértékével növelten vissza kell fizetni.
+2025-02-27 15:13:35,602 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:37,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:38,189 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:38,253 - INFO - Kérdés feldolgozása: Ha a gyerekek nem születnek meg az elõírt határidõn belül, a kamattámogatás megszûnik, és vissza kell fizetni a már igénybe vett támogatást a megemelt kamattal.
+2025-02-27 15:13:38,638 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:40,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:41,156 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:41,165 - INFO - Kérdés feldolgozása: Ha a házastársad a kölcsön folyósításától számított 5 éven belül meghal, akkor az özvegy a halotti anyakönyvi kivonat kiállítását követõ 180 napon belül benyújtott kérelemmel biztosíthatja, hogy a Babaváró hitel kamatmentes maradjon, és a korábban igénybe vett kamattámogatást sem kell visszafizetni.
+2025-02-27 15:13:41,602 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:48,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:49,017 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:49,023 - INFO - Kérdés feldolgozása: Az építési költségvetést úgy kell kitölteni, hogy te magad összegyûjtöd az adatokat, és a kivitelezõ segítségével elkészíted.
+2025-02-27 15:13:49,245 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:51,134 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:51,906 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:51,912 - INFO - Kérdés feldolgozása: Igen
+2025-02-27 15:13:52,128 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:53,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:13:53,834 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:13:53,843 - INFO - Kérdés feldolgozása: A Babaváró hitel igényléséhez elõször is szükséges, hogy megfelelj a hitel feltételeinek, majd a szükséges dokumentumokat benyújtva, a kiválasztott pénzintézethez kell fordulnod.
+2025-02-27 15:13:54,116 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:00,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:00,709 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:00,718 - INFO - Kérdés feldolgozása: Az elsõ folyósításnak a szerzõdéskötéstõl számított 90 napon belül kell megtörténnie.
+2025-02-27 15:14:00,939 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:02,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:03,060 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:03,069 - INFO - Kérdés feldolgozása: Elõször is, ellenõrizd, hogy megfelelsz-e a bank hitelképességi feltételeinek. Ezután gyõzõdj meg arról, hogy az ingatlan, amit fedezetként ajánlasz, megfelel a bank követelményeinek. Továbbá, minden szükséges tulajdonostárs vagy aláíró is fogadja el az ingatlan terhelését. Végül érdemes konzultálni a bankkal a konkrét feltételek és szükséges dokumentumok ügyében.
+2025-02-27 15:14:03,497 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:09,651 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:10,049 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:10,054 - INFO - Kérdés feldolgozása: A Gránit Banknál a hitelkiváltás feltételei változhatnak, ezért érdemes a részleteket a bank hivatalos weboldalán megnézni, ahol pontos információkat találhatsz.
+2025-02-27 15:14:10,356 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:11,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:14,999 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:15,007 - INFO - Kérdés feldolgozása: A 10 millió forintos hitelhez a Babaváró Támogatott Kölcsön vagy a Szabad felhasználású jelzáloghitel lehet megfelelõ választás.
+2025-02-27 15:14:15,327 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:19,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:20,045 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:20,053 - INFO - Kérdés feldolgozása: A kölcsön folyósításának idejét befolyásolhatja a hitelkérelem hiánytalan befogadása, a hitelbírálat idõtartama, valamint a folyósítási feltételek benyújtásának gyorsasága.
+2025-02-27 15:14:20,380 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:25,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:25,347 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:25,353 - INFO - Kérdés feldolgozása: A CSOK Plusz Lakáshitel összege a gyermekek számától függ: 1 gyermek esetén maximum 15 millió Ft, 2 gyermek esetén maximum 30 millió Ft, 3 gyermek esetén maximum 50 millió Ft igényelhetõ.
+2025-02-27 15:14:25,564 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:28,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:28,477 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:28,484 - INFO - Kérdés feldolgozása: Az Ügyfélkapu biztosítja a hivatalos és biztonságos kommunikációt az ügyfél és a NAV között, így a beküldött kérelmek gyorsabban és megbízhatóbban kerülnek feldolgozásra.
+2025-02-27 15:14:28,722 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:31,589 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:31,916 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:31,925 - INFO - Kérdés feldolgozása: A Gránit bank központi fiókja a 1095 Budapest, Lechner ödön fasor 8. I. em. alatt található.
+2025-02-27 15:14:32,185 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:34,233 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:34,463 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:34,468 - INFO - Kérdés feldolgozása: Babaváró hitelt igényelhetsz digitális ügyfélfiókon keresztül, személyesen a bank fiókjában, vagy postai úton.
+2025-02-27 15:14:34,782 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:45,005 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:45,479 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:45,488 - INFO - Kérdés feldolgozása: További fedezet felajánlásával a hitelösszeg növelhetõ, így az önerõ kiváltható, ami segíthet a hitelhez jutásban és a kedvezõbb feltételek elérésében.
+2025-02-27 15:14:45,830 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:48,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:48,714 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:48,718 - INFO - Kérdés feldolgozása: Igen, ha a feleség már betöltötte a 41. életévét, akkor a terhességnek meg kell haladnia a 12. hetet ahhoz, hogy igényelhessétek a CSOK Plusz Lakáshitelt.
+2025-02-27 15:14:48,947 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:50,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:51,003 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:51,012 - INFO - Kérdés feldolgozása: Fontos, hogy a házaspárok együttesen igényeljék a kölcsönt, mert így mindketten támogatott személlyé válnak, és a rendszer nem engedi meg, hogy más adós szerepeljen a kölcsönszerzõdésben.
+2025-02-27 15:14:51,444 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:52,950 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:53,600 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:53,607 - INFO - Kérdés feldolgozása: A CSOK Plusz lakáshitelt új és használt lakás vásárlására, új lakás építésére, valamint meglévõ használt lakás bõvítésére lehet igényelni.
+2025-02-27 15:14:53,954 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:55,641 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:55,848 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:55,857 - INFO - Kérdés feldolgozása: Igen.
+2025-02-27 15:14:56,057 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:58,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:14:58,422 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:14:58,429 - INFO - Kérdés feldolgozása: A Babaváró kamattámogatott kölcsön nem ingatlanhoz kapcsolódik.
+2025-02-27 15:14:58,769 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:00,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:00,429 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:00,439 - INFO - Kérdés feldolgozása: A Babaváró hitel kamattámogatását vissza kell fizetni, ha az igénylés után 5 éven belül nem születik meg az elsõ gyermek, ha egyikõtök sem rendelkezik magyarországi lakcímmel, vagy ha a házasságot felbontjátok.
+2025-02-27 15:15:00,805 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:03,128 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:03,397 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:03,402 - INFO - Kérdés feldolgozása: Nem
+2025-02-27 15:15:03,762 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:05,107 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:05,338 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:05,345 - INFO - Kérdés feldolgozása: A jelzáloghitel közjegyzõi díját a közjegyzõi díjszabás szerint határozzák meg, és a pontos összeget a közjegyzõ az adott ügylet alapján állapítja meg.
+2025-02-27 15:15:05,650 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:07,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:08,033 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:08,040 - INFO - Kérdés feldolgozása: A második és minden további gyermek érkezésekor 10-10 millió forint gyermekvállalási támogatásra vagytok jogosultak.
+2025-02-27 15:15:08,343 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:10,841 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:11,073 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:11,080 - INFO - Kérdés feldolgozása: Az összeggel a fennálló hitel tartozásotok csökken, tehát elõtörlesztésre kerül.
+2025-02-27 15:15:11,277 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:36,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:36,663 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:36,673 - INFO - Kérdés feldolgozása: A CSOK Plusz Lakáshitel minimum 10 évre, maximum 25 évre igényelhetõ, és a törlesztés szüneteltetése esetén ez a futamidõ meghosszabbodik.
+2025-02-27 15:15:36,879 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:39,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:39,876 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:39,885 - INFO - Kérdés feldolgozása: Jelenleg a Gránit Banknál nem érhetõ el személyi kölcsön termék.
+2025-02-27 15:15:40,216 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:43,512 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:43,723 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:43,731 - INFO - Kérdés feldolgozása: Elõször is, gyõzõdjön meg arról, hogy a felajánlott ingatlan megfelel a bank által támasztott követelményeknek. Ezután vegye fel a kapcsolatot a hitelezõvel, és tájékozódjon a szükséges lépésekrõl és dokumentumokról.
+2025-02-27 15:15:44,039 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:54,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:55,016 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:55,022 - INFO - Kérdés feldolgozása: A jövedelemigazolás fontos, mert segít a banknak felmérni a hitelfelvevõ pénzügyi helyzetét és képességét a kölcsön visszafizetésére.
+2025-02-27 15:15:55,351 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:57,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:15:58,224 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:15:58,230 - INFO - Kérdés feldolgozása: A NAV jövedelemigazolást Ügyfélkapun keresztül igényelheted. Elõször telepítsd az ÁNYK programot, majd válaszd az Adatok / Új nyomtatvány / IGAZOL sablont, töltsd ki, és a jövedelem fülre kattintva add meg az adatokat. Ezután jelöld meg elektronikus beküldésre, és küldd be az ügyfélkapun keresztül. A sikeres beküldés után email értesítést kapsz, és az igazolást letöltheted az ügyfélkapus tárhelyedrõl.
+2025-02-27 15:15:58,594 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:02,146 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:02,468 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:02,475 - INFO - Kérdés feldolgozása: A lakossági hitellel kapcsolatos kérdéseidet a jelzaloghitel@granitbank.hu e-mail címen várják, és kollégák 1 munkanapon belül válaszolnak.
+2025-02-27 15:16:02,738 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:04,883 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:05,100 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:05,105 - INFO - Kérdés feldolgozása: A GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön már nem elérhetõ hiteltermék.
+2025-02-27 15:16:05,428 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:06,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:07,175 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:07,184 - INFO - Kérdés feldolgozása: Érdemes átgondolni a pénzügyi helyzetedet és a jövõbeli terveidet. Ha biztos vagy benne, hogy hosszú távon ott maradsz, a maximális idõszak választása segíthet a kisebb havi törlesztõrészletek elérésében.
+2025-02-27 15:16:07,400 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:09,789 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:10,006 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:10,016 - INFO - Kérdés feldolgozása: A kölcsönrészletek felhasználását a Bank ingatlan felülvizsgálat keretében ellenõrzi.
+2025-02-27 15:16:10,230 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:13,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:13,508 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:13,513 - INFO - Kérdés feldolgozása: A CSOK Plusz hitelen kívül igénybe veheted az adó-visszatérítési támogatást, az Otthonteremtési Kamattámogatású Hitelt és a Babaváró kölcsönt is.
+2025-02-27 15:16:13,833 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:15,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:16,234 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:16,240 - INFO - Kérdés feldolgozása: A folyósítás a vásárlás esetén az eladó számlájára történik, miután a támogatott személy a hitelintézeti kölcsönön kívül saját forrásait már felhasználta.
+2025-02-27 15:16:16,585 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:18,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:18,371 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:18,378 - INFO - Kérdés feldolgozása: Igen
+2025-02-27 15:16:18,779 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:20,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:20,801 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:20,809 - INFO - Kérdés feldolgozása: A CSOK Plusz Hitelprogram keretében maximum 50 millió Ft kamattámogatott kölcsönt lehet felvenni.
+2025-02-27 15:16:21,351 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:23,759 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:24,137 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:24,146 - INFO - Kérdés feldolgozása: A legkönnyebben a NetBankon keresztül tudod igényelni, ahol meg kell írnod az igénylést, és utána megkapod a szükséges dokumentumokat.
+2025-02-27 15:16:24,511 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:26,360 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:16:26,690 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:16:26,710 - INFO - Teszt eredmények elmentve: test_results.json
+2025-02-27 15:18:34,905 - INFO - Kérdés feldolgozása: Hogyan lehet igényelni a folyószámlahitelt a Gránit Banknál?
+2025-02-27 15:18:35,517 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:20:44,800 - INFO - Kérdés feldolgozása: Hogyan lehet igényelni a folyószámlahitelt a Gránit Banknál?
+2025-02-27 15:20:45,283 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:20:52,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:20:52,874 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:20:52,883 - INFO - Kérdés feldolgozása: Milyen lépéseken keresztül zajlik a hiteligénylés folyamata a Gránit Banknál?
+2025-02-27 15:20:53,207 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:20:58,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:20:58,953 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:20:58,958 - INFO - Kérdés feldolgozása: Tudnál mesélni a GRÁNIT Otthonfelújítási Kamattámogatott Kölcsönrõl?
+2025-02-27 15:20:59,242 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:05,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:05,969 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:05,973 - INFO - Kérdés feldolgozása: Mekkora a GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön éves kamata?
+2025-02-27 15:21:06,199 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:08,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:08,677 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:08,684 - INFO - Kérdés feldolgozása: Milyen lehetõségeim vannak a hiteligényléshez való segítségkérésre?
+2025-02-27 15:21:08,973 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:11,741 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:12,301 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:12,309 - INFO - Kérdés feldolgozása: Hova írhatok, ha kérdésem van a jelzáloghitelrõl?
+2025-02-27 15:21:12,531 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:13,787 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:14,109 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:14,117 - INFO - Kérdés feldolgozása: Igényelheti a CSOK Plusz Lakáshitelt egyedül is a feleség?
+2025-02-27 15:21:14,341 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:16,807 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:17,139 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:17,145 - INFO - Kérdés feldolgozása: Milyen feltételek kellenek a CSOK Plusz Lakáshitelhez?
+2025-02-27 15:21:17,346 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:23,177 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:23,642 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:23,652 - INFO - Kérdés feldolgozása: Miért fontos, hogy a NAV jövedelemigazolás nem lehet régebbi 30 napnál?
+2025-02-27 15:21:23,887 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:26,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:26,274 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:26,281 - INFO - Kérdés feldolgozása: Automatikusan szüneteltethetõ a Babaváró hitel törlesztése?
+2025-02-27 15:21:26,629 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:29,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:29,879 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:29,887 - INFO - Kérdés feldolgozása: Milyen dokumentumokat kell mellékelni a hiteltörlesztés szüneteltetési kérelmhez?
+2025-02-27 15:21:30,590 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:34,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:34,822 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:34,829 - INFO - Kérdés feldolgozása: Ha a feleség már 41 éves, de terhes, akkor is igényelhetjük a CSOK Plusz Lakáshitelt? Mi van, ha a terhesség még nem haladja meg a 12. hetet?
+2025-02-27 15:21:35,050 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:37,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:38,268 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:38,277 - INFO - Kérdés feldolgozása: Miért fontos, hogy a házastársak együttesen igényeljék a kölcsönt, és mi történik, ha valaki más is szerepelne a szerzõdésben?
+2025-02-27 15:21:38,558 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:41,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:41,599 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:41,607 - INFO - Kérdés feldolgozása: Mennyi idõnk van igényelni a CSOK Plusz Lakáshitelt, ha a feleség már 41 éves?
+2025-02-27 15:21:41,914 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:44,042 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:44,480 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:44,488 - INFO - Kérdés feldolgozása: Mennyi a CSOK Plusz Lakáshitel minimális futamideje?
+2025-02-27 15:21:44,691 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:45,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:46,048 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:46,053 - INFO - Kérdés feldolgozása: Miért nem elérhetõ már a GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön?
+2025-02-27 15:21:46,435 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:48,176 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:48,507 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:48,515 - INFO - Kérdés feldolgozása: Milyen támogatott hiteleket lehet még igénybe venni a CSOK Plusz hitelen kívül?
+2025-02-27 15:21:48,898 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:50,322 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:50,587 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:50,596 - INFO - Kérdés feldolgozása: Nekem nem világos, hogy milyen dokumentumokra van szükség az MFB Pont Plusz igényléséhez. Tudnál segíteni ebben?
+2025-02-27 15:21:50,889 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:59,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:21:59,475 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:21:59,484 - INFO - Kérdés feldolgozása: Hogyan tudom online benyújtani az MFB Pont Plusz támogatási kérelmet?
+2025-02-27 15:21:59,756 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:01,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:01,350 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:01,359 - INFO - Kérdés feldolgozása: Hol tudok segítséget kérni a Gránit Banknál a hiteligényléshez?
+2025-02-27 15:22:01,589 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:05,361 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:05,597 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:05,606 - INFO - Kérdés feldolgozása: Milyen módon tudok érdeklõdni a jelzáloghitelrõl?
+2025-02-27 15:22:05,907 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:07,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:07,395 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:07,402 - INFO - Kérdés feldolgozása: Hogyan tudom bejelenteni az elõtörlesztési szándékomat?
+2025-02-27 15:22:07,756 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:09,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:09,782 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:09,793 - INFO - Kérdés feldolgozása: Hogyan igényelhetõ a Babaváró hitel?
+2025-02-27 15:22:10,033 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:14,588 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:15,017 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:15,026 - INFO - Kérdés feldolgozása: Szóval, ha kitöltöm a építési költségvetést, akkor az már jó is a banknak?
+2025-02-27 15:22:15,334 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:19,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:20,012 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:20,017 - INFO - Kérdés feldolgozása: Milyen módon lehet igazolni a magyar TB jogviszonyt a Babaváró hitelhez?
+2025-02-27 15:22:20,464 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:23,195 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:23,405 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:23,412 - INFO - Kérdés feldolgozása: Mennyi idõ alatt kapom meg a CSOK Pluszt?
+2025-02-27 15:22:23,639 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:25,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:26,057 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:26,067 - INFO - Kérdés feldolgozása: Mik a CSOK Plusz folyósítási feltételei?
+2025-02-27 15:22:26,506 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:34,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:35,276 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:35,286 - INFO - Kérdés feldolgozása: Hogyan igényelhetem a CSOK Pluszt?
+2025-02-27 15:22:35,502 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:44,127 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:44,441 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:44,446 - INFO - Kérdés feldolgozása: Miért fontos, hogy a hitelbírálat maximum 10 munkanapig tartson a Babaváró hitel esetében?
+2025-02-27 15:22:44,788 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:46,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:47,109 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:47,117 - INFO - Kérdés feldolgozása: Mennyire egyszerû online igényelni a babaváró hitelt?
+2025-02-27 15:22:47,335 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:49,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:49,965 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:49,974 - INFO - Kérdés feldolgozása: Milyen feltételeknek kell megfelelnie ahhoz, hogy jogosult legyek jelzálog alapú hitelre a válás után?
+2025-02-27 15:22:50,309 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:56,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:22:57,360 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:22:57,365 - INFO - Kérdés feldolgozása: Elég bonyolultnak tûnik az MFB Pont Plusz igénylése, nem tudod, hogy milyen lépéseket kell követni pontosan?
+2025-02-27 15:22:57,782 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:00,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:00,942 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:00,950 - INFO - Kérdés feldolgozása: Miért lehet elõnyös, ha a digitális hiteligénylés után díjmentesen kérhetjük a tulajdoni lapot?
+2025-02-27 15:23:01,273 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:03,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:03,702 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:03,711 - INFO - Kérdés feldolgozása: Mikor határozzák meg a devizában meghatározott nettó jövedelem forintösszegét?
+2025-02-27 15:23:04,122 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:06,924 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:07,150 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:07,157 - INFO - Kérdés feldolgozása: A deviza bevételt az MNB árfolyamon számolják?
+2025-02-27 15:23:07,432 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:12,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:12,587 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:12,596 - INFO - Kérdés feldolgozása: Mikor kezdhetõ meg a folyósítás a támogatott személy esetében?
+2025-02-27 15:23:12,931 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:14,187 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:14,419 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:14,427 - INFO - Kérdés feldolgozása: Hogyan történik a folyósítás vásárlás esetén?
+2025-02-27 15:23:14,632 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:18,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:18,622 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:18,630 - INFO - Kérdés feldolgozása: Mennyi a maximális vételár, ha elõször vásárolok lakást CSOK Plusz Lakáshitel segítségével?
+2025-02-27 15:23:18,903 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:19,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:20,141 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:20,146 - INFO - Kérdés feldolgozása: Igényelheti a CSOK Plusz Lakáshitelt egyedül is valaki?
+2025-02-27 15:23:20,375 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:21,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:21,970 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:21,976 - INFO - Kérdés feldolgozása: Ha nem tudom letölteni a Gránit Bank jövedelemigazolást, akkor mit tegyek?
+2025-02-27 15:23:22,193 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:24,428 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:24,658 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:24,664 - INFO - Kérdés feldolgozása: Milyen biztosíték szükséges, ha a hiteligénylõ betölti a 75. életévét?
+2025-02-27 15:23:24,916 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:25,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:26,087 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:26,096 - INFO - Kérdés feldolgozása: Tudnál mesélni arról, hogy milyen életkori korlátok vannak a hitel igénylésénél?
+2025-02-27 15:23:26,303 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:31,631 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:23:32,033 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:23:32,042 - INFO - Kérdés feldolgozása: Milyen lépéseket kell követni a lakáshitel igénylés során?
+2025-02-27 15:23:32,249 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:26,887 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:27,286 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:27,293 - INFO - Kérdés feldolgozása: Milyen lehetõségek vannak a Babaváró hitel igénylésére a Gránit banknál?
+2025-02-27 15:25:27,606 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:33,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:33,927 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:33,932 - INFO - Kérdés feldolgozása: Hol tudom benyújtani a Babaváró hitel kérelmemet?
+2025-02-27 15:25:34,172 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:37,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:38,073 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:38,078 - INFO - Kérdés feldolgozása: Milyen bevételt kell megadni társas vállalkozásból?
+2025-02-27 15:25:38,388 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:40,133 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:40,421 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:40,431 - INFO - Kérdés feldolgozása: Hogyan tudom felhasználni a Babaváró hitelt önerõként lakáshitel igénylésénél?
+2025-02-27 15:25:40,714 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:42,222 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:42,634 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:42,643 - INFO - Kérdés feldolgozása: Milyen tényezõk befolyásolhatják a babaváró hitel bírálati idejét, és hogyan hat ez a folyósításra?
+2025-02-27 15:25:42,899 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:51,143 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:51,472 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:51,480 - INFO - Kérdés feldolgozása: Mennyi idõ alatt kapom meg a babaváró hitelt, ha minden rendben van?
+2025-02-27 15:25:51,776 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:53,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:54,172 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:54,179 - INFO - Kérdés feldolgozása: Hogyan tehetek fel kérdést lakossági hitellel kapcsolatban?
+2025-02-27 15:25:56,068 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:57,311 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:25:57,575 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:57,578 - INFO - Kérdés feldolgozása: Mennyi gyermekvállalási támogatásra lehetek jogosult a második gyermektõl kezdve?
+2025-02-27 15:25:58,095 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:25:59,712 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:00,036 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:00,042 - INFO - Kérdés feldolgozása: Tudnál mesélni arról, hogy hogyan csökkenti a gyermekvállalási támogatás a hitel tartozást?
+2025-02-27 15:26:00,441 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:04,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:04,723 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:04,729 - INFO - Kérdés feldolgozása: Hol található a Bank által elfogadott települések listája?
+2025-02-27 15:26:04,967 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:06,382 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:06,583 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:06,588 - INFO - Kérdés feldolgozása: Hogyan adható be végtörlesztési kérelem?
+2025-02-27 15:26:06,830 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:13,172 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:13,468 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:13,472 - INFO - Kérdés feldolgozása: Azt hallottam, hogy a CSOK Plusz hitelnél 25 év a maximális törlesztési idõ, de mi van, ha valaki nem tudja ezt a hosszú távú elkötelezõdést vállalni? Milyen lehetõségek vannak ilyenkor?
+2025-02-27 15:26:13,769 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:16,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:16,251 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:16,329 - INFO - Kérdés feldolgozása: Hogyan kell benyújtani a számlákat az építési költségvetéshez?
+2025-02-27 15:26:16,575 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:19,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:19,659 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:19,667 - INFO - Kérdés feldolgozása: Ha nem tudom beszerezni az összes szükséges dokumentumot, akkor mi a teendõm?
+2025-02-27 15:26:19,988 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:23,088 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:23,316 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:23,320 - INFO - Kérdés feldolgozása: Szükséges a munkáltatói jövedelemigazolás, ha a jövedelem csoportos jóváírással érkezik?
+2025-02-27 15:26:23,806 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:26,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:26,585 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:26,594 - INFO - Kérdés feldolgozása: Miért fontos, hogy a jelzáloghitel igényléshez a megfelelõ dokumentumokat benyújtsuk?
+2025-02-27 15:26:27,139 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:33,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:33,556 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:33,559 - INFO - Kérdés feldolgozása: Lehetõség van a kölcsönkérelemhez szükséges nyomtatványok ügyfélszolgálaton való átvételére?
+2025-02-27 15:26:34,015 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:36,237 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:36,557 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:36,565 - INFO - Kérdés feldolgozása: Hol találom a jelzáloghitel igényléshez szükséges dokumentumokat?
+2025-02-27 15:26:36,913 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:42,794 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:43,588 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:43,596 - INFO - Kérdés feldolgozása: Miért fontos, hogy a havi törlesztõ részletek összegét egy Adósra jutóan adjuk meg, ha több hitelünk van?
+2025-02-27 15:26:43,832 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:47,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:47,338 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:47,346 - INFO - Kérdés feldolgozása: Tényleg csak kamatot kell fizetni az elsõ 24 hónapban?
+2025-02-27 15:26:47,670 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:48,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:49,156 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:49,165 - INFO - Kérdés feldolgozása: A tõketörlesztés a 22. hónaptól kezdõdik?
+2025-02-27 15:26:49,374 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:51,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:52,039 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:52,045 - INFO - Kérdés feldolgozása: Ha nem tudom bevonni az ingatlan tulajdonosait, akkor mi a teendõm a lakáshitel igénylésével?
+2025-02-27 15:26:52,358 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:55,955 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:26:56,286 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:26:56,292 - INFO - Kérdés feldolgozása: Milyen dokumentumokat kell összegyûjtenem, ha osztatlan tulajdonú ingatlant szeretnék vásárolni?
+2025-02-27 15:26:56,658 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:01,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:01,372 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:01,376 - INFO - Kérdés feldolgozása: Miért szükséges a havi rendszeres jövedelem igazolása jelzáloghitel felvételéhez?
+2025-02-27 15:27:01,706 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:04,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:04,741 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:04,746 - INFO - Kérdés feldolgozása: Mennyi pénz kell, hogy simán megkapjam a hitelt?
+2025-02-27 15:27:05,033 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:06,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:06,953 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:06,961 - INFO - Kérdés feldolgozása: Milyen jövedelem alapján határozzák meg a folyószámlahitel keretét?
+2025-02-27 15:27:07,277 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:08,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:09,259 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:09,268 - INFO - Kérdés feldolgozása: Mi történik, ha a hitelbírálat pozitív eredménnyel zárul?
+2025-02-27 15:27:09,540 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:12,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:13,000 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:13,003 - INFO - Kérdés feldolgozása: Milyen típusú kölcsönöket lehet kiváltani a Gránit Banknál?
+2025-02-27 15:27:13,485 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:15,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:15,837 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:15,842 - INFO - Kérdés feldolgozása: Ki adja át az energetikai tanúsítványt adásvétel esetén?
+2025-02-27 15:27:16,046 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:17,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:18,222 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:18,231 - INFO - Kérdés feldolgozása: Milyen következményekkel járhat, ha a hitelösszeg és a fedezetül felajánlott ingatlan forgalmi értéke nem megfelelõ arányban áll egymással?
+2025-02-27 15:27:18,545 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:22,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:23,232 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:23,240 - INFO - Kérdés feldolgozása: Milyen életkorú feleség igényelheti a Babaváró hitelt 2024-ben?
+2025-02-27 15:27:23,719 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:26,549 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:26,817 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:26,822 - INFO - Kérdés feldolgozása: Hogyan nyithatok bankszámlát a Babaváró hitel igényléséhez?
+2025-02-27 15:27:27,028 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:29,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:29,727 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:29,734 - INFO - Kérdés feldolgozása: Milyen feltételek mellett igényelhetõ a babaváró hitel?
+2025-02-27 15:27:29,980 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:40,167 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:40,487 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:40,497 - INFO - Kérdés feldolgozása: Ha nem születik meg a vállalt gyermek, akkor mi lesz a hitellel? Kicsit félek, hogy ez problémát okozhat.
+2025-02-27 15:27:40,835 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:43,155 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:43,371 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:43,381 - INFO - Kérdés feldolgozása: Hogyan lehet kiváltani egy másik banknál lévõ személyi kölcsönt Gránit Bank-i jelzáloghitellel?
+2025-02-27 15:27:43,592 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:45,792 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:46,238 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:46,249 - INFO - Kérdés feldolgozása: Ha ikreim születnek, akkor hogyan befolyásolja ez a babváró hitel törlesztését?
+2025-02-27 15:27:46,550 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:49,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:50,160 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:50,168 - INFO - Kérdés feldolgozása: Hogyan igényelhetek folyószámlahitelt nettó 385.660 Ft munkabérrel?
+2025-02-27 15:27:50,373 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:55,072 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:55,314 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:55,323 - INFO - Kérdés feldolgozása: Miért szükséges a havi rendszeres jövedelem igazolása a jelzáloghitel felvételéhez?
+2025-02-27 15:27:55,533 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:58,254 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:27:58,580 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:27:58,614 - INFO - Kérdés feldolgozása: Mennyi pénz kell, hogy megkapjam a hitelt?
+2025-02-27 15:27:58,944 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:28:00,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:28:00,814 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:28:00,820 - INFO - Kérdés feldolgozása: Hogyan lehet igényelni a CSOK Plusz hitelt?
+2025-02-27 15:28:01,053 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:29:40,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:29:41,632 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:29:41,641 - INFO - Kérdés feldolgozása: Nem tudom, hol találjak egy hiteles energetikai szakembert, aki elkészíti a tanúsítványt. Van valami tipped?
+2025-02-27 15:29:57,670 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:10,815 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:11,317 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:11,326 - INFO - Kérdés feldolgozása: Hogyan igényelhetek GRÁNIT folyószámlahitelt?
+2025-02-27 15:30:11,968 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:23,544 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:24,335 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:24,396 - INFO - Kérdés feldolgozása: Tudnál mesélni arról, hogy mik a feltételek a CSOK Plusz Lakáshitelhez?
+2025-02-27 15:30:24,750 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:28,994 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:29,441 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:29,448 - INFO - Kérdés feldolgozása: Mi van, ha a CSOK Plusz hitel után elválnak?
+2025-02-27 15:30:29,976 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:35,109 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:35,538 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:35,544 - INFO - Kérdés feldolgozása: Ha nem tudom igazolni a házasság felbontását 60 napon belül, mi történik?
+2025-02-27 15:30:38,600 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:42,173 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:43,108 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:43,113 - INFO - Kérdés feldolgozása: Mik a legfontosabb feltételek a Babaváró Hitelhez?
+2025-02-27 15:30:43,379 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:50,979 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:51,472 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:51,477 - INFO - Kérdés feldolgozása: Milyen feltételeknek kell megfelelnem ahhoz, hogy jogosult legyek jelzálog alapú hitelre a ház árának felének kifizetésére?
+2025-02-27 15:30:51,735 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:57,121 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:30:57,537 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:30:57,547 - INFO - Kérdés feldolgozása: Miért fontos figyelembe venni a törlesztés szüneteltetés idejét a CSOK Plusz Lakáshitel futamidejének meghatározásakor?
+2025-02-27 15:30:58,035 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:00,489 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:01,193 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:01,199 - INFO - Kérdés feldolgozása: Ha a CSOK Plusz Lakáshitel minimum futamideje 10 év, akkor lehet-e 9 évre igényelni?
+2025-02-27 15:31:01,545 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:03,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:03,653 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:03,665 - INFO - Kérdés feldolgozása: Igényelhetõ piaci jelzáloghitel lakásfelújításra?
+2025-02-27 15:31:03,930 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:05,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:05,697 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:05,707 - INFO - Kérdés feldolgozása: Milyen hatással van a nettó jövedelem mértéke a CSOK Plusz igényléséhez szükséges havi jövedelemre?
+2025-02-27 15:31:05,943 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:08,213 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:08,507 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:08,517 - INFO - Kérdés feldolgozása: Tényleg kell jövedelemigazolás a kölcsönhöz?
+2025-02-27 15:31:08,748 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:10,817 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:11,228 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:11,240 - INFO - Kérdés feldolgozása: Milyen feltételek mellett vehetõ igénybe a babaváró hitel?
+2025-02-27 15:31:11,456 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:16,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:16,489 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:16,494 - INFO - Kérdés feldolgozása: Ha nem születik meg a gyerek a határidõig, akkor mi lesz a kamattámogatással?
+2025-02-27 15:31:16,806 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:19,152 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:19,458 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:19,469 - INFO - Kérdés feldolgozása: Ha valaki nem tudja igazolni a házasság felbontását a banknál idõben, mi lesz a következménye?
+2025-02-27 15:31:19,698 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:21,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:22,011 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:22,022 - INFO - Kérdés feldolgozása: Tényleg lehet Babaváró hitel mellett CSOK Plusz hitelt is igényelni?
+2025-02-27 15:31:22,330 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:23,117 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:23,471 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:23,482 - INFO - Kérdés feldolgozása: Hogyan igényelhetem a Babaváró hitelt és a CSOK Plusz hitelt egyszerre?
+2025-02-27 15:31:23,804 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:28,303 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:28,587 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:28,600 - INFO - Kérdés feldolgozása: Mikor kezdhetõ meg a folyósítás a támogatott személy számára?
+2025-02-27 15:31:28,811 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:30,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:30,719 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:30,730 - INFO - Kérdés feldolgozása: Hol találom a jelzáloghitel igényléshez szükséges dokumentumok listáját?
+2025-02-27 15:31:30,998 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:34,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:34,439 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:34,449 - INFO - Kérdés feldolgozása: Mi történik, ha a Babaváró hitelt 5 éven belül végtörlesztjük, de nem születik gyermek a családban?
+2025-02-27 15:31:34,695 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:38,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:39,008 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:39,016 - INFO - Kérdés feldolgozása: Hogy mûködik az elõtörlesztés a banknál?
+2025-02-27 15:31:39,245 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:45,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:46,124 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:46,136 - INFO - Kérdés feldolgozása: Hogyan tehetem fel a kérdésemet lakossági hitellel kapcsolatban?
+2025-02-27 15:31:46,363 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:48,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:48,547 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:48,554 - INFO - Kérdés feldolgozása: Mennyi pénzt kaphatok, ha ingatlant vásárolok a banktól?
+2025-02-27 15:31:48,873 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:50,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:50,666 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:50,673 - INFO - Kérdés feldolgozása: Hogy lehet gyorsan igényelni a folyószámlahitelt a Gránit banknál?
+2025-02-27 15:31:50,888 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:53,023 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:53,333 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:53,341 - INFO - Kérdés feldolgozása: A tõketartozást a 25. hónaptól kell elkezdeni visszafizetni?
+2025-02-27 15:31:53,555 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:55,324 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:31:55,653 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:31:55,665 - INFO - Kérdés feldolgozása: Hogyan tudom kiszámítani a maximális hitelösszeget?
+2025-02-27 15:31:55,891 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:02,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:02,776 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:02,783 - INFO - Kérdés feldolgozása: Milyen feltételnek kell teljesülnie ahhoz, hogy egy örökbefogadott gyermek után is érvényesíthetõ legyen a Babaváró hitel kedvezménye?
+2025-02-27 15:32:03,169 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:04,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:04,940 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:04,950 - INFO - Kérdés feldolgozása: Milyen elõnyöket nyújt a Babaváró Hitel, ha gyerekek születnek?
+2025-02-27 15:32:05,615 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:30,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:30,746 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:30,753 - INFO - Kérdés feldolgozása: Mikor kell bejelenteni a babát a banknak?
+2025-02-27 15:32:31,070 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:32,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:32,912 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:32,922 - INFO - Kérdés feldolgozása: Milyen információkra van szükség a jelzáloghitel kalkulációjához?
+2025-02-27 15:32:33,250 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:39,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:40,076 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:40,088 - INFO - Kérdés feldolgozása: Ha nem tudom, hogy jogosult vagyok-e a törlesztés szüneteltetésére, mit tegyek?
+2025-02-27 15:32:40,296 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:43,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:43,739 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:43,750 - INFO - Kérdés feldolgozása: Milyen következményekkel járhat a babaváró kölcsön szempontjából, ha a házaspár nem teljesíti a gyermekvállalást a házasság felbontása elõtt?
+2025-02-27 15:32:43,962 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:47,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:48,032 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:48,039 - INFO - Kérdés feldolgozása: Mi van, ha nem jönnek össze a gyerekek a határidõre?
+2025-02-27 15:32:48,281 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:50,873 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:51,221 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:51,232 - INFO - Kérdés feldolgozása: a Babaváró hitel miatt aggódom, hogy mi történik, ha a házastársam meghal, akkor hogyan tudom biztosítani, hogy a hitel kamatmentes maradjon?
+2025-02-27 15:32:51,504 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:55,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:32:56,197 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:32:56,208 - INFO - Kérdés feldolgozása: Hogyan kell kitölteni az építési költségvetést?
+2025-02-27 15:32:56,519 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:00,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:00,891 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:00,905 - INFO - Kérdés feldolgozása: Kell a kivitelezõ segítsége az építési költségvetés kitöltéséhez?
+2025-02-27 15:33:01,196 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:03,897 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:04,257 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:04,263 - INFO - Kérdés feldolgozása: Hogyan igényelhetem a Babaváró hitelt?
+2025-02-27 15:33:04,485 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:08,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:08,432 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:08,439 - INFO - Kérdés feldolgozása: Mikor kell megtörténnie az elsõ folyósításnak?
+2025-02-27 15:33:08,713 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:09,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:09,856 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:09,866 - INFO - Kérdés feldolgozása: Hogyan tudok hitelt felvenni a szüleim házának felújítására?
+2025-02-27 15:33:10,217 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:11,935 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:12,276 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:12,280 - INFO - Kérdés feldolgozása: Szia! Érdekelne, hogy milyen feltételekkel lehet igényelni a hitelkiváltást a Gránit Banknál, mert nem tudom, hogy ez nekem megfelelõ lenne-e?
+2025-02-27 15:33:12,616 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:14,705 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:14,974 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:14,983 - INFO - Kérdés feldolgozása: Milyen hitelt érdemes választanom, ha 10 millió forintot szeretnék felvenni?
+2025-02-27 15:33:15,312 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:21,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:22,279 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:22,291 - INFO - Kérdés feldolgozása: Milyen tényezõk befolyásolhatják a kölcsön folyósításának idejét a Gránit Banknál?
+2025-02-27 15:33:22,547 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:26,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:26,533 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:26,538 - INFO - Kérdés feldolgozása: Mennyi pénzt lehet kérni a CSOK Plusz Lakáshitelbõl?
+2025-02-27 15:33:29,032 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:29,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:30,331 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:30,343 - INFO - Kérdés feldolgozása: Miért fontos, hogy a NAV köztartozásmentes igazolást az Ügyfélkapun keresztül igényeljük és ne más módon?
+2025-02-27 15:33:30,619 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:39,232 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:39,573 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:39,584 - INFO - Kérdés feldolgozása: Hol található a Gránit bank központi fiókja?
+2025-02-27 15:33:39,810 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:40,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:41,205 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:41,217 - INFO - Kérdés feldolgozása: Milyen módon tudom igényelni a Babaváró hitelt?
+2025-02-27 15:33:41,527 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:45,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:45,725 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:45,735 - INFO - Kérdés feldolgozása: Milyen elõnyökkel járhat, ha valaki további fedezetet ajánl fel a hitelhez?
+2025-02-27 15:33:46,105 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:49,631 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:49,959 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:49,969 - INFO - Kérdés feldolgozása: Ha a feleség már 41 éves, de terhes, akkor is igényelhetjük a CSOK Pluszt? Mi van, ha a terhesség nem haladja meg a 12. hetet?
+2025-02-27 15:33:50,333 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:52,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:52,491 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:52,499 - INFO - Kérdés feldolgozása: Miért fontos, hogy a házaspárok együttesen igényeljék a kölcsönt, és mi történik, ha valaki más is szerepel a szerzõdésben?
+2025-02-27 15:33:52,779 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:56,443 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:56,701 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:56,710 - INFO - Kérdés feldolgozása: Mire lehet használni a CSOK Plusz lakáshitelt?
+2025-02-27 15:33:57,216 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:58,252 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:33:58,534 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:33:58,545 - INFO - Kérdés feldolgozása: Szükséges visszafizetni a kamattámogatást, ha nem születik meg gyermek?
+2025-02-27 15:33:59,116 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:02,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:03,078 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:03,085 - INFO - Kérdés feldolgozása: Melyik hitelprogram nem ingatlanhoz kapcsolódik a Gránit Banknál?
+2025-02-27 15:34:07,092 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:08,442 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:08,761 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:08,772 - INFO - Kérdés feldolgozása: Hogyan kell visszafizetni a Babaváró hitel kamattámogatását?
+2025-02-27 15:34:09,005 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:13,779 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:14,114 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:14,126 - INFO - Kérdés feldolgozása: Szükséges visszafizetni a kamattámogatást, ha megszületik az elsõ gyermek?
+2025-02-27 15:34:14,523 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:16,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:16,988 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:16,995 - INFO - Kérdés feldolgozása: Hogyan állapítják meg a jelzáloghitel közjegyzõi díját?
+2025-02-27 15:34:17,325 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:19,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:19,310 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:19,316 - INFO - Kérdés feldolgozása: Mennyi gyermekvállalási támogatás jár a második és további gyermekek után?
+2025-02-27 15:34:19,569 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:20,929 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:21,396 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:21,407 - INFO - Kérdés feldolgozása: Mire használható fel a gyermekvállalási támogatás?
+2025-02-27 15:34:21,627 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:25,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:26,254 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:26,265 - INFO - Kérdés feldolgozása: Mennyi idõre lehet felvenni a CSOK Plusz Lakáshitelt?
+2025-02-27 15:34:26,572 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:28,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:29,048 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:29,057 - INFO - Kérdés feldolgozása: Elérhetõ a személyi kölcsön a Gránit Banknál?
+2025-02-27 15:34:29,274 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:29,843 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:30,186 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:30,196 - INFO - Kérdés feldolgozása: Hogyan ajánlhatok fel másik ingatlant jelzálogfedezetként lakásvásárláskor?
+2025-02-27 15:34:30,509 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:33,833 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:34:34,218 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:34,230 - INFO - Kérdés feldolgozása: Miért fontos a jövedelemigazolás a kölcsön felvételéhez?
+2025-02-27 15:34:34,560 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:34:41,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:35:52,021 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 502 Bad Gateway"
+2025-02-27 15:35:52,024 - INFO - Retrying request to /embeddings in 0.448040 seconds
+2025-02-27 15:35:52,989 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:35:52,995 - INFO - Kérdés feldolgozása: Hogyan kell beszereznem a NAV jövedelemigazolást?
+2025-02-27 15:35:53,215 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:35:58,177 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:35:58,473 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:35:58,484 - INFO - Kérdés feldolgozása: Hova írhatok, ha kérdésem van a lakossági hitellel kapcsolatban?
+2025-02-27 15:35:59,170 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:03,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:04,242 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:04,254 - INFO - Kérdés feldolgozása: Mikor vált elérhetetlenné a GRÁNIT Otthonfelújítási Kamattámogatott Kölcsön?
+2025-02-27 15:36:04,606 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:06,015 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:06,271 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:06,277 - INFO - Kérdés feldolgozása: Ha a lakáshitelhez 25 év a maximális törlesztési idõ, de én nem tudom, hogy mennyi idõre lenne szükségem, mit javasolsz, hogyan döntsök?
+2025-02-27 15:36:06,521 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:11,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:11,554 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:11,560 - INFO - Kérdés feldolgozása: Milyen ellenõrzés van a kölcsönrészletek felhasználásánál?
+2025-02-27 15:36:11,806 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:14,228 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:14,483 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:14,494 - INFO - Kérdés feldolgozása: Ha már igénybe vettem a CSOK Plusz hitelt, akkor milyen más támogatott lehetõségeim vannak, amik segíthetnek a költségeim csökkentésében?
+2025-02-27 15:36:14,767 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:17,412 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:17,769 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:17,781 - INFO - Kérdés feldolgozása: Hogyan történik a folyósítás egy lakás vásárlásakor?
+2025-02-27 15:36:18,091 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:21,592 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:22,366 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:22,372 - INFO - Kérdés feldolgozása: A Babaváró Hitel igényelhetõ lakásvásárlásra?
+2025-02-27 15:36:22,589 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:24,636 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:24,883 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:24,893 - INFO - Kérdés feldolgozása: Mennyi a maximálisan felvehetõ kölcsön összege a CSOK Plusz Hitelprogram keretében?
+2025-02-27 15:36:25,158 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:26,248 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:26,616 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:26,622 - INFO - Kérdés feldolgozása: Hogy lehet a legkönnyebben igényelni a folyószámlahitelt?
+2025-02-27 15:36:26,830 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:29,349 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-27 15:36:29,686 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-02-27 15:36:29,724 - INFO - Teszt eredmények elmentve: test_results.json
+2025-02-27 15:41:40,471 - INFO - Kérdés feldolgozása: Hogyan lehet igényelni a folyószámlahitelt a Gránit Banknál?
+2025-02-27 15:41:43,806 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
