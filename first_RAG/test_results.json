@@ -1,0 +1,133 @@
+{
+    "results": [
+        {
+            "query_id": "0",
+            "query": "Milyen hitelek érhetőek el a banknál",
+            "gt_answer": "",
+            "response": "A Gránit Banknál elérhető hitelek a következők:\n\n- Ingatlant terhelő zálogjoggal biztosított kölcsön\n- CSOK Plusz hitelprogram\n- Babaváró kamattámogatott kölcsön\n- Folyószámlahitel (50 000 Ft - 1 000 000 Ft)\n- MFB Pont Plusz Otthonfelújítási Program\n\nTovábbi információkért érdemes meglátogatni a bank hivatalos weboldalát: [Gránit Bank Hitelek](https://granitbank.hu/lakossag/hitelek/).",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": {
+                        "cím": "Milyen lakossági hitelek érhetők el a Gránit Banknál?",
+                        "leírás": "A Gránit Banknál elérhető hitelek:\n\n- Ingatlant terhelő zálogjoggal biztosított kölcsön \n- CSOK Plusz hitelprogram\n- Babaváró kamattámogatott kölcsön\n- Folyószámlahitel (50 000 Ft - 1 000 000 Ft)\n- MFB Pont Plusz Otthonfelújítási Program\n\nHa részletesebb információra van szükséged, jelezd bátran! https://granitbank.hu/lakossag/hitelek/"
+                    }
+                },
+                {
+                    "doc_id": "001",
+                    "text": {
+                        "cím": "Nem tudom kifizetni a tartozásomat. Mi a teendő?",
+                        "leírás": "Bankunk kiemelten fontosnak tartja, hogy az Ügyfelei pénzügyi helyzetének, élethelyzetének megfelelő segítséget nyújtson. Ha nehézséget okoz hitelednek törlesztése, kérjük, nézd meg a megoldási javaslatokat. [Tájékoztató a fizetéskönnyítő megoldásokról](https://granitbank.hu/api/cms/assets/179F1FB8-93C7-4AE1-B35E-7DA60FD62921/Tajekoztato_a_fizeteskonnyito_megoldasokrol.pdf?)"
+                    }
+                },
+                {
+                    "doc_id": "002",
+                    "text": {
+                        "cím": "Milyen formában igényelhetek lakáshitelt a Gránit banknál?",
+                        "leírás": "Lakáshitelt, Lakáshitel és CSOK Plusz hitel együttesen és a  Babaváró hitel a Digitális ügyfélfiókodon keresztül beadható, melyet  regisztrációval tudsz létrehozni. Személyesen a Bank: - Központi Fiókjában \\(1095 Budapest, Lechner ödön fasor 8. I. em. nyitva tartása: H-P: 8:30-16:00\\) - WestEnd Bankfiókban \\(WestEnd City Center I. em. Hild József sétány 24. nyitva tartása: H-P: 10:00-18:00\\) - Postai úton \\(1439 Budapest Pf. 649.\\) "
+                    }
+                },
+                {
+                    "doc_id": "003",
+                    "text": {
+                        "cím": "Szeretnék felvenni 10 millió forint hitelt a Gránit Banknál. Milyen lehetőségeim vannak erre?",
+                        "leírás": "Hiteltermékeink:\n- Babaváró Kölcsön: maximum 11 millió Ft\n- CSOK Plusz Lakáshitel: maximum 50 millió Ft\n- Gránit Lakáshitel \n- Szabadfelhasználású jelzáloghitel\nTovábbi információkért kérjük látogasson el a https://granitbank.hu/lakossag/hitelek/ honlapra."
+                    }
+                },
+                {
+                    "doc_id": "004",
+                    "text": {
+                        "cím": "Milyen formában igényelhetek Babaváró hitelt a Gránit banknál?",
+                        "leírás": "A Babaváró hitel igénylés legegyszerűbben online tehető meg, Digitális Ügyfélfiók létrehozásával. A szerződéskötés is lehetséges online, VideóBankon keresztül. Ezen kívül személyesen a Bank: - Központi Fiókjában \\(1095 Budapest, Lechner ödön fasor 8. I. em. nyitva tartása: H-P: 8:30-16:00\\) - WestEnd Bankfiókban \\(WestEnd City Center I. em. Hild József sétány 24. nyitva tartása: H-P: 10:00-18:00\\) - Postai úton \\(1439 Budapest Pf. 649.\\) "
+                    }
+                }
+            ]
+        },
+        {
+            "query_id": "1",
+            "query": "Bar listások kaphatnak hitelt?",
+            "gt_answer": "",
+            "response": "BAR listás ügyfelek nem kaphatnak hitelt. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szereplő személyek számára a bankok nem nyújtanak hitelt.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": {
+                        "cím": "BAR listás vagyok. Kaphatok hitelt?",
+                        "leírás": "BAR listás személyként nem kaphatsz hitelt"
+                    }
+                },
+                {
+                    "doc_id": "001",
+                    "text": {
+                        "cím": "Kaphatok hitelt, ha nincs bejelentett jövedelmem, mert készpénzben kapom a fizetésem?",
+                        "leírás": "Sajnos hitelt nem áll módunkban nyújtani bejelentett jövedelem igazolása nélkül."
+                    }
+                },
+                {
+                    "doc_id": "002",
+                    "text": {
+                        "cím": "Ki igényelhet jelzáloghitelt?",
+                        "leírás": "\"A hitelt nagykorú, a Gránit Bank számára elfogadható jövedelemmel rendelkező ügyfelek igényelhetik, akik a Bank hitelbírálati és adósminősítési feltételeinek megfelelnek. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szerepelő ügyfelek nem vehetnek fel hitelt. A hiteligénylő házastársa, ill. élettársa a hitelkérelembe adóstársként bevonásra kerül. A fedezetül felajánlott ingatlanok tulajdonosai zálogkötelezettként kerülnek a hitelkérelembe bevonásra.\""
+                    }
+                },
+                {
+                    "doc_id": "003",
+                    "text": {
+                        "cím": "Szeretnék felvenni 10 millió forint hitelt a Gránit Banknál. Milyen lehetőségeim vannak erre?",
+                        "leírás": "Hiteltermékeink:\n- Babaváró Kölcsön: maximum 11 millió Ft\n- CSOK Plusz Lakáshitel: maximum 50 millió Ft\n- Gránit Lakáshitel \n- Szabadfelhasználású jelzáloghitel\nTovábbi információkért kérjük látogasson el a https://granitbank.hu/lakossag/hitelek/ honlapra."
+                    }
+                },
+                {
+                    "doc_id": "004",
+                    "text": {
+                        "cím": "Garázsra lehet felvenni hitelt?",
+                        "leírás": "A garázs nem minősül lakóingatlannak, így arra önállóan jelzáloghitel nem felvehető."
+                    }
+                }
+            ]
+        },
+        {
+            "query_id": "2",
+            "query": "van korhatári megkötés a nyugdíjasok hiteleinél?",
+            "gt_answer": "",
+            "response": "A megadott információk között nincs kifejezetten a nyugdíjasok hitelkérelméről vagy hiteligénylési korhatárukról szó. Az említett források főként a Babaváró hitel és annak igénylésére vonatkozó feltételekről szólnak, amelyek a fiatalabb házaspárokra vonatkoznak. \n\nÁltalánosságban elmondható, hogy a hiteligényléskor a fő szempontok között szerepel a hitelt kérő személy életkora és jövedelmi helyzete, de a nyugdíjasok konkrét helyzete nem került említésre. Érdemes a választott pénzintézetnél érdeklődni a nyugdíjasok által igényelhető hitelek feltételeiről.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": {
+                        "cím": "Babaváró hitel: Kérhető-e az 5 év alatt az állam által megfizetett kamattámogatás teljes összegének elengedése?",
+                        "leírás": "\"Igen, a kérelmet a kormányhivatalhoz lehet benyújtani. A kormányhivatal a benyújtott kérelem alapján hatósági eljárásban, méltányosságból felmentést engedélyezhet, ha az egyik igénylő elhalálozik az egyik igénylőnek megváltozik a munkaképessége a házaspár egészségügyi szempontból nem tudta teljesíteni a gyermekvállalást\""
+                    }
+                },
+                {
+                    "doc_id": "001",
+                    "text": {
+                        "cím": "Melyek a Babaváró Hitel igénylés feltételei?",
+                        "leírás": "\"Olyan házaspárok igényelhetik, ahol mindkét fél betöltötte a 23. életévét, és a feleség még nem töltötte be a 30. életévét (2024-ben 12. hetet betöltött várandósság esetén 30-41 életkor között is igényelhető) Az igénylők magyarországi lakcímmel rendelkeznek. Legalább az egyik fél legalább 3 éve folyamatos TB jogviszonnyal rendelkezik. Egyik félnek sincs NAV köztartozása. Mindkét fél büntetlen előéletű. Egyik félnek sincs a KHR-ben nyilvántartott nemfizetés miatti tartozása. A háztartás a hitel törlesztésére elegendő jövedelemmel rendelkezik.\""
+                    }
+                },
+                {
+                    "doc_id": "002",
+                    "text": {
+                        "cím": "Ki igényelhet jelzáloghitelt?",
+                        "leírás": "\"A hitelt nagykorú, a Gránit Bank számára elfogadható jövedelemmel rendelkező ügyfelek igényelhetik, akik a Bank hitelbírálati és adósminősítési feltételeinek megfelelnek. A Központi Hitelinformációs Rendszer (KHR) negatív adóslistáján szerepelő ügyfelek nem vehetnek fel hitelt. A hiteligénylő házastársa, ill. élettársa a hitelkérelembe adóstársként bevonásra kerül. A fedezetül felajánlott ingatlanok tulajdonosai zálogkötelezettként kerülnek a hitelkérelembe bevonásra.\""
+                    }
+                },
+                {
+                    "doc_id": "003",
+                    "text": {
+                        "cím": "Mi számít Babaváró hitel szempontjából gyereknek?",
+                        "leírás": "Babaváró hitel szempontjából gyereknek számít a kölcsönkérelem benyújtása utáni időszakban a 12. hetét betöltött magzat. Az örökbefogadott gyermek(ek) után is érvényesíthető a kedvezmény, amennyiben az örökbefogadást engedélyező határozat a kölcsönkérelem benyújtását követően válik véglegessé."
+                    }
+                },
+                {
+                    "doc_id": "004",
+                    "text": {
+                        "cím": "# Babaváró hitel\n\nKérhető-e méltányosság az 5 év alatt az állam által megfizetett kamattámogatás visszafizetésére?",
+                        "leírás": "Igen, a kamattámogatás részletekben történő visszafizetésére a kormányhivatal méltányosságból 24 havi részletfizetést engedélyezhet, ha az egyösszegű visszafizetés aránytalanul súlyos terhet jelentene részetekre."
+                    }
+                }
+            ]
+        }
+    ]
+}
