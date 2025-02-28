@@ -21,27 +21,31 @@ def search_chroma(query, top_k=7):
 
 def ask_chatbot(user_query):
     """A chatbot megkeresi a releváns információkat, majd LLM segítségével választ generál."""
-    retrieved_text, search_results = search_chroma(user_query, top_k=5)
+    retrieved_text, search_results = search_chroma(user_query, top_k=7)
 
     print(user_query)
 
     content = [f"{item['cím']} - {item['leírás']}" for item in search_results["metadatas"][0]]
     print(content)
 
-    prompt = f"""Használj releváns információkat az alábbi szövegből a válaszhoz:
+    prompt = f"""Használj releváns információkat az alábbi szövegből a válaszhoz. A válasz legyen tömör és lényegre törő. Ne legyen több mint 3 mondat a felsorolásokat kivéve. 
+    Abban az esetben ha valami egy mondattal is megválaszolható törekedj arra hogy úgy válaszold meg pl ha valami nem elérhető akkor csak azt add vissza hogy a termék nem elérhető
+    Mindig csak a kérdésre válaszolj a kérdést nem kell absztraktan értelmezned és addícionális információt adnod. Figyelj az egyértelmű egyszerű információ átadására ami megválaszolja a kérdést
+     
 
-    --- Források ---
-    {content}
-    ----------------
+        --- Források ---  
+        {content}  
+        ----------------  
 
-    Kérdés: {user_query}
+        Kérdés: {user_query}  
 
-    Adj pontos és érthető választ a fenti információk alapján."""
+        Adj pontos választ rövid mondatokkal vagy bulletpointokkal. Ne adj extra magyarázatot, csak a lényeges információt.  
+    """
 
     response = openai.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "Te egy segítőkész AI vagy, amely információt keres és összegzi."},
+            {"role": "system", "content": "Te a Gránit bank asszisztense vagy és segíted az ügyfeleket az ügyeik intézésével úgy hogy információt keresel és összegzve ezeket átadod."},
             {"role": "user", "content": prompt}
         ]
     )
