@@ -23,8 +23,7 @@ def ask_chatbot(user_query):
     """A chatbot megkeresi a releváns információkat, majd LLM segítségével választ generál."""
     retrieved_text, search_results = search_chroma(user_query, top_k=5)
 
-    print("Talált dokumentumok a ChromaDB-ben:")
-    print(retrieved_text)
+    print(user_query)
 
     content = [f"{item['cím']} - {item['leírás']}" for item in search_results["metadatas"][0]]
     print(content)
