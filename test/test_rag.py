@@ -33,7 +33,7 @@ def load_questions_and_answers(excel_file="C:/Users/device/Desktop/work/Projects
     return questions, gt_answers
 
 
-def run_tests(output_file="results_prompt_change3.json"):
+def run_tests(output_file="results_roadmap_query1.json"):
     # Kérdések és válaszok betöltése
     questions, gt_answers = load_questions_and_answers()
 
@@ -45,7 +45,8 @@ def run_tests(output_file="results_prompt_change3.json"):
         response_text = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
-                response_text = ask_chatbot(question) # A chatbot válasza
+
+                retrieved_text, response_text = ask_chatbot(question) # A chatbot válasza
                 print(response_text)
                 break  # Ha sikeres, kilépünk a retry ciklusból
             except Exception as e:
@@ -56,14 +57,14 @@ def run_tests(output_file="results_prompt_change3.json"):
         if response_text is None:
             response_text = "Error: Nem sikerült választ generálni"
 
-        retrieved_text, search_results = search_chroma(question, top_k=7)
 
         retrieved_context = []
-        for i, doc in enumerate(search_results["metadatas"][0]):
+        for i, doc in enumerate(retrieved_text):
             retrieved_context.append({
                 "doc_id": f"{i:03}",
                 "text": doc
             })
+        print(retrieved_context)
 
         results.append({
             "query_id": str(idx),

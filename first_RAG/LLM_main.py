@@ -7,4 +7,5 @@ if __name__ == "__main__":
         user_input = input("Kérdés: ")
         if user_input.lower() in ["kilépés", "exit", "stop"]:
             break
-        print("\nChatbot válasz:", ask_chatbot(user_input), "\n")
+        content, answer = ask_chatbot(user_input)
+        print("\nChatbot válasz:", answer, "\n")

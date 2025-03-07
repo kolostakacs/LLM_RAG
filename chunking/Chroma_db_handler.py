@@ -40,6 +40,22 @@ def load_chunks_to_chroma(collection, json_path="chunks_with_embeddings.json"):
         )
     print("Embedding-ek sikeresen betöltve a ChromaDB-be!")
 
+def search_chroma(query, top_k=5):
+    """Keresés a ChromaDB-ben egy adott kérdésre és releváns dokumentumok visszaadása."""
+    chroma_client = init_chroma_client()
+    collection = get_collection(chroma_client)
+    results = collection.query(
+        query_texts=[query],
+        n_results=top_k
+    )
+
+    if results["documents"]:
+        retrieved_docs = "\n\n".join(results["documents"][0])
+    else:
+        retrieved_docs = "Nem találtunk releváns információt."
+
+    return retrieved_docs, results
+
 
 def snapshot_collection(collection, limit=5):
     snapshot = collection.get(include=["embeddings", "metadatas", "documents"])
