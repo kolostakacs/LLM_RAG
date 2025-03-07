@@ -1,53 +1,51 @@
+from query_translation.query_translation_methods import (
+    generate_roadmap,
+    stepwise_search_and_answer,
+    final_decision_maker,
+    generate_subqueries,
+    multi_search_chroma,
+)
 import openai
-from chunking.Chroma_db_handler import init_chroma_client, get_collection
 
 
-chroma_client = init_chroma_client()
-collection = get_collection(chroma_client)
+'''
+Ez a step-by step generáláshoz kapcsolódik
+def ask_chatbot(user_query):
+    """Az új roadmap-alapú chatbot kérdésfeldolgozása."""
+    roadmap_steps = generate_roadmap(user_query)  # 🔹 1. Roadmap generálása
+    accumulated_answers, context_history = stepwise_search_and_answer(roadmap_steps)  # 🔹 2. Lépésenkénti keresés
+    content, final_response = final_decision_maker(user_query, roadmap_steps, context_history)  # 🔹 3. Döntéshozás
 
-def search_chroma(query, top_k=7):
-    """Keresés a ChromaDB-ben és releváns dokumentumok visszaadása."""
-    results = collection.query(
-        query_texts=[query],
-        n_results=top_k
-    )
-
-    if results["documents"]:
-        retrieved_docs = "\n\n".join(results["documents"][0])
-    else:
-        retrieved_docs = "Nem találtunk releváns információt."
-
-    return retrieved_docs, results
+    return content, final_response
+'''
 
 def ask_chatbot(user_query):
-    """A chatbot megkeresi a releváns információkat, majd LLM segítségével választ generál."""
-    retrieved_text, search_results = search_chroma(user_query, top_k=7)
+    """A chatbot először három al-kérdésre bontja a kérést, majd az ezekre kapott keresési eredményekkel válaszol."""
+    subqueries = generate_subqueries(user_query)
+    retrieved_text = multi_search_chroma(subqueries)
 
-    print(user_query)
+    prompt = f"""Használj releváns információkat az alábbi szövegből a válaszhoz. A válasz legyen tömör és lényegre törő. Ne legyen több mint 3 mondat a felsorolásokat kivéve.
+    Ha valami egy mondattal is megválaszolható, törekedj arra, hogy úgy válaszold meg. 
+    Mindig csak a kérdésre válaszolj, ne adj addicionális információt. 
 
-    content = [f"{item['cím']} - {item['leírás']}" for item in search_results["metadatas"][0]]
-    print(content)
+    --- Források ---  
+    {retrieved_text}  
+    ----------------  
 
-    prompt = f"""Használj releváns információkat az alábbi szövegből a válaszhoz. A válasz legyen tömör és lényegre törő. Ne legyen több mint 3 mondat a felsorolásokat kivéve. 
-    Abban az esetben ha valami egy mondattal is megválaszolható törekedj arra hogy úgy válaszold meg pl ha valami nem elérhető akkor csak azt add vissza hogy a termék nem elérhető
-    Mindig csak a kérdésre válaszolj a kérdést nem kell absztraktan értelmezned és addícionális információt adnod. Figyelj az egyértelmű egyszerű információ átadására ami megválaszolja a kérdést
-     
+    Kérdés: {user_query}  
 
-        --- Források ---  
-        {content}  
-        ----------------  
-
-        Kérdés: {user_query}  
-
-        Adj pontos választ rövid mondatokkal vagy bulletpointokkal. Ne adj extra magyarázatot, csak a lényeges információt.  
+    Adj pontos választ rövid mondatokkal vagy bulletpointokkal. Ne adj extra magyarázatot, csak a lényeges információt.  
     """
 
     response = openai.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
-            {"role": "system", "content": "Te a Gránit bank asszisztense vagy és segíted az ügyfeleket az ügyeik intézésével úgy hogy információt keresel és összegzve ezeket átadod."},
+            {"role": "system",
+             "content": "Te a Gránit bank asszisztense vagy, és segíted az ügyfeleket az ügyeik intézésében úgy, hogy információt keresel és összegzed."},
             {"role": "user", "content": prompt}
         ]
     )
 
-    return response.choices[0].message.content
+    return retrieved_text, response.choices[0].message.content
+    #return response.choices[0].message.content
+
